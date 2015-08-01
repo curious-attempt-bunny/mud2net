@@ -1,0 +1,42 @@
+(ns mud2net.mudtime)
+
+(def reset-atom (atom nil))
+
+(defn reset-data
+  []
+  @reset-atom)
+
+(defn fetch-reset-data
+  []
+  (let [telnet (de.mud.telnet.TelnetWrapper.)]
+    (.connect telnet "mudii.co.uk" 23)
+    (.waitfor telnet "login:")
+    (.send telnet "mudguest")
+    (.waitfor telnet "Hit return.")
+    (.send telnet "")
+    (.waitfor telnet "Option (H for help):")
+    (.send telnet "p")
+    (let [reset-info (.waitfor telnet "By what name shall I call you")]
+      (.send telnet "q")
+      (.waitfor telnet "Option (H for help):")
+      (.send telnet "q")
+      (.disconnect telnet)
+
+      (let [[_ date time] (re-find (re-matcher #"MUD last reset on (.*) at (.*)\." reset-info))
+            date          (str (.substring date 0 3)
+                            (.substring (.toLowerCase date) 3))
+            reset-time    (java.time.ZonedDateTime/parse (str date " " time " Europe/London") (java.time.format.DateTimeFormatter/ofPattern "d-MMM-yyyy HH:mm:ss VV"))
+            reset-number  (Integer/parseInt (last (re-find (re-matcher #"This reset is number (\d+)\." reset-info))))]
+        {:number reset-number :time reset-time}))))
+
+(def pool (java.util.concurrent.ScheduledThreadPoolExecutor. 1))
+
+(.scheduleAtFixedRate
+  pool
+  (fn []
+    (let [data (fetch-reset-data)]
+      (println data)
+      (reset! reset-atom data)))
+  0
+  10
+  (java.util.concurrent.TimeUnit/MINUTES))

@@ -7,6 +7,11 @@
        :headers {"Content-Type" "text/html"}
        :body    "Hallo leute!"})
 
+(defn times [request]
+  {:status  200
+   :headers {"Content-Type" "appl"}
+   :body    "Hallo leute!"})
+
 (defn -main
   []
   (run-jetty handler {:port 3000}))
