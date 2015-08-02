@@ -1,4 +1,4 @@
-$(document).ready(function() {
+function render() {
 
 $('body').append("<svg id=\"visualisation\" width=\"100%\" height=\"5em\" style=\"position: fixed; background-color: #000; bottom:0; left:0; cursor:hand; padding-bottom:5px\"></svg>");
 
@@ -99,4 +99,14 @@ vis.append('svg:path')
   .attr('stroke-width', 1)
   .attr('fill', 'none');
 
-});
+};
+
+function waitForJquery() {
+    if (typeof jQuery !== "undefined" && typeof d3 !== "undefined") {
+        render();
+    } else {
+        setTimeout(waitForJquery, 100);
+    }
+}
+
+waitForJquery();
