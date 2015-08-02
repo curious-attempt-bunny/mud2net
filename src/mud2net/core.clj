@@ -24,6 +24,7 @@
           $(tag).append(reset_number);
           reset_number += 1;
         });
+        $('#last-update').text(\"Last update: \"+new Date(update_time));
        });"]]
      [:body
       [:table
@@ -78,6 +79,7 @@
          [:td {:class "time"}]]
         ]
        ]
+      [:span {:id "last-update" :style "font-size: xx-small;"}]
       ]
      ]))
 
