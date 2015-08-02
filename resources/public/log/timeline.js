@@ -1,5 +1,7 @@
 $(document).ready(function() {
 
+$('body').append("<svg id=\"visualisation\" width=\"100%\" height=\"5em\" style=\"position: fixed; background-color: #000; bottom:0; left:0; cursor:hand; padding-bottom:5px\"></svg>");
+
 var minTimestamp = null;
 var maxTimestamp = null;
 
