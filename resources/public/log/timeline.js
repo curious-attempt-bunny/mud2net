@@ -95,11 +95,13 @@ $('svg').mousemove(function(e) {
   }
 });
 
-vis.append('svg:path')
-  .attr('d', magicLine(magicData))
-  .attr('stroke', 'blue')
-  .attr('stroke-width', 1)
-  .attr('fill', 'none');
+if (d3.max(magicData, function(d) { return d.y; }) > 0) {
+    vis.append('svg:path')
+      .attr('d', magicLine(magicData))
+      .attr('stroke', 'blue')
+      .attr('stroke-width', 1)
+      .attr('fill', 'none');
+}
 
 vis.append('svg:path')
   .attr('d', staminaLine(staminaData))
