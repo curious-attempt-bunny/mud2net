@@ -1,5 +1,5 @@
 (ns mud2net.core
-  (:use ring.adapter.jetty hiccup.core mud2net.mudtime)
+  (:use ring.adapter.jetty ring.middleware.resource hiccup.core mud2net.mudtime)
   (:gen-class))
 
 (defn page
@@ -83,10 +83,13 @@
       ]
      ]))
 
-(defn app [request]
+(defn handler [request]
   {:status  200
    :headers {"Content-Type" "text/html"}
    :body    (html (page))})
+
+(def app
+  (wrap-resource handler "public"))
 
 (def server (run-jetty app {:port 3000}))
 

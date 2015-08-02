@@ -11,7 +11,7 @@ ADD lib lib
 RUN lein deps
 
 ADD src src
-#ADD resources resources
+ADD resources resources
 
 EXPOSE 3000
 CMD ["lein", "run"]
