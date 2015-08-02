@@ -44,6 +44,20 @@ $('span').each(function(k,tag) {
   }
 });
 
+if (magicData.length > 0) {
+  var last = magicData[magicData.length-1];
+  magicData.push({x: maxTimestamp, y: last.y});
+}
+if (staminaData.length > 0) {
+  var last = staminaData[staminaData.length-1];
+  staminaData.push({x: maxTimestamp, y: last.y});
+}
+if (pointsData.length > 0) {
+  var last = pointsData[pointsData.length-1];
+  pointsData.push({x: maxTimestamp, y: last.y});
+}
+
+
 var vis = d3.select('#visualisation');
 var WIDTH = $('svg').width();
 var HEIGHT = $('svg').height();
