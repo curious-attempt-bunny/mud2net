@@ -6,6 +6,8 @@ WORKDIR /project
 
 ADD project.clj ./
 
+ADD lib lib
+
 RUN lein deps
 
 ADD src src
