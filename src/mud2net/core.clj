@@ -6,16 +6,19 @@
   []
   (let [data   (reset-data)
         number (:number data)
+        update (:update data)
         time   (.toEpochSecond (:time data))]
     [:html
      [:head
       [:script {:src "http://code.jquery.com/jquery-2.1.4.js"}]
-      [:script (str "start_time = " (* 1000 time) ";" "\n" "reset_number = " number ";")]
+      [:script (str "start_time = " (* 1000 time) ";" "\n"
+                    "reset_number = " number ";\n"
+                    "update_time = " update ";\n")]
       [:script
        "$(document).ready(function() {
         $('.time').each(function(k,tag) {
           $(tag).append(new Date(start_time).toString());
-          start_time += 107 * 60 * 1000;
+          start_time += (107 * 60 + 5)* 1000;
         });
         $('.number').each(function(k,tag) {
           $(tag).append(reset_number);
