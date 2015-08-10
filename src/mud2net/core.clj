@@ -80,6 +80,8 @@
         ]
        ]
       [:span {:id "last-update" :style "font-size: xx-small;"}]
+      [:p
+       [:a {:href "muddledtimes/site/index.html"} "Muddled Times"]]
       ]
      ]))
 

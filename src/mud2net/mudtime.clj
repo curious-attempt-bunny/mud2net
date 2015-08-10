@@ -26,8 +26,9 @@
        (.disconnect telnet)
 
        (let [[_ date time] (re-find (re-matcher #"MUD last reset on (.*) at (.*)\." reset-info))
-             date (str (.substring date 0 3)
-                       (.substring (.toLowerCase date) 3))
+             pos  (.indexOf date "-")
+             date (str (.substring date 0 (+ pos 2))
+                       (.substring (.toLowerCase date) (+ pos 2)))
              reset-time (java.time.ZonedDateTime/parse (str date " " time " Europe/London") (java.time.format.DateTimeFormatter/ofPattern "d-MMM-yyyy HH:mm:ss VV"))
              reset-number (Integer/parseInt (last (re-find (re-matcher #"This reset is number (\d+)\." reset-info))))]
          {:number reset-number :time reset-time :update (System/currentTimeMillis)}))))

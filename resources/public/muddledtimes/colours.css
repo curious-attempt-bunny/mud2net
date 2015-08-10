@@ -1,0 +1,569 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 7:51:35 Dec 5, 2004 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 6:02:25 Aug 10, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+#inv     {color: #0000a8}
+#prompt  {color: #5454fc}
+#sdesc   {color: #54fc54}
+#ldesc   {color: #00a800}
+#item    {color: #00a8a8}
+#treas   {color: #54fcfc}
+#mob     {color: #a800a8}
+#mort    {color: #a80000}
+#wiz     {color: #fc5454}
+
+#speaker {color: #a85400}
+#msg     {color: #fcfc54}
+
+#fight   {color: #a80000}
+#fhit    {color: #fc5454}
+#fmiss   {color: #a80000}
+#fkill   {color: black; background-color: #a80000}
+#dead    {color: #a80000}
+#spell   {color: #fc5454}
+
+#info    {color: #a8a8a8}
+#rain    {color: #00a800}
+
+#house   {color: white; background-color: #a85400}
+
+#n1      {color: #000000}
+#r1      {color: #a80000}
+#g1      {color: #00a800}
+#y1      {color: #a85400}
+#b1      {color: #0000a8}
+#m1      {color: #a800a8}
+#c1      {color: #00a8a8}
+#w1      {color: #a8a8a8}
+#n2      {color: #545454}
+#r2      {color: #fc5454}
+#g2      {color: #54fc54}
+#y2      {color: #fcfc54}
+#b2      {color: #5454fc}
+#m2      {color: #fc54fc}
+#c2      {color: #54fcfc}
+#w2      {color: #fcfcfc}
+
+pre { color: white; }
+
+ span.nn {
+   background: #000000 !important;
+   color: #000000 !important;
+ }
+ span.rn {
+   background: #000000 !important;
+   color: #C00000 !important;
+ }
+ span.gn {
+   background: #000000 !important;
+   color: #00C000 !important;
+ }
+ span.yn {
+   background: #000000 !important;
+   color: #a85400 !important;
+ }
+ span.bn {
+   background: #000000 !important;
+   color: #0000a8 !important;
+ }
+ span.mn {
+   background: #000000 !important;
+   color: #C000C0 !important;
+ }
+ span.cn {
+   background: #000000 !important;
+   color: #00C0C0 !important;
+ }
+ span.wn {
+   background: #000000 !important;
+   color: #C0C0C0 !important;
+ }
+ span.xnn {
+   background: #000000 !important;
+   color: #808080 !important;
+ }
+ span.xrn {
+   background: #000000 !important;
+   color: #fc5454 !important;
+ }
+ span.xgn {
+   background: #000000 !important;
+   color: #00FF00 !important;
+ }
+ span.xyn {
+   background: #000000 !important;
+   color: #fcfc54 !important;
+ }
+ span.xbn {
+   background: #000000 !important;
+   color: #5454fc !important;
+ }
+ span.xmn {
+   background: #000000 !important;
+   color: #FF00FF !important;
+ }
+ span.xcn {
+   background: #000000 !important;
+   color: #00FFFF !important;
+ }
+ span.xwn {
+   background: #000000 !important;
+   color: #FFFFFF !important;
+ }
+ span.nr {
+   background: #C00000 !important;
+   color: #000000 !important;
+ }
+ span.rr {
+   background: #C00000 !important;
+   color: #C00000 !important;
+ }
+ span.gr {
+   background: #C00000 !important;
+   color: #00C000 !important;
+ }
+ span.yr {
+   background: #C00000 !important;
+   color: #a85400 !important;
+ }
+ span.br {
+   background: #C00000 !important;
+   color: #0000a8 !important;
+ }
+ span.mr {
+   background: #C00000 !important;
+   color: #C000C0 !important;
+ }
+ span.cr {
+   background: #C00000 !important;
+   color: #00C0C0 !important;
+ }
+ span.wr {
+   background: #C00000 !important;
+   color: #C0C0C0 !important;
+ }
+ span.xnr {
+   background: #C00000 !important;
+   color: #808080 !important;
+ }
+ span.xrr {
+   background: #C00000 !important;
+   color: #fc5454 !important;
+ }
+ span.xgr {
+   background: #C00000 !important;
+   color: #00FF00 !important;
+ }
+ span.xyr {
+   background: #C00000 !important;
+   color: #fcfc54 !important;
+ }
+ span.xbr {
+   background: #C00000 !important;
+   color: #5454fc !important;
+ }
+ span.xmr {
+   background: #C00000 !important;
+   color: #FF00FF !important;
+ }
+ span.xcr {
+   background: #C00000 !important;
+   color: #00FFFF !important;
+ }
+ span.xwr {
+   background: #C00000 !important;
+   color: #FFFFFF !important;
+ }
+ span.ng {
+   background: #00C000 !important;
+   color: #000000 !important;
+ }
+ span.rg {
+   background: #00C000 !important;
+   color: #C00000 !important;
+ }
+ span.gg {
+   background: #00C000 !important;
+   color: #00C000 !important;
+ }
+ span.yg {
+   background: #00C000 !important;
+   color: #a85400 !important;
+ }
+ span.bg {
+   background: #00C000 !important;
+   color: #0000a8 !important;
+ }
+ span.mg {
+   background: #00C000 !important;
+   color: #C000C0 !important;
+ }
+ span.cg {
+   background: #00C000 !important;
+   color: #00C0C0 !important;
+ }
+ span.wg {
+   background: #00C000 !important;
+   color: #C0C0C0 !important;
+ }
+ span.xng {
+   background: #00C000 !important;
+   color: #808080 !important;
+ }
+ span.xrg {
+   background: #00C000 !important;
+   color: #fc5454 !important;
+ }
+ span.xgg {
+   background: #00C000 !important;
+   color: #00FF00 !important;
+ }
+ span.xyg {
+   background: #00C000 !important;
+   color: #fcfc54 !important;
+ }
+ span.xbg {
+   background: #00C000 !important;
+   color: #5454fc !important;
+ }
+ span.xmg {
+   background: #00C000 !important;
+   color: #FF00FF !important;
+ }
+ span.xcg {
+   background: #00C000 !important;
+   color: #00FFFF !important;
+ }
+ span.xwg {
+   background: #00C000 !important;
+   color: #FFFFFF !important;
+ }
+ span.ny {
+   background: #a85400 !important;
+   color: #000000 !important;
+ }
+ span.ry {
+   background: #a85400 !important;
+   color: #C00000 !important;
+ }
+ span.gy {
+   background: #a85400 !important;
+   color: #00C000 !important;
+ }
+ span.yy {
+   background: #a85400 !important;
+   color: #a85400 !important;
+ }
+ span.by {
+   background: #a85400 !important;
+   color: #0000a8 !important;
+ }
+ span.my {
+   background: #a85400 !important;
+   color: #C000C0 !important;
+ }
+ span.cy {
+   background: #a85400 !important;
+   color: #00C0C0 !important;
+ }
+ span.wy {
+   background: #a85400 !important;
+   color: #C0C0C0 !important;
+ }
+ span.xny {
+   background: #a85400 !important;
+   color: #808080 !important;
+ }
+ span.xry {
+   background: #a85400 !important;
+   color: #fc5454 !important;
+ }
+ span.xgy {
+   background: #a85400 !important;
+   color: #00FF00 !important;
+ }
+ span.xyy {
+   background: #a85400 !important;
+   color: #fcfc54 !important;
+ }
+ span.xby {
+   background: #a85400 !important;
+   color: #5454fc !important;
+ }
+ span.xmy {
+   background: #a85400 !important;
+   color: #FF00FF !important;
+ }
+ span.xcy {
+   background: #a85400 !important;
+   color: #00FFFF !important;
+ }
+ span.xwy {
+   background: #a85400 !important;
+   color: #FFFFFF !important;
+ }
+ span.nb {
+   background: #0000a8 !important;
+   color: #000000 !important;
+ }
+ span.rb {
+   background: #0000a8 !important;
+   color: #C00000 !important;
+ }
+ span.gb {
+   background: #0000a8 !important;
+   color: #00C000 !important;
+ }
+ span.yb {
+   background: #0000a8 !important;
+   color: #a85400 !important;
+ }
+ span.bb {
+   background: #0000a8 !important;
+   color: #0000a8 !important;
+ }
+ span.mb {
+   background: #0000a8 !important;
+   color: #C000C0 !important;
+ }
+ span.cb {
+   background: #0000a8 !important;
+   color: #00C0C0 !important;
+ }
+ span.wb {
+   background: #0000a8 !important;
+   color: #C0C0C0 !important;
+ }
+ span.xnb {
+   background: #0000a8 !important;
+   color: #808080 !important;
+ }
+ span.xrb {
+   background: #0000a8 !important;
+   color: #fc5454 !important;
+ }
+ span.xgb {
+   background: #0000a8 !important;
+   color: #00FF00 !important;
+ }
+ span.xyb {
+   background: #0000a8 !important;
+   color: #fcfc54 !important;
+ }
+ span.xbb {
+   background: #0000a8 !important;
+   color: #5454fc !important;
+ }
+ span.xmb {
+   background: #0000a8 !important;
+   color: #FF00FF !important;
+ }
+ span.xcb {
+   background: #0000a8 !important;
+   color: #00FFFF !important;
+ }
+ span.xwb {
+   background: #0000a8 !important;
+   color: #FFFFFF !important;
+ }
+ span.nm {
+   background: #C000C0 !important;
+   color: #000000 !important;
+ }
+ span.rm {
+   background: #C000C0 !important;
+   color: #C00000 !important;
+ }
+ span.gm {
+   background: #C000C0 !important;
+   color: #00C000 !important;
+ }
+ span.ym {
+   background: #C000C0 !important;
+   color: #a85400 !important;
+ }
+ span.bm {
+   background: #C000C0 !important;
+   color: #0000a8 !important;
+ }
+ span.mm {
+   background: #C000C0 !important;
+   color: #C000C0 !important;
+ }
+ span.cm {
+   background: #C000C0 !important;
+   color: #00C0C0 !important;
+ }
+ span.wm {
+   background: #C000C0 !important;
+   color: #C0C0C0 !important;
+ }
+ span.xnm {
+   background: #C000C0 !important;
+   color: #808080 !important;
+ }
+ span.xrm {
+   background: #C000C0 !important;
+   color: #fc5454 !important;
+ }
+ span.xgm {
+   background: #C000C0 !important;
+   color: #00FF00 !important;
+ }
+ span.xym {
+   background: #C000C0 !important;
+   color: #fcfc54 !important;
+ }
+ span.xbm {
+   background: #C000C0 !important;
+   color: #5454fc !important;
+ }
+ span.xmm {
+   background: #C000C0 !important;
+   color: #FF00FF !important;
+ }
+ span.xcm {
+   background: #C000C0 !important;
+   color: #00FFFF !important;
+ }
+ span.xwm {
+   background: #C000C0 !important;
+   color: #FFFFFF !important;
+ }
+ span.nc {
+   background: #00C0C0 !important;
+   color: #000000 !important;
+ }
+ span.rc {
+   background: #00C0C0 !important;
+   color: #C00000 !important;
+ }
+ span.gc {
+   background: #00C0C0 !important;
+   color: #00C000 !important;
+ }
+ span.yc {
+   background: #00C0C0 !important;
+   color: #a85400 !important;
+ }
+ span.bc {
+   background: #00C0C0 !important;
+   color: #0000a8 !important;
+ }
+ span.mc {
+   background: #00C0C0 !important;
+   color: #C000C0 !important;
+ }
+ span.cc {
+   background: #00C0C0 !important;
+   color: #00C0C0 !important;
+ }
+ span.wc {
+   background: #00C0C0 !important;
+   color: #C0C0C0 !important;
+ }
+ span.xnc {
+   background: #00C0C0 !important;
+   color: #808080 !important;
+ }
+ span.xrc {
+   background: #00C0C0 !important;
+   color: #fc5454 !important;
+ }
+ span.xgc {
+   background: #00C0C0 !important;
+   color: #00FF00 !important;
+ }
+ span.xyc {
+   background: #00C0C0 !important;
+   color: #fcfc54 !important;
+ }
+ span.xbc {
+   background: #00C0C0 !important;
+   color: #5454fc !important;
+ }
+ span.xmc {
+   background: #00C0C0 !important;
+   color: #FF00FF !important;
+ }
+ span.xcc {
+   background: #00C0C0 !important;
+   color: #00FFFF !important;
+ }
+ span.xwc {
+   background: #00C0C0 !important;
+   color: #FFFFFF !important;
+ }
+ span.nw {
+   background: #C0C0C0 !important;
+   color: #000000 !important;
+ }
+ span.rw {
+   background: #C0C0C0 !important;
+   color: #C00000 !important;
+ }
+ span.gw {
+   background: #C0C0C0 !important;
+   color: #00C000 !important;
+ }
+ span.yw {
+   background: #C0C0C0 !important;
+   color: #a85400 !important;
+ }
+ span.bw {
+   background: #C0C0C0 !important;
+   color: #0000a8 !important;
+ }
+ span.mw {
+   background: #C0C0C0 !important;
+   color: #C000C0 !important;
+ }
+ span.cw {
+   background: #C0C0C0 !important;
+   color: #00C0C0 !important;
+ }
+ span.ww {
+   background: #C0C0C0 !important;
+   color: #C0C0C0 !important;
+ }
+ span.xnw {
+   background: #C0C0C0 !important;
+   color: #808080 !important;
+ }
+ span.xrw {
+   background: #C0C0C0 !important;
+   color: #fc5454 !important;
+ }
+ span.xgw {
+   background: #C0C0C0 !important;
+   color: #00FF00 !important;
+ }
+ span.xyw {
+   background: #C0C0C0 !important;
+   color: #fcfc54 !important;
+ }
+ span.xbw {
+   background: #C0C0C0 !important;
+   color: #5454fc !important;
+ }
+ span.xmw {
+   background: #C0C0C0 !important;
+   color: #FF00FF !important;
+ }
+ span.xcw {
+   background: #C0C0C0 !important;
+   color: #00FFFF !important;
+ }
+ span.xww {
+   background: #C0C0C0 !important;
+   color: #FFFFFF !important;
+ }
