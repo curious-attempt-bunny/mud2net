@@ -10,3 +10,4 @@ pom.xml.asc
 .hg/
 .idea/
 mud2net.iml
+**/.DS_Store
