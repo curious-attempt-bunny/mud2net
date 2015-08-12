@@ -1,0 +1,180 @@
+<html>
+<head>
+<title>Muddled Times - Joejitzu the eternal Death of the Month</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<div align="center" style="padding-bottom: 15px;">
+</div>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 29, March 2005</b></td></tr>
+<tr><td align=right>Section:</td><td><b>You've Been Logged</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Joejitzu</span></b></td></tr>
+</table>
+<p>
+<h1>You've Been Logged!</h1>
+<h2>Joejitzu the eternal Death of the Month</h2>
+<p>
+This installment of <i>You've Been Logged</i> brings one of many deaths of Joejitzu. See the <a href="article.fod_IssueId_28_ArticleId_1553">DOTM </a> for a couple more!
+<p>
+Please send your amsuing log extracts to <span class="missing">editor@muddled-times.com</span>. Don't forget! Every log we use is worth 250 points.
+<p>
+<table border=0 cellpadding=15><tr><td>
+<table border=5 cellpadding=5><tr><td BGCOLOR=black>
+<pre>
+<span id="prompt">*</span><span id="sdesc">Small bay</span>.
+<span id="prompt">*</span>n.n.gax mo.qn.s.s
+<span id="sdesc">Steep slope</span>.
+<span id="treas">Fixed into the ground is a weatherworn signpost. </span>
+<span id="prompt">*</span><span id="sdesc">Steep slope</span>.
+<span id="ldesc">You are standing on a steep slope, leading upwards to the north. At the top,
+there levels out a plateau on the top of the rock which is this island. East is
+forest, south and west more wilderness. </span><span id="wizmob">Beating its enormous wings above you is
+an immense, fire-breathing dragon! </span><span id="treas">You espy a beautiful, mid-blue sapphire here.</span>
+<span id="item">Cultivated here is a curious herb. </span>
+<span id="prompt">*</span><span id="fight">The dragon is snarling at you furiously.</span>
+<span id="prompt">*</span>Wolfsbane1 taken.
+Sapphire0 taken.
+<span id="prompt">*</span><span id="info">Looking northward, you see a place known as "<span id="sdesc">ring of stones</span>". It appears to be
+empty.</span>
+<span id="info">Looking eastward, you see a place known as "<span id="sdesc">sloping forest</span>". It contains <span id="item">a tree
+root</span>, <span id="treas">a sickle</span> and <span id="item">a toadstool</span>.</span>
+<span id="info">Looking southward, you see a place known as "<span id="sdesc">steep slope</span>". It contains <span id="treas">a
+signpost</span>.</span>
+<span id="info">Looking westward, you see a place known as "<span id="sdesc">steep slope</span>". It contains <span id="treas">a bell0</span>.</span>
+<span id="info">Looking southeastward, you see a place known as "<span id="sdesc">fairy ring</span>". It appears to be
+empty.</span>
+<span id="info">Looking northwestward, you see a place known as "<span id="sdesc">steep slope</span>". It appears to be
+empty.</span>
+<span id="prompt">*</span>You can't just leave in the middle of a fight! You have to flee!
+<span id="prompt">*</span>You can't just leave in the middle of a fight! You have to flee!
+<span id="prompt">*</span><span id="fhit">The dragon hits you (<span id="y2">85</span>/<span id="g2">119</span>).</span>
+<span id="fmiss">You miss the dragon.</span>
+<span id="prompt">*</span>g bx f cc
+You're already holding the cardboard box0!
+<span id="prompt">*</span><span id="fhit">The dragon hits you (<span id="y2">71</span>/<span id="g2">119</span>).</span>
+<span id="fmiss">You miss the dragon.</span>
+<span id="prompt">*</span>qi
+<span id="info">You are wearing the following:
+ <span id="treas">the cape</span> and <span id="treas">the nightcap</span>.
+You are carrying the following:
+ <span id="item">the wolfsbane1</span>, <span id="item">the chart</span>, <span id="treas">the barometer</span>, <span id="item">the cardboard box0</span>,
+<span id="treas">the firestone0</span>, <span id="item">the axe0</span>, <span id="item">the coracle</span>, <span id="treas">the cross</span> and <span id="treas">the sapphire0</span>.
+ The coracle contains:
+ <span id="treas">the icicle</span>, <span id="item">2 stoppered vials</span>, <span id="treas">the blind brass monkey0</span> and <span id="item">the
+piece of paper</span>.
+ The stoppered vial1 contains:
+ <span id="item">a potion1</span>.
+ The stoppered vial0 contains:
+ <span id="item">a potion0</span>.
+ The cardboard box0 contains:
+ <span id="item">the mandrake0</span>, <span id="mob">the hedgehog</span> and <span id="item">2 wafers</span>.</span>
+<span id="prompt">*</span>l
+<span id="sdesc">Steep slope</span>.
+<span id="ldesc">You are standing on a steep slope, leading upwards to the At the top, there
+levels out a plateau on the top of the rock which is this island. East is
+forest, south and west more wilderness. </span><span id="wizmob">Beating its enormous wings above you is
+an immense, fire-breathing dragon! </span>
+<span id="prompt">*</span><span id="fmiss">The dragon misses you.</span>
+<span id="fmiss">You miss the dragon.</span>
+<span id="prompt">*</span>eat wf
+MMMmmm..! It tasted delicious!
+(Persona saved on +1 = <span id="g1">53,170</span>).
+You feel better already.
+Your stamina is <span id="g1">103</span>.
+MMMmmm..! It tasted delicious!
+(Persona saved on +0 = <span id="g1">53,170</span>).
+You feel better already.
+Your stamina is <span id="g1">113</span>.
+<span id="prompt">*</span>dp al f o.f o.ga
+You remove the cape.
+You remove the nightcap.
+<span id="prompt">*</span>You cannot go out from here.
+You have changed experience level from warlock to necromancer. You can use
+SUPERFLEE/SUPERQUIT again, until you get back up to warlock...
+(Persona saved on -4,759 = <span id="r1">48,411</span>).
+Sapphire0 dropped.
+Wolfsbane1 dropped.
+Chart dropped.
+Barometer dropped.
+Cardboard box0 dropped.
+Nightcap dropped.
+Key1 dropped.
+Cape dropped.
+Firestone0 dropped.
+Axe0 dropped.
+Coracle dropped.
+Cross dropped.
+<span id="fend">You have fled by trying to go out.</span>
+HAWUMPH! The dragon incinerates you with its fiery breath.
+<span id="prompt">*</span>SSSSssszz...AUGH! Yes, you just got burned...
+(<span id="r1">15</span>/<span id="g2">119</span>).
+Sapphire0 taken.
+Wolfsbane1 taken.
+Chart taken.
+Barometer taken.
+Cardboard box0 taken.
+Nightcap taken.
+Key1 taken.
+Cape taken.
+Firestone0 taken.
+Axe0 taken.
+Coracle taken.
+Cross taken.
+<span id="prompt">*</span>qn
+<span id="info">Looking northward, you see a place known as "<span id="sdesc">ring of stones</span>". It appears to be
+empty.</span>
+<span id="info">Looking eastward, you see a place known as "<span id="sdesc">sloping forest</span>". It contains <span id="item">a tree
+root</span>, <span id="treas">a sickle</span> and <span id="item">a toadstool</span>.</span>
+<span id="info">Looking southward, you see a place known as "<span id="sdesc">steep slope</span>". It contains <span id="treas">a
+signpost</span>.</span>
+<span id="info">Looking westward, you see a place known as "<span id="sdesc">steep slope</span>". It contains <span id="treas">a bell0</span>.</span>
+<span id="info">Looking southeastward, you see a place known as "<span id="sdesc">fairy ring</span>". It appears to be
+empty.</span>
+<span id="info">Looking northwestward, you see a place known as "<span id="sdesc">steep slope</span>". It appears to be
+empty.</span>
+<span id="prompt">*</span><span id="fight">The dragon is snarling at you ominously...</span>
+<span id="prompt">*</span>la
+<span id="speaker">OK, Joejitzu the necromancer <span id="msg">laughs.</span></span>
+<span id="prompt">*</span><span id="fhit">The dragon hits you (<span id="r1">10</span>/<span id="g2">119</span>).</span>
+<span id="fmiss">You miss the dragon.</span>
+<span id="prompt">*</span>ret wp
+You're not strong enough to wield an axe0.
+<span id="prompt">*</span><span id="fhit">The dragon hits you.</span>
+<span id="fkill">You feel your soul fading away...</span>
+<span id="fkill">The dragon has killed you.</span>
+Cross dropped.
+Coracle dropped.
+Axe0 dropped.
+Firestone0 dropped.
+Cape dropped.
+Key1 dropped.
+Nightcap dropped.
+Cardboard box0 dropped.
+Barometer dropped.
+Chart dropped.
+Wolfsbane1 dropped.
+Sapphire0 dropped.
+<span id="dead">Not updating persona.</span>
+</pre>
+</td></tr></table>
+</td></tr></table><p><br clear=all><div align="right">... <a href="issue.fod_IssueId_28">click here</a> to return to the front page.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

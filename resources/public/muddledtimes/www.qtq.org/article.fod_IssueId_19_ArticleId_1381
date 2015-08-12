@@ -1,0 +1,76 @@
+<html>
+<head>
+<title>Muddled Times - From Words to Worlds</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<div align="center" style="padding-bottom: 15px;">
+</div>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 20, February 2003</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Articles</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Theman</span></b></td></tr>
+</table>
+<p>
+<h1>From Words to Worlds</h1>
+<blockquote><h5>Mimesis:<br> 
+Noun.<br>
+ 1. The imitation or representation of aspects of the sensible world, especially human actions, in literature and art.</h5></blockquote>
+<p> 
+It is in a 1996 essay that Roger Giner-Sorolla coins the renown (in certain circles) phrase 'Crimes against Mimesis'; a phrase which refers 
+to "any aspect that breaks the coherence of its fictional world as representation of reality". The argument of Giner-Sorolla on mimesis is 
+specifically referring to the products of the interactive fiction (text adventure) community, but it is clear that his comments do not 
+solely have to be analysed within that context. Mimesis is a key aspect to the success of any medium; perhaps topically it is easiest to 
+demonstrate this immersion by taking a brief look at the success of Tolkien.
+<p>
+The idea always of Tolkien was to create not just a story, but to make that story just a small part of a richly detailed world. His worlds 
+are the epitome of player immersion; Tolkien covers everything from language to culture in amazing detail. The detail places the reader 
+within 'Middle-Earth', Tolkien makes a world so abstract from our own appear so believable because of his uncanny ability to make us suspend 
+disbelief, and the reader feels complete immersion within his worlds. Tolkien’s world is so well conceived that is almost impossible to 
+fault when it comes to spotting the ‘crimes against mimesis’, his world is so clever crafted that it has as near-complete cohesion as you 
+will ever get from a story. Never do you break away from the text feeling that you only have a mere book in your hands, you exist, albeit 
+temporarily, within ‘Middle-Earth’.
+<p>
+How does this relate to MUD then? Well it is best to look at what MUD is an interactive world to partake in. Consider how much easier 
+immersion <b>theoretically</b> should be, it is far superior to reading static text after all now you are literally in control of the main 
+character. You personally make your own explorations around the land, your actions are your own because unlike static text you are whom you 
+make yourself, and you have no predetermined fate. Much like picking up a book when you log onto MUD you are entering the world but as 
+yourself and not necessarily changing your mindset to suit that of the main character of a novel. You feel much more part of a world that 
+you can change than one you can’t.
+<p>
+But MUD isn’t immersive. The game itself can have many ‘crimes against mimesis’ tallied against it, and the genre is inherently 
+non-immersive. It’s all fine and well you being able to take control of your own character and do what you want with it, but the stumbling 
+block comes with other people. You might find it easy to quickly take up the role of Boric Dragon-Killer in the game and become immersed 
+within the whole environment, but when someone shouts “anything good on TV?” out the illusion is quickly removed. There is nothing (nor 
+should there be anything) to prevent players bringing their real world viewpoints, concerns or general chatter into the game. But it breaks 
+mimesis; the player can quickly come to realisation that it is ‘only a game’. 
+<p>
+There are also instances where the game itself does something that is not entirely fitting for its game world. Most of these occasions are 
+comments directed specifically at the user, particularly when they do something stupid. Of course such comments add character to the game 
+(and by taking them away the game would lose something), but are not really part of the mimesis immersion. 
+<p>
+It can (and will) be argued by role-playing advocates that their games provide a more wholesome emotional and satisfying experience because 
+what they offer is complete involvement in the game. But it is sort of forced immersion you are boxed into a particular class or group and 
+then you immerse yourself as the game dictates, not necessarily you think you should dictate within the world. Equally do not interpret this 
+article as either a criticism of MUDs approach to player immersion or an avocation that mimesis is a good thing. It is just one of the many 
+factors that must be carefully considered in the design and implementation of such games. 
+<p><br clear=all><div align="right">... <a href="section.fod_CategoryId_8">click here</a> to return to the category list.<br>... or <a href="issue.fod_IssueId_19">click here</a> to go to the front page of this issue.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,214 @@
+<html>
+<head>
+<title>Muddled Times - Newbie Central I - Map</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<div align="center" style="padding-bottom: 15px;">
+</div>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 12, October 2001</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Game Information</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Lexley</span></b></td></tr>
+</table>
+<p>
+<h2>Map</h2>
+<p>
+<map name="mapmap">
+<span class="missing">
+<area shape="rect"
+ coords="0,90,120,130"
+ href="article.fod_IssueId_9_ArticleId_1201">
+<area shape="rect"
+ coords="20,260,110,320"
+ href="article.fod_IssueId_9_ArticleId_1202">
+<span class="missing">
+<area shape="rect"
+ coords="230,310,260,330"
+ href="article.fod_IssueId_9_ArticleId_1204">
+<area shape="rect"
+ coords="180,260,250,380"
+ href="article.fod_IssueId_9_ArticleId_1205">
+<area shape="rect"
+ coords="180,380,290,420" 
+ href="article.fod_IssueId_9_ArticleId_1206">
+<area shape="rect"
+ coords="220,420,290,500"
+ href="article.fod_IssueId_9_ArticleId_1207">
+<area shape="rect"
+ coords="350,50,390,120"
+ href="article.fod_IssueId_9_ArticleId_1208">
+<area shape="rect"
+ coords="390,50,430,120"
+ href="article.fod_IssueId_9_ArticleId_1209">
+<area shape="rect"
+ coords="230,0,360,80"
+ href="article.fod_IssueId_9_ArticleId_1210">
+<area shape="rect"
+ coords="360,0,380,50"
+ href="article.fod_IssueId_9_ArticleId_1211">
+<area shape="rect"
+ coords="380,0,450,50"
+ href="article.fod_IssueId_9_ArticleId_1212">
+<area shape="rect"
+ coords="230,80,350,120"
+ href="article.fod_IssueId_9_ArticleId_1213">
+<area shape="rect"
+ coords="420,170,490,220"
+ href="article.fod_IssueId_9_ArticleId_1214">
+<area shape="rect"
+ coords="470,0,610,160"
+ href="article.fod_IssueId_9_ArticleId_1216">
+<area shape="rect"
+ coords="450,0,610,180"
+ href="article.fod_IssueId_9_ArticleId_1217">
+<area shape="rect"
+ coords="490,180,610,220"
+ href="article.fod_IssueId_9_ArticleId_1218">
+<area shape="rect"
+ coords="390,240,490,280"
+ href="article.fod_IssueId_9_ArticleId_1220">
+<area shape="rect"
+ coords="410,220,440,300"
+ href="article.fod_IssueId_9_ArticleId_1221">
+<area shape="rect"
+ coords="490,220,610,280"
+ href="article.fod_IssueId_9_ArticleId_1222">
+<area shape="rect"
+ coords="290,300,440,330"
+ href="article.fod_IssueId_9_ArticleId_1223">
+<area shape="rect"
+ coords="290,260,370,300"
+ href="article.fod_IssueId_9_ArticleId_1224">
+<area shape="rect"
+ coords="290,320,370,380"
+ href="article.fod_IssueId_9_ArticleId_1225">
+<area shape="rect"
+ coords="230,300,290,380"
+ href="article.fod_IssueId_9_ArticleId_1204">
+<area shape="rect"
+ coords="440,280,610,320"
+ href="article.fod_IssueId_9_ArticleId_1223">
+<area shape="rect"
+ coords="370,360,420,390"
+ href="article.fod_IssueId_9_ArticleId_1226">
+<area shape="rect"
+ coords="420,350,450,390"
+ href="article.fod_IssueId_9_ArticleId_1227">
+<area shape="rect"
+ coords="370,320,410,360"
+ href="article.fod_IssueId_9_ArticleId_1220">
+<area shape="rect"
+ coords="410,320,490,360"
+ href="article.fod_IssueId_9_ArticleId_1228">
+<area shape="rect"
+ coords="290,380,380,420"
+ href="article.fod_IssueId_9_ArticleId_1229">
+<area shape="rect"
+ coords="370,390,450,450"
+ href="article.fod_IssueId_9_ArticleId_1230">
+<area shape="rect"
+ coords="420,470,540,500"
+ href="article.fod_IssueId_9_ArticleId_1231">
+<area shape="rect"
+ coords="290,420,450,500"
+ href="article.fod_IssueId_9_ArticleId_1232">
+<area shape="rect"
+ coords="490,320,540,360"
+ href="article.fod_IssueId_9_ArticleId_1233">
+<area shape="rect"
+ coords="540,320,610,360"
+ href="article.fod_IssueId_9_ArticleId_1210">
+<area shape="rect"
+ coords="450,360,610,410"
+ href="article.fod_IssueId_9_ArticleId_1229">
+<area shape="rect"
+ coords="450,410,540,470"
+ href="article.fod_IssueId_9_ArticleId_1234">
+<area shape="rect"
+ coords="540,410,610,500"
+ href="article.fod_IssueId_9_ArticleId_1235">
+<area shape="rect"
+ coords="640,130,670,170"
+ href="article.fod_IssueId_9_ArticleId_1236">
+<area shape="rect"
+ coords="610,0,650,360"
+ href="article.fod_IssueId_9_ArticleId_1229">
+<area shape="rect"
+ coords="630,440,650,470"
+ href="article.fod_IssueId_9_ArticleId_1237">
+<area shape="rect"
+ coords="610,360,660,500"
+ href="article.fod_IssueId_9_ArticleId_1229">
+<area shape="rect"
+ coords="650,130,720,190"
+ href="article.fod_IssueId_9_ArticleId_1238">
+<area shape="rect"
+ coords="650,0,720,30"
+ href="article.fod_IssueId_9_ArticleId_1239">
+<area shape="rect"
+ coords="650,30,720,130"
+ href="article.fod_IssueId_9_ArticleId_1240">
+<area shape="rect"
+ coords="720,130,740,200"
+ href="article.fod_IssueId_9_ArticleId_1241">
+<area shape="rect"
+ coords="720,0,800,180"
+ href="article.fod_IssueId_9_ArticleId_1242">
+<area shape="rect"
+ coords="650,190,740,240"
+ href="article.fod_IssueId_9_ArticleId_1243">
+<area shape="rect"
+ coords="740,180,800,240"
+ href="article.fod_IssueId_9_ArticleId_1244">
+<area shape="rect"
+ coords="650,240,740,280"
+ href="article.fod_IssueId_9_ArticleId_1245">
+<area shape="rect"
+ coords="650,240,800,320"
+ href="article.fod_IssueId_9_ArticleId_1246">
+<area shape="rect"
+ coords="370,160,430,180"
+ href="article.fod_IssueId_9_ArticleId_1211">
+<area shape="rect"
+ coords="360,50,490,240"
+ href="article.fod_IssueId_9_ArticleId_1247">
+<area shape="rect"
+ coords="180,120,420,300"
+ href="article.fod_IssueId_9_ArticleId_1210">
+<area shape="rect"
+ coords="0,0,230,500"
+ href="article.fod_IssueId_9_ArticleId_1248">
+<area shape="default"
+ coords="0,0,799,499"
+ href="article.fod_IssueId_9_ArticleId_1249">
+</map>
+<div align="center"><img name="map"
+ src="issue/12/images/map.jpg"
+ alt="Click for a description of what's here"
+ border="0"
+ width="800"
+ height="500"
+ usemap="#mapmap"
+></div>
+<p>
+<a href="article.fod_IssueId_9_ArticleId_1198"><i>Back to Newbie Central</i></span>.<p><br clear=all><div align="right">... <a href="issue.fod_IssueId_9">click here</span> to return to the front page.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

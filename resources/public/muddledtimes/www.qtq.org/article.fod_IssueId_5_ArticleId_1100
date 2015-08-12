@@ -1,0 +1,53 @@
+<html>
+<head>
+<title>Muddled Times - MUD2: The Dark Ages?</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<div align="center" style="padding-bottom: 15px;">
+</div>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 8, February 2001</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Articles</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Gehenna</span></b></td></tr>
+</table>
+<p>
+<h1>MUD2: The Dark Ages?</h1>
+<p>The game has changed, and the game will always change; it's a game where changes are prominent and foremost, whether the changes are within the actual game itself, or in the attitude of players. It's impossible for it to remain static. For that to happen, there would need to be no players, and at that point, there is no game. </p>
+<p>Like real life, nothing stays the same. Things move on, people move on. Ideas change, as do attitudes and the way people react to situations. MUD2 has lived many lives, and survived through many different changes, so why now should players be saying it is time to lay the game at rest? What is different about these changes that should make players react this way? </p>
+ 
+<p>For a moment, lets leave MUD behind and take short respite to look at some of our own history. The Dark Ages were an incredible age of transition; the Roman Empire fell, leading to chaos and barbarism for 500 years. The Roman Empire was highly civilized, comparable to our current life, except minus the technology. They had law, bureaucracy, tax, entertainment and knowledge - all of this was lost. Civilization was lost. If you were told that we today could lose all we have and go back to living like primitives, would you believe them? No. You wouldn't. Yet it has been proven in our history that it can happen. </p>
+<p>When the Romans left, civilization left. We forgot everything and returned to very tribal and barbarian attitudes and lives. Why? Well, it has been said that the Romans did not teach, they came to a tribal culture and imposed their will upon the people, but they did not teach the people, so when they left, the people had no idea how to be Roman, how to be civilized. </p>
+ 
+<p>In what way does this contrast to MUD2? We are losing our civilization in the game, our culture, and our society. It is slowly trickling away out of our grasp, and with it, we are losing that which makes the game enjoyable. The changes that the game is going through just now are not good, and they could be blamed on a number of things, but at the end of it all, the blame lies with the players. </p>
+<p>The first thing that comes to mind is the new age of free Internet access, before free connections you had to be fairly dedicated to spend a lot of time on MUD and even more so than now, you didn't want to die. Survival was a very good instinct, especially if you had just spent a hundred pounds in phone and Wireplay charges getting to your current level. With free Internet access, we have a new breed of player. One that doesn't necessarily have the same degree of respect for other players, wizards and the game itself. Of course, it is not just new players who are adopting this attitude, older players, ones who you would have said should know better are mimicking this behaviour. And where this attitude and behaviour was just once an irritating undertone, it has surfaced, and taken over. </p>
+ 
+<p>It comes in many forms, from out and out abuse to bad language. One of MUD's basic rules is no swearing and for some of the time, wizzes will turn a blind eye to small amounts of swearing, or justified swearing or acceptable-after-watershed swearing et cetera, but more recently, all swearing seems to be accepted, and that in itself is detrimental to the game. A good likening would be seeing obscene graffiti painted on the wall opposite your house, that you had to look at day in day out, not pleasing to the eye, and completely uncalled for. I often feel that the people who swear constantly in MUD must think it makes them look "big" or "tough" or however playground bullies wish to class themselves. Really, it just says that they aren't being the least bit considerate to anyone around them and don't care about anyone or anything bar themselves. </p>
+<p>Abuse is the more intense form of what starts as random swearing, and really, in a game, its not needed. It's often quite random, and can be really hard on the victim. The abuse is often, but not always, personalised, like a playground bully they try to find a weakness to pick on, and like all bullies they are cowards. Most of the time, people who sit and slate you will not reveal who they are (well, not directly or willingly), hiding behind an unknown persona and being completely unbearable for not only their victim, but anyone else who happens to be present (note, the ignore command works well in these situations. It blocks not only tells, but also emotes, shouts and arrival/leaving). I think in most respects we have to treat the MUD2 community/society like everyday society, there are differences, obviously murder (PKing) being one, but think about it. Is abuse acceptable to you in your everyday life? If it isn't (and I'd hope for everyone, bar those who perhaps enjoy perversion, would find that it isn't), then why should it be acceptable on MUD? </p>
+ 
+<p>Returning to the Dark Ages comparison, before they occurred the Roman Empire fell, what fell in MUD? To be honest, I think it was a fall in command. Wizards vanished, anarchy ruled, when they came back to try and sort out the chaos, it was near impossible; it had mutated and grown into something not short of monstrous. Of course, that is all a bit dramatic, but slowly, over a period of time, things that were once completely unacceptable and would have got you told off, fodded or sent to hotel limbo for a "session" now seemed to be acceptable and common place. The wizards for a while seemed to have disappeared, and even now they don't seem to be as visibly active as they once were, and it is quite common knowledge that one long term wizard had stopped playing on the WP (or should that be GP now?) MUD2 incarnation because of the swearing and general breakdown of the game's once sociable and pleasant community. </p>
+<p>A question I have tried to think over is, was there a very defined point where the game seemed to start getting bad? What event triggered it off? I'm sure that most people will think of different things, and even I can't decide what changed so badly. It seems to have been more a gradual change; an undercurrent taking over the general community. </p>
+<p>From my own feelings, I think that possibly the opening over telnet represented a large change in the WP MUD2 community; we were on direct par with MUD2.com now (the other game), and although it did not mean all that big a change, it did mark a change in attitudes. Could we even go as far to blame changes in online gaming for the change in MUD? The advent, and subsequent rise in popularity of games like Everquest, Ultima et cetera and the emigration of our older players to there, could that be blamed? What about the change in client software? Or for a more direct game affecting event what about the crash of August 1999? My own feelings on the crash are that things were bad long before then, but it intensified things, the animosity among the players grew. </p>
+ 
+<p>At present, MUD is wavering on a very fine line between becoming something not worth the effort and something, which is a pale reflection of what it once was. Don't get me wrong I love MUD, but you have to judge when it stops being worth your time. I don't believe its fair for any player to log on and expect a torrent of abuse or ill will. It is a game, and by definition they are meant to be fun! Does anyone have the right to make someone else's online gaming experience hell purely to stroke their own inflated ego? No. </p>
+<p>In closing, we are losing what made the game good. The game used to have a community, which is now being lost in each player's own selfish ways. To further our own gain, we are sacrificing the welfare of the game we love, and personally, I don't think it's worth it. However, a point that should be noted is that changes in attitude and society appear to be cyclic, and in real life, the Dark Ages did end... saying that, they did take 500 years. Maybe we have hope yet, but all the hope we can ever expect lies in the hands (or typing fingers?) of every player and their ability to change the game for the better, it is not something that can be accomplished by a lone individual. </p>
+<p><br clear=all><div align="right">... <a href="issue.fod_IssueId_5">click here</a> to return to the front page.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,170 @@
+<html>
+<head>
+<title>Muddled Times - What articles would you like to see in Muddled Times?</title>
+<link REL="stylesheet" TYPE="text/css" HREF="v2-muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td rowspan="2" valign="top" width="10"></td>
+<td valign="top" width="150">
+<td align=center><a href="index.html"><img border=0
+src="images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td valign="top">
+<div id="menu">
+<ul>
+<li class="header">
+<li><h2><a href="issue.fod_IssueId_30">Issue 31<br>May 2006</a></h2>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_30_CategoryId_3">Editorial</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1582">Issue 31 Editorial</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_30_CategoryId_6" id="selcat">News & Gossip</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1576" id="selart">What articles would you like to see in Muddled Times?</a>
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1578">MUD Version 4E(41)</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_30_CategoryId_8">Articles</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1572">When I make wiz, I will ...</a>
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1573">Sex in The Land</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_30_CategoryId_2">Game Information</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1571">Mapping</a>
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1577">Rarely Seen Mobiles</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_30_CategoryId_7">Fiction</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1574">The Maiden, the Vampire and a mirror</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_30_CategoryId_4">Interviews</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1583">An interview with Crowley</a>
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1585">An Interview with Hawumph</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_30_CategoryId_14">Charts</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1579">Top 100, Dead or Alive - December 2005-February 2006</a>
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1580">Top 100, Dead or Alive - March-May 2006</a>
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1581">Top 25, Dead! - March-May 2006</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_30_CategoryId_18">You've Been Logged</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1584">Firedemon Gets Greedy</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_30_CategoryId_16">Questionnaires</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1575">Muddled Times Questionniare Summary</a>
+ <li class="footer">
+ </ul>
+<li><span class="missing">Feedback Form</span>
+<li class="footer">
+</ul>
+<br>
+</div>
+<div align="center" style="margin: 5px;">
+</div>
+</td>
+<td valign="top">
+ <table width=100% cellpadding=10>
+ <tr><td>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 31, May 2006</b></td></tr>
+<tr><td align=right>Section:</td><td><b>News & Gossip</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Karya</span></b></td></tr>
+</table>
+<p>
+<h1>What articles would you like to see in Muddled Times?</h1>
+<p>
+There have been many requests from potential Muddled Times contributers for a list of possible article titles. From <a href="http://www.mudii.co.uk/forums/viewtopic.php_topic_382_forum_3_start_0">this thread</a> on the forums I have put together the following list of article titles and ideas. For each issue of Muddled Times a small group of regular writers (currently including myself and Crowley) will pick a title and write an article based on that title. This list is also open for anyone to pick a title and write something on it. Hopefully those of you who would like to contribute to Muddled Times but have been lacking in ideas will now be able to do so. 
+<h2>Article Titles</h2>
+<p>
+<ul>
+<li>Has real life taken the mystique out of MUD2? 
+<li>Do visible wizards ruin game mystique? 
+<li>When do you flee? Strategies for survival 
+<li>The fighter's guide to reset starts 
+<li>The coward's way out? When to qq in MUD2 
+<li>The killer's guide to maxing your stats 
+<li>The hidden killer - your dex in MUD2 
+<li>How my mood reflects the way I play MUD 
+<li>How MUD has impacted my other (RL) life 
+<li>Real Dreams about MUD2
+<li>The Mermaid's Song 
+<li>When is a secret no longer a secret?
+<li>Quests in MUD2 
+<li>A Guide to MUD2 Spells 
+<li>Quoth the raven, "never more!" 
+<li>Tales from the Bottom of the Swamp! 
+<li>Sea voyage, a beginners guide 
+<li>I Hate Giants 
+<li>Rabbit's Foot, when and when not to touch the touchstone 
+<li>What and what not to do in MUD2 
+<li>That frelling weather! 
+<li>If I could change one thing ...
+<li>A hundred and one things to do with a brand 
+<li>Sword fighting 101 
+<li>If I could fod any mobile ...
+<li>My Favorite Item 
+<li>Why do you think the population is decreasing and what can be done about it? 
+<li>Fold All - cringe-worthy typos. 
+</ul>
+<h2>Article Ideas</h2>
+<p>
+<ul>
+<li>Persona Level Pictures - what do you think the levels actually look like? Are necromancers decorated with skulls and skeletal remains?
+<li>Write a poem about (or as) your favorite mobile - in the game ... not a Nokia! 
+<li>Through the Looking Glass - looking at MUD2 from a 'what if' perspective. What if the vampire was nice. What if the swamp didn't exist?
+</ul>
+<h2>Titles Already Used</h2>
+<p>
+</ul>
+<li>When I make wiz, I want to ... 
+<li>Rarely seen mobiles 
+<p><br clear=all><div align="center"><span class="missing">Mail the author</span><br><br></div><div align="right">... <a href="section.fod_CategoryId_6">click here</a> to return to the index of articles.<br>... or <a href="issue.fod_IssueId_30">click here</a> to go to the front page of this issue.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

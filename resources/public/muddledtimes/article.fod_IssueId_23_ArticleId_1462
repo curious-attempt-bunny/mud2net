@@ -1,0 +1,81 @@
+<html>
+<head>
+<title>Muddled Times - Wolf Heroics</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 24, October 2003</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Game Information</b></td></tr>
+<tr><td align=right>Author:</td><td><b>Havoc</b></td></tr>
+</table>
+<p>
+<h1>
+Wolf Heroics
+</h1>
+</p>
+<p>
+Bashing mobiles is all well and good, but just what chance of success do you have, and when should you flee?
+</p>
+<p>
+Being the stereotypical alturistic sort, I took it upon myself to investigate, choosing a tough mobile that wasn't going to flee on me. Using (thankfully) just a lowly hero with 100/100/100 stats, kitted out with only the axe0, I took on the wolf in four different resets. Ok, ok, each time I ended up fleeing, but the purpose was to find out just how much damage I should expect to take on average from the wolf, and how much damage I'd do on average in return.
+</p>
+<p>
+Working through the logs of the fights I counted 46 rounds, in which the following hits were dealt:
+</p>
+<p>
+<b>My hits: </b>
+</p>
+<p>
+x1: <font color="#fc5454">1-4</font>, x5: <font color="#fc5454">5-9</font>, x4: <font color="#fc5454">10-14</font>, x5: <font color="#fc5454">15-19</font>, x2: <font color="#fc5454">20-29</font>, x1:<font color="#fc5454">30-39</font>
+</p>
+<p>
+<b>My approximate hits: </b></p>
+<p>
+x1: <font color="#fc5454">2.5</font>, x5: <font color="#fc5454">7</font>, x4: <font color="#fc5454">12</font>, x5: <font color="#fc5454">17</font>, x2: <font color="#fc5454">24.5</font>, x1: <font color="#fc5454">34.5</font></p>
+<p>
+<b>The wolf's hits: </b></p>
+<p>
+x1:<font color="#fc5454">1</font>, x2:<font color="#fc5454"> 2</font>, x2:<font color="#fc5454"> 3</font>, x2: <font color="#fc5454">4</font>, x1: <font color="#fc5454">6</font>, x1: <font color="#fc5454">7</font>, x1: <font color="#fc5454">8</font>, x2: <font color="#fc5454">9</font>, x1: <font color="#fc5454">11</font>, x1: <font color="#fc5454">12</font>, x5: <font color="#fc5454">13</font>, x1: <font color="#fc5454">14</font>, x4: <font color="#fc5454">15</font>, x1: <font color="#fc5454">17</font>, x3: <font color="#fc5454">20</font>, x1: <font color="#fc5454">22</font>, x1: <font color="#fc5454">24</font>.
+</p>
+<p>
+So I did the wolf a total of 254 damage, and he did me a total of 343 damage. Quite a fearsome beast indeed!
+</p>
+<p>
+Looking at the hits the wolf dealt, the highest hit was 24. I'd love to be able to flee on 5 or less stam and avoid suffering any flee points, but instead I'll settle for next best - fleeing the moment that the wolf could kill me with one hit. Which means that I should flee from the wolf the moment my stamina's under 25.
+</p>
+<p>
+Performing a quick DIAGnose on the wolf tells me that its maximum stamina is somewhere between 144 and 153. I'll assume it's 149. Averaging my approximate hits out over the full 46 rounds estimated that I'll hit the wolf for 5.2 damage per round (254/46). Given that the wolf never flees, that means he'll hold out on average for a staggering 29 (149/5.2) rounds!
+</p>
+<p>
+That doesn't quite answer the question "what are my chances of success?" though. In order to do that, I need to know how many rounds I can hold out for too. If I subtract the stamina I need for my flee-margin, then I've 75 stamina to play with before I have to flee. The wolf's hits averaged out at 7.5 per round (343/46). That means that as a hero, I can only hold out for an average 10 rounds before fleeing. Not good!
+</p>
+<p>
+Granted I could find better kit than just the axe0. But assuming I stuck with the axe0, just how many wafers would I need on top of that to have just a 50/50 chance against the wolf? A scarily large number - 140g worth no less! 140g of wafers should mean that I last (100-25+140)/7.5 (29) rounds as well.
+</p>
+<p>
+Well, that's enough geeky material for one article..
+</p>
+<p><b><i>Havoc</i></b></p>
+<p> <div align="center"><img src="icon/default.gif" alt="*"></div> <p>
+Would you like the mechanics of this explained further? Then contact the author using the link below.
+<p><br clear=all><div align="center"><span class="missing">Mail the author</span><br><br></div><div align="right">... <a href="section.fod_CategoryId_2">click here</a> to return to the category list.<br>... or <a href="issue.fod_IssueId_23">click here</a> to go to the front page of this issue.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

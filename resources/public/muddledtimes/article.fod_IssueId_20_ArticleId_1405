@@ -1,0 +1,60 @@
+<html>
+<head>
+<title>Muddled Times - The State of The Net</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<div align="center" style="padding-bottom: 15px;">
+</div>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 21, April 2003</b></td></tr>
+<tr><td align=right>Section:</td><td><b>News & Gossip</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Foddy</span></b></td></tr>
+</table>
+<p>
+<h1>The State of The Net</h1>
+<p>
+Over the last couple of months, you may have noticed that we've had some downtime due to scheduled maintenance - the first for a very long time. Unfortunately we've also had some unscheduled downtime.
+</p><p>
+Until recently, Phoenix (the server MUD runs on, not the mobile) had been up and running for over 500 days without a reboot. Its long uptime was finally brought to an end by a power failure at the data centre it was being hosted at - something which simply shouldn't happen!
+</p><p>
+The first scheduled maintenance we had planned actually involved moving Phoenix (and the entire network it lives in) to a different data centre. This should have been a relatively quick move, but as so often happens, things don't turn out the way you planned.
+</p><p>
+It so happened that the weekend we moved everything, the Microsoft "slammer" worm hit the net. While it didn't affect us directly, it left our ISP without management of their NOC on the day we moved. This unfortunately meant they weren't able to switch the routeing of our network to the new data centre. We were left with the choice of putting everything back, or moving it all and hoping they'd regain management in time.
+</p><p>
+We made the decision to move and thankfully, our ISP regained control of the network and everything was brought back up in the new data centre, albeit a few hours late.
+</p><p>
+The second scheduled maintenance we had planned was to upgrade from a 100Mbit to a gigabit port, and inserting a new router between the firewall Phoenix sits behind and the Internet. Thankfully, this went a lot more smoothly than the first change!
+</p><p>
+These changes are partly to accomodate a new site being hosted on the same network as MUD - formula1.com, the new official Formula 1 website. As I'm sure you can imagine, this is an enormous site - and needs some hefty hardware to support it.
+</p><p>
+Unfortunately, we experienced what can only be described as "network instability" in the early stages. Some quick redesigning and fast reconfiguration resolved the issues, and everything has been (touch wood) behaving since then.
+</p><p>
+I would love for MUD to stay up and running without interruption for 24 hours a day, 365 days a year. But there are times when changes have to be made and unfortunately with changes there are inevitably teething troubles, too.
+</p><p>
+So, I would like to take this opportunity to appologise to everyone who has been affected by these issues over the past couple of months. Hopefully, Phoenix is now in a good position to stay up for another 500 days without interruption.
+</p><p>
+Thanks for your patience.
+</p><p>
+Foddy
+</p>
+<p><br clear=all><div align="right">... <a href="issue.fod_IssueId_20">click here</a> to return to the front page.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

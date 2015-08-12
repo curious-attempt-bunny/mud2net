@@ -1,0 +1,89 @@
+<html>
+<head>
+<title>Muddled Times - A New Player's Guide to The Sea</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 8, February 2001</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Game Information</b></td></tr>
+<tr><td align=right>Author:</td><td><b>Hobnoblin</b></td></tr>
+</table>
+<p>
+<h1>A Guide to the Sea</h1>
+<p>
+Welcome to the Admiral Bombow Inn, stranger. No, I recognise you! You were in here just two months ago, asking about the <a href="article.fod_IssueId_4_ArticleId_1070">Dwarfen Citadel</a>. How did it it go? Did you find your fame and fortune? Ahh ... it'll come, don't you worry.
+<p>
+Would you like to hear more of The Land? Well, grab that stool and buy me an ale - I'll tell you all you need to know about what's out to sea, it's one of my favourite areas!
+<p>
+First thing's first - you need to know where the sea is. No, don't go! I know it may seem obvious to you, but there are others listening who are not as well travelled as you.
+<p>
+The coastline, or at least the bit you can get to, runs from the cove in the North right down to past the waterfall in the South. The easiest way to get out to sea is from the jetty in the cove ... yes, that's right, the one at the end of the railway track.
+<p>
+Before you can make your first trip out to sea, you'll need a boat. <b>BUT!</b> It must be a seaworthy boat. You can check if a boat is seaworthy like this:
+<p>
+<table width=50% bgcolor=black cellpadding=5><tr><td>
+<pre><tt><font color=white><font color=blue>*</font>IS CORACLE A SEABOAT
+Yes.
+<font color=blue>*</font></font></tt></pre>
+</td></tr></table>
+<p>
+Do you see? If it says <i>No</i>, then it would be dangerous to go out to sea on such a boat.
+<p>
+The next thing you must consider is the weather. Now, the weather is both the sailor's friend, and worst enemy all in one. Only a fool would go out in a storm - but even in good weather, make sure it's not going to start raining while you're out there.
+<p>
+You can see if it's going to rain really soon by using the WEATHER command:
+<p>
+<table width=50% bgcolor=black cellpadding=5><tr><td>
+<pre><tt><font color=white><font color=blue>*</font>WEATHER
+It is cloudy.
+<font color=blue>*</font></font></tt></pre>
+</td></tr></table>
+<p>
+If it says <i>It is cloudy</i>, then it's going to start to rain and you'd better not start a journey. Even if it is sunny, you may get caught in a downpour while at sea. So always keep an eye on the sky and be ready to return to shore at any time!
+<p>
+Sorry? You'd like to get a move on? Oh, all right, let's get down to the details. What have you heard? Hmm ... yes, there is a ship, and many rumours about it. There's more, too - but let's start with the ship.
+<p>
+It's name is the H.M.S. Essex. She sailed these waters many many years ago, but ran aground on some vicious rocks. She is still there to this day, reminding us of how treacherous the waters off the coast can be. Some say she was lost in a storm, some say she was helping smugglers to the shore. Maybe you'll find out?
+<p>
+You can sail to vicious rocks, if you wish. There are well-known routes through the sea which you shouldn't deviate from. I can't recall them now, but the rocks are to the East and South of the jetty. You should approach them from the East, though.
+<p>
+From there, you can climb right aboard the ship. What's on board? Bits and pieces, no doubt. Mostly it'll have washed away by now. You may find some useful odds and ends for your journey, though!
+<p>
+South of the rocks, there's a small island. The isle is too small to be inhabited, but it's not a deserted island, oh no. Straddling the island is an ancient and mystical archway. Some say it has magical powers ... it scares the sea-salt out of me! Perhaps it's to do with the druids ... but more of them later.
+<p>
+Now, the most impressive place to visit out at sea is Dragon Island. Why's it called that? Simply because it is inhabited by a dragon! And she's a fire-breathing dragon, too. When the wind is right, you can hear her roar all the way from the mainland.
+<p>
+The directions to the island are not common knowledge, but there are charts about which will direct you safely. The waters around the island are fiercer than the waters around the ship, so be extra careful.
+<p>
+Now, the island itself ... it was once inhabited by druids who would perform sacrifices in the ring of stones to the North of the island. That was many years ago. Since then, the druids have all fled (or been eaten by the dragon.) Oh yes, she's a fierce beast!
+<p>
+Yes, it sounds interesting, but let me tell you more ... The druids were not poor, they had a rich stache of treasures in their treasure chamber, which is rumoured to lie untouched even today. Guarded by both the dragon and some devious traps, only a fool would attempt to raid the treasure chamber.
+<p>
+No ... no ... you wouldn't want to venture there ... it is a far too dangerous place. You would be a fool to try, but if you must, I will tell you all I know to help you survive.
+<p>
+It is rumoured that the dragon can be killed without laying a sword on her. How? This I do not know, but ask your fellow travellers, and they may have a clue for you. The island is also the most magical place in our land. You won't be able to cast any magic yourself while over there, so prepare yourself first. There are also magical routes between the island and the mainland. If you find one of these, your task will be easier.
+<p>
+Lastly, if you are spotted by the dragon, run! Even then it may be too late, her fiery breath has been the end of many to venture that far. Yes, dead. Your only hope is to flee, and flee as fast as you can.
+<p>
+My last words to you are to wish you luck. You must be bold to travel the seas, but don't be over-confident. Keep an eye on the weather, and stay out of the dragon's way. Good luck in your travels. <font size=-2>You will need it ...</font>
+<p><br clear=all><div align="right">... <a href="section.fod_CategoryId_2">click here</a> to return to the category list.<br>... or <a href="issue.fod_IssueId_5">click here</a> to go to the front page of this issue.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

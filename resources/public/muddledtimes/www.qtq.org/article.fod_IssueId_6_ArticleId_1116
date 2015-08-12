@@ -1,0 +1,173 @@
+<html>
+<head>
+<title>Muddled Times - Get Rich Quick!</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><img xsrc="/images/marlight3b.jpg" border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 9, April 2001</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Game Information</b></td></tr>
+<tr><td align=right>Author:</td><td><b>Karya</b></td></tr>
+</table>
+<p>
+<h1>Get Rich Quick ...</h1>
+<p>
+... well not quite, but this little table should start you off. From the really valuable stashes protected by the most evil of mobiles to the lesser valued treasures that are more easily accessible. This table is aimed at the relative new-comer to MUD2 but experienced players may find it useful too. It isn't all inclusive, just a guide to the larger or more prominent areas in The Land. 
+<p>
+<table border=1 cellpadding=6>
+<tr align=center>
+<td><b>Relative Total Value</b></td>
+<td><b>Area</b></td>
+<td><b>Difficulty</b></td>
+<td><b>Danger</b></td>
+<td><b>Number of people needed</b></td>
+<td><b>Notes</b></td>
+</tr>
+<tr align=center>
+<td>*****</td>
+<td>Dragon Isle</td>
+<td>***</td>
+<td>****</td>
+<td>Best done alone.</td>
+<td>Kill the dragon and seek out the treasure she is protecting.</td>
+</tr>
+<tr align=center>
+<td>*****</td>
+<td>Dwarfen Citadel</td>
+<td>**</td>
+<td>****</td>
+<td>Groups of players are best unless you are an experienced player.</td>
+<td>Battle your way past the guard dwarfs to uncover the dwarfen treasure. Your score can be increased by killing further dwarfs and exploring the mines.</td>
+</tr>
+<tr align=center>
+<td>*****</td>
+<td>Keep</td>
+<td>***</td>
+<td>****</td>
+<td>Small groups of players or alone if you are experienced.</td>
+<td>If you can get past the tough guardians of the Keep the treasure rewards are well worth the danger.<td>
+</tr>
+<tr align=center>
+<td>*****</td>
+<td>Giant Realm</td>
+<td>***</td>
+<td>****</td>
+<td>Definately need groups of players, the more the better.</td>
+<td>Plenty of treasure and mobiles to kill here if you can get past the giants.</td>
+</tr>
+<tr align=center>
+<td>****</td>
+<td>Goblin Realm</td>
+<td>*</td>
+<td>***</td>
+<td>Easily done alone but a friend may be useful as the goblins can be unpredictable.</td>
+<td>Find your way around the goblin lair to uncover their hidden treaure. Don't ignore useful items you pass or leave any corridor unexplored.</td>
+</tr>
+<tr align=center>
+<td>****</td>
+<td>Icons</td>
+<td>***</td>
+<td>***</td>
+<td>A group of players are needed.</td>
+<td>To retrieve these valuable items team work is needed, a sharing nature helps too.</td>
+</tr>
+<tr align=center>
+<td>****</td>
+<td>Pagoda</td>
+<td>****</td>
+<td>***</td>
+<td>Can be done alone but better with a friend.</td>
+<td>Achieve full enlightenment to potentially increase your score even further.</td>
+</tr>
+<tr align=center>
+<td>***</td>
+<td>Monastery</td>
+<td>**</td>
+<td>*</td>
+<td>Alone.</td>
+<td>Lots of treasure here and if you're preparted to wander the lonely corridors of the scriptorium a greater reward awaits you.</td>
+</tr>
+<tr align=center>
+<td>***</td>
+<td>Under the Well</td>
+<td>*</td>
+<td>**</td>
+<td>Alone or with a friend if you don't like snakes.</td>
+<td>Treasure to loot and mobiles to kill.</td>
+</tr>
+<tr align=center>
+<td>***</td>
+<td>Grandfather Clock</td>
+<td>**</td>
+<td>***</td>
+<td>Alone or with a friend if you're prepared to share.</td>
+<td>This little paradox has its own rewards that are rarely seen.</td>
+</tr>
+<tr align=center>
+<td>***</td>
+<td>Alpine Cottage</td>
+<td>****</td>
+<td>-</td>
+<td>Alone.</td>
+<td>The hardest part is getting there.</td>
+</tr>
+<tr align=center>
+<td>***</td>
+<td>Admiral Bombow's Inn</td>
+<td>*</td>
+<td>-</td>
+<td>Alone.</td>
+<td>If you're quick you'll be laughing all the way back to the swamp.</td>
+</tr>
+<tr align=center>
+<td>**</td>
+<td>The Gravedigger's Cottage</td>
+<td>*</td>
+<td>-</td>
+<td>Alone.</td>
+<td>Lots of treasure here, especially if you can find the hidden rooms.</td>
+</tr>
+<tr align=center>
+<td>**</td>
+<td>Il Castellare</td>
+<td>*</td>
+<td>-</td>
+<td>Alone.</td>
+<td>Very easy, just explore and pick up the treasure, your biggest problem will be carrying it all.</td>
+</tr>
+<tr align=center>
+<td>**</td>
+<td>Mausoleum</td>
+<td>***</td>
+<td>-</td>
+<td>You'll probably need a friend to help work out the puzzles.</td>
+<td>Easy treasure hidden behind difficult puzzles.</td>
+</tr>
+<tr align=center>
+<td>*</td>
+<td>The H.M.S.Essex Shipwreck</td>
+<td>**</td>
+<td>**</td>
+<td>Alone.</td>
+<td>Easy to gather treasure but your journey there may not be so uneventful.</td>
+</tr>
+</table>
+<p><br clear=all><div align=right>... <a href="issue.fod_IssueId_6">click here</a> to return to the front page.
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

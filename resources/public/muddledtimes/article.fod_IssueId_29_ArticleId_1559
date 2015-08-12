@@ -1,0 +1,147 @@
+<html>
+<head>
+<title>Muddled Times - Witch!</title>
+<link REL="stylesheet" TYPE="text/css" HREF="v2-muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td rowspan="2" valign="top" width="10"></td>
+<td valign="top" width="150">
+<td align=center><a href="index.html"><img border=0
+src="images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td valign="top">
+<div id="menu">
+<ul>
+<li class="header">
+<li><h2><a href="issue.fod_IssueId_29">Issue 30<br>June 2005</a></h2>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_29_CategoryId_3">Editorial</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1569">Issue 30 Editorial</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_29_CategoryId_6">News & Gossip</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1562">Land Design Competition - The Scores</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_29_CategoryId_8" id="selcat">Articles</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1557">The Land Design Competition - Results</a>
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1566">When is a witch not a witch?</a>
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1559" id="selart">Witch!</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_29_CategoryId_2">Game Information</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1563">Explore This!</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_29_CategoryId_7">Fiction</a>
+ <ul class="h">
+ <li class="header">
+ <li><span class="missing">My Favourite Things</span>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_29_CategoryId_5">Quizzes</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1568">Persona Pictures - II</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><span class="missing">Interviews</span>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1567">An Interview with Brisa</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_29_CategoryId_14">Charts</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1564">Top 100, Dead or Alive - March-May 2005</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_29_CategoryId_11">Events</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1560">Easter Egg Hunt</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><span class="missing">Questionnaires</span>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="questionnaire.fod_IssueId_29_ArticleId_1565">Muddled Times Questionnaire</a>
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1561">Gender Questionnaire - Part 3</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_29_CategoryId_1">Letters</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1570">Seperated at Birth?</a>
+ <li class="footer">
+ </ul>
+<li><span class="missing">Feedback Form</span>
+<li class="footer">
+</ul>
+<br>
+</div>
+<div align="center" style="margin: 5px;">
+</div>
+</td>
+<td valign="top">
+ <table width=100% cellpadding=10>
+ <tr><td>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 30, June 2005</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Articles</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Richard</span></b></td></tr>
+</table>
+<p>
+<h1>Witch!</h1>
+<p>
+In MUD2, witches are female wizards (or, if you prefer, wizards are male witches).
+<p>
+I am aware that some "real" witches are male and some "real" wizards are female.
+<p>
+MUD2 is not real.
+<p>
+If you are so desperate that you want to be a wizard even though you are female, play as a male character. If you are so desperate that you want to be a witch even though you are male, play as a female character. Or, of you're a bona fide real wizard or witch, use magic on yourself to make it so you don't care.
+<p>
+OK, so I suppose you want a less "like it or lump it" response that explains how the terms came about ...
+<p>
+In MUD1, we didn't have character levels initially. We had just characters. When Roy Trubshaw was debugging, he needed for his character to be able to do things that other characters couldn't, eg. teleport, so he could test out his new additions to the code. He thus created a "debug mode", which swiftly became known as "wizard mode" because that's what it was in hacker terminology (see <a href="http://www.jargon.net/jargonfile/w/wizard.html">here</a> and <a href="http://www.jargon.net/jargonfile/w/wizardmode.html">here</a> for explanations). By the time I added character levels to MUD1, wizard mode was known and coveted by the players. I therefore decided to make the top level be wizard. The question then arose as to what to call female characters of wizard level. Now I could have just gone with "wizard", but in the European fairy-tale myth tradition from which MUD1 drew its flavour, wizards were invariably old men with pointy hats, long white beards and flowing robes. Telling female players "well you can have female wizards" would have been both arrogant and patronising. I decided to go with "witch" as the female equivalent because that also had its cultural baggage - the female figure dressed in black with a similarly pointy hat. In folk tales, wizards are men and witches are women; MUD1 took its setting from that tradition, therefore this was a good solution.
+<p>
+It might be that people today complain that you can get female wizards "in real life" so they should be able to be female wizards, but they should be aware that this isn't how it would have been seen 25 years ago. Back then, it would have been regarded as forcing women to conform to a stereotypically male role, which was seen as a bad thing. By giving female characters their own, distinct top-level character class, I was promoting equality of ambition and identity freedom, not "you can only succeed if you become one of the boys". I suppose you could argue that times have changed, and female players (who, unlike male players, tend to play only characters of their own gender) now have no need for this assertion that it's OK to be female. Indeed, they may consider it patronising. To them, I say: go to a class of 7-year-old children and ask half to draw a picture of a wizard and half to draw a picture of a witch. When you get as many male witches and female wizards as you do female witches and male wizards, <i><b>then</b></i> you have a case.
+<p>
+In the meantime, MUD's wizards are male and its witches are female.
+<p><br clear=all><div align="center"><span class="missing">Mail the author</span><br><br></div><div align="right">... <a href="issue.fod_IssueId_29">click here</a> to return to the front page.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

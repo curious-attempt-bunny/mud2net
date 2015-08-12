@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>Muddled Times - Articles</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<div align="center" style="padding-bottom: 15px;">
+</div>
+Section: <b>Articles</b><br>
+<br><table width=100% cellpadding=15>
+<tr><td valign=top width="5%"><img src="icon/diam.gif" alt="-" border=0></td><td valign=top width="45%"><a href="article.fod_IssueId_23_ArticleId_1455">Reflections</a>
+<br>
+Gehenna reminisces about the past and looks forward to the future.</td><td valign=top width="5%"><img src="icon/diam.gif" alt="-" border=0></td><td valign=top width="45%"><a href="article.fod_IssueId_23_ArticleId_1456">Has MUD Stalled?</a>
+<br>
+Theman considers how anthropological theory applies to the game. Honestly, he does!</td></tr><tr><td valign=top width="5%"><img src="icon/diam.gif" alt="-" border=0></td><td valign=top width="45%"><a href="article.fod_IssueId_23_ArticleId_1463">The Nottingham Mudmeet Photos</a>
+<br>
+It's a tradition or an old charter or something. After mudmeets there come photos. View the delights of Nottingham here!</td></table><div align=right>... <a href="issue.fod_IssueId_23">click here</a> to return to the front page.
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

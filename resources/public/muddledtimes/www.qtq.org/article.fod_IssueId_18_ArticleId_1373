@@ -1,0 +1,119 @@
+<html>
+<head>
+<title>Muddled Times - Protected Personae</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<div align="center" style="padding-bottom: 15px;">
+</div>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 19, December 2002</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Game Information</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Karya</span></b></td></tr>
+</table>
+<p>
+<h1>Protected Personae</h1>
+<p>
+Playing as a protected persona is an alternative way to play the game. Protected personae are immune to attacks, steals and magic from other players. This is useful if you're new to the game, or if you don't like player killing but still want to play this game. You cannot, however, make wiz as a protected persona.
+<p>
+This is what the game says about protected personae (or PP for short):
+<p>
+<pre><b>defn pp</b>
+[PP]
+ NOUN Abbreviation for 'protected persona'. A type of 
+persona which cannot be attacked by other personae, and, reciprocally, 
+which cannot itself attack or otherwise interfere with them. In most 
+incarnations of the MUD2, PPs have similar streams to non-PPs, 
+however they top out earlier: there is no PP equivalent of mage/Sir/Lady, 
+and excess points above that cannot be earned. PPs therefore can't 
+ever score enough points to make wiz. However, it is possible for 
+the game to be configured differently such that PPs can become 
+immortal as mystics; this kind of set-up is deemed to encourage 
+plodders, however. In a standard configuration, personae can switch 
+from non-PP to PP at no cost, but because life as a PP is easier 
+they will lose two thirds of their points upon changing back. PPs are 
+intended to be used by explorers and socialisers with no aspirations 
+of making wiz with them, but who enjoy other, non-competitive aspects of 
+play.</pre> 
+<p>
+The definition of PP mentions the level of mystic - a PP wiz:
+<p>
+<pre><b>defn mystic</b>
+[mystic]
+ NOUN The equivalent of wizard or witch when the 
+persona in question was in PP mode at the time of making wiz. 
+Mystics have the same powers as their fellow wizzes, but a different 
+name. Yes, there are such things as arch-mystics. See also mortal.</pre> 
+<p>
+To this day the level of mystic has not been enabled on any incarnation of MUD2.
+<p>
+<h2>Why play as a PP?</h2>
+<p>
+The following is a list of pros and cons of playing as a PP suggested by regular players:
+<p>
+<h3>Pros</h3>
+<p>
+<ul>
+<li>Other players cannot kill PPs
+<li>Other players cannot steal from a PP or perform magic on a PP
+<li>PPs can explore and map The Land in relative safety
+<li>PPs can socialise with other players in relative safety
+<li>PPs can learn more about the game quicker when a newbie
+<li>There are unusual level names
+<li>Other mortals cannot snoop a PP
+<li>PPs add breadth and diversity to the game's community
+<li>A PP can annoy PKs with no comeback
+</ul>
+<h3>Cons</h3>
+<p>
+<ul>
+<li>Cannot make wiz
+<li>PPs are considered second-class citizens by some other players
+<li>Other players cannot perform helpful spells on PPs such as glow
+<li>A PP cannot snoop other players
+<li>A PP loses 2/3rd of their points when they reach 102 400 points
+<li>A PP only gains minimal combat skills
+<Li>Tasks don't count when performed by a PP
+<li>A PP has limited resources when dealing with annoying players
+<li>A PP has limited player interaction
+</ul>
+<h2>Reasons to play as a PP</h2>
+<p>
+Reasons to want to play as a PP are:
+<p>
+<ul> 
+<li>If you're new to the game and you either don't like fighting other players or want to learn about the game with minimal distractions
+<li>If you're coming back after a period of time away and need to get reacquainted with the game, again with minimal distractions
+<li>You don't like player killing but still want to play this game for other reasons
+<li>You need to map The Land
+<li>You want to experiment with or explore a particular puzzle with minimal distractions
+<li>You want to socialise in The Land rather than just in the Tearoom
+</ul>
+<p>
+The fact that you are immune to aggressive behaviour from other players will help achieve the above goals although you won't be able to get other players perform non-aggressive and useful spells on you such as glow. Also being a PP won't prevent mobiles from attacking you, stealing from you or performing magic on you.
+<p>
+Unfortunately some players consider PPs to be second-class citizens, partly because a small number of players abuse their protected status and also because some player-killers become frustrated at not being able to attack you. Ignore these players, it's their problem not yours.
+<p>
+<h2>How to be a PP</h2>
+<p>
+To play as a protected persona you need to <b>VOW</b> in the tearoom. Having VOWed once you will be prompted to VOW a second time, just to make sure. From there on you will be on an alternative level structure. There are different level names for magic users and non-magic users, as well as male and female for each. type <b>LEVELS</b> (or LVLS for short) in game to see these. You can revert back to a non-PP persona at any time by typing UNVOW in the tearoom but you will lose 2/3rds of your points. If you get to 102 399 points you will automatically lose 2/3rds of your points when you make any further points. A score of 102 399 points (patriarch/matriarch) is the highest score you can achieve as a PP. When you lose 2/3rds of your points at that score you will also be unvowed automatically.
+<p><br clear=all><div align="right">... <a href="issue.fod_IssueId_18">click here</a> to return to the front page.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

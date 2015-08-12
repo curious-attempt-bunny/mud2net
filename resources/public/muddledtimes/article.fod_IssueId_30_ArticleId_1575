@@ -1,0 +1,175 @@
+<html>
+<head>
+<title>Muddled Times - Muddled Times Questionniare Summary</title>
+<link REL="stylesheet" TYPE="text/css" HREF="v2-muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td rowspan="2" valign="top" width="10"></td>
+<td valign="top" width="150">
+<td align=center><a href="index.html"><img border=0
+src="images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td valign="top">
+<div id="menu">
+<ul>
+<li class="header">
+<li><h2><a href="issue.fod_IssueId_30">Issue 31<br>May 2006</a></h2>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_30_CategoryId_3">Editorial</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1582">Issue 31 Editorial</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_30_CategoryId_6">News & Gossip</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1576">What articles would you like to see in Muddled Times?</a>
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1578">MUD Version 4E(41)</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_30_CategoryId_8">Articles</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1572">When I make wiz, I will ...</a>
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1573">Sex in The Land</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_30_CategoryId_2">Game Information</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1571">Mapping</a>
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1577">Rarely Seen Mobiles</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_30_CategoryId_7">Fiction</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1574">The Maiden, the Vampire and a mirror</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_30_CategoryId_4">Interviews</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1583">An interview with Crowley</a>
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1585">An Interview with Hawumph</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_30_CategoryId_14">Charts</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1579">Top 100, Dead or Alive - December 2005-February 2006</a>
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1580">Top 100, Dead or Alive - March-May 2006</a>
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1581">Top 25, Dead! - March-May 2006</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_30_CategoryId_18">You've Been Logged</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1584">Firedemon Gets Greedy</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_30_CategoryId_16">Questionnaires</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1575" id="selart">Muddled Times Questionniare Summary</a>
+ <li class="footer">
+ </ul>
+<li><span class="missing">Feedback Form</span>
+<li class="footer">
+</ul>
+<br>
+</div>
+<div align="center" style="margin: 5px;">
+</div>
+</td>
+<td valign="top">
+ <table width=100% cellpadding=10>
+ <tr><td>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 31, May 2006</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Questionnaires</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Karya</span></b></td></tr>
+</table>
+<p>
+<h1>Muddled Times Questionniare Summary</h1>
+<p>
+Thank you to everyone who responded to the 'Muddled Times Questionnaire' in the last issue. The number of respondants wasn't huge, I hope this isn't a reflection of our readership numbers!
+<p>
+Below is a summary of the responses to each question:
+<h2>Are you an occasional or regular reader of Muddled Times?</h2>
+<p>
+92% are regular readers
+<h2>Have you read all of the issues of Muddled Times?</h2>
+<p>
+75% have read all of the issues
+<h2>Have you ever played MUD2?</h2>
+<p>
+All respondants were MUD2 players bar 1 person who hasn't been included elsewhere due to incomplete answers. 
+<h2>Are you an active player of MUD2?</h2>
+<p>
+58% consider themselves active players
+<h2>If not, when was the last time you regularly played MUD2?</h2>
+<p>
+Generally the reply was within 2 years.
+<h2>Have you ever contributed an article to Muddled Times?</h2>
+<p>
+58% had contributed an article
+<h2>Do you intend to contribute an article to Muddled Times by the end of the year?</h2>
+<p>
+67% do intend to contribute an article within a year
+<h2>Would you like to contribute an article to Muddled Times?</h2>
+<p>
+83% would like to contribute an article
+<h2>If Muddled Times stopped would you miss it?</h2>
+<p>
+92% would miss Muddled Times
+<h2>How do you know when a new issue of Muddled Times is out?</h2>
+<p>
+The most common response was by e-mail notification. Other responses were in-game notice, forums, mud2.co.uk, other players and random check.
+<h2>Which is your favourite section of Muddled Times?</h2>
+<p>
+The replies to this included News & Gossip, Editorial, Interviews, Game Info, Articles, Charts, Logs, Letters, Chat Sections (from previous issues), Event Reports, Quizzes.
+Game hints and tips was mentioned frequently.
+<h2>Is there any aspect of Muddled Times that you would like to see more of?</h2>
+<p>
+The responses to this included Logs, News & Gossip, Event Reports, Interviews, Quizzes, Myths & Legends.
+<h2>Is there anything else you would like to see in Muddled Times?</h2>
+<p>
+Suggested ideas were:
+<p><ul>
+<li>A list of article ideas/titles
+<li>Character biographies
+<li>Death chart
+</ul>
+<p> <div align="center"><img src="icon/default.gif" alt="*"></div> <p>
+The first and third of the suggested ideas have both been implemented in this issue. The suggestion of character biographies is something I can work on if enough people are willing to volunteer the information. Are there any other ideas that people have for Muddled Times? If so, please fill in a feedback form and I will try and incorporate any feasible ideas in the next issue.
+<p><br clear=all><div align="center"><span class="missing">Mail the author</span><br><br></div><div align="right">... <a href="issue.fod_IssueId_30">click here</a> to return to the front page.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

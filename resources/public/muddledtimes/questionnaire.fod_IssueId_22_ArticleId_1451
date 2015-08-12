@@ -1,0 +1,96 @@
+<html>
+<head>
+<title>Muddled Times - What's In A Name Questionnaire</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 23, August 2003</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Questionnaires</b></td></tr>
+<tr><td align=right>Author:</td><td><b>Cat</b></td></tr>
+</table>
+<h1>What's In A Name Questionnaire</h1>
+<form method="post" action="questionnaire.fod">
+<table border="0" cellpadding="8">
+<tr><td colspan="2"><p>Read the <a href="article.fod_IssueId_22_ArticleId_1432">What's In A Name</a> article before completing this questionnaire.</p>
+</td></tr>
+<tr><td align="right" valign="top">1.</td>
+<td valign="top">Do you keep the same name, or have a long series of disposable ones?<br>
+<textarea name="q_1" rows="5" cols="58"></textarea></td></tr>
+<tr><td align="right" valign="top">2.</td>
+<td valign="top">Has this changed over time?<br>
+<textarea name="q_2" rows="5" cols="58"></textarea></td></tr>
+<tr><td align="right" valign="top">3.</td>
+<td valign="top">Do you think particular names of yours have been lucky/unlucky?<br>
+<textarea name="q_3" rows="5" cols="58"></textarea></td></tr>
+<tr><td align="right" valign="top">4.</td>
+<td valign="top">What has been your favourite name?<br>
+<textarea name="q_4" rows="5" cols="58"></textarea></td></tr>
+<tr><td align="right" valign="top">5.</td>
+<td valign="top">Is this the name you are usually known as? (And what is that by the way?)<br>
+<textarea name="q_5" rows="5" cols="58"></textarea></td></tr>
+<tr><td align="right" valign="top">6.</td>
+<td valign="top">From what sources do you discover new names?<br>
+<textarea name="q_6" rows="5" cols="58"></textarea></td></tr>
+<tr><td align="right" valign="top">7.</td>
+<td valign="top">Do you find it difficult to find a new name?<br>
+<textarea name="q_7" rows="5" cols="58"></textarea></td></tr>
+<tr><td align="right" valign="top">8.</td>
+<td valign="top">Do you get other people to suggest them for you?<br>
+<textarea name="q_8" rows="5" cols="58"></textarea></td></tr>
+<tr><td align="right" valign="top">9.</td>
+<td valign="top">Do you go for aesthetic appeal or utilitarian functionality in a name?<br>
+<textarea name="q_9" rows="5" cols="58"></textarea></td></tr>
+<tr><td align="right" valign="top">10.</td>
+<td valign="top">What names do you admire in other people?<br>
+<textarea name="q_10" rows="5" cols="58"></textarea></td></tr>
+<tr><td align="right" valign="top">11.</td>
+<td valign="top">What sort of names make you suspicious?<br>
+<textarea name="q_11" rows="5" cols="58"></textarea></td></tr>
+<tr><td align="right" valign="top">12.</td>
+<td valign="top">Have you ever stolen a name/ had one stolen from you, and how did you feel about it?<br>
+<textarea name="q_12" rows="5" cols="58"></textarea></td></tr>
+<tr><td align="right" valign="top">13.</td>
+<td valign="top">What names do you particularly dislike?<br>
+<textarea name="q_13" rows="5" cols="58"></textarea></td></tr>
+<tr><td align="right" valign="top">14.</td>
+<td valign="top">Have you ever had a prefix? <br>
+<textarea name="q_14" rows="5" cols="58"></textarea></td></tr>
+<tr><td align="right" valign="top">15.</td>
+<td valign="top">If you chose it, why? And what did you do to obtain it?<br>
+<textarea name="q_15" rows="5" cols="58"></textarea></td></tr>
+<tr><td align="right" valign="top">16.</td>
+<td valign="top">What sort of names do you think Witches and Wizards should have?<br>
+<textarea name="q_16" rows="5" cols="58"></textarea></td></tr>
+<tr><td align="right" valign="top">17.</td>
+<td valign="top">Should players be forbidden from using names which are too obviously mystique breaking? (Such as Lego for instance).<br>
+<textarea name="q_17" rows="5" cols="58"></textarea></td></tr>
+<tr><td colspan="2"></td></tr>
+<tr>
+<td></td>
+<td><input type="submit" name="submit" value="Send">
+<input type="hidden" name="ArticleId" value="1451">
+<input type="hidden" name="IssueId" value="22">
+<input type="hidden" name="acount" value="1">
+</table>
+</form>
+<div align="right">... <a href="issue.fod_IssueId_22">click here</a> to return to the front page.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

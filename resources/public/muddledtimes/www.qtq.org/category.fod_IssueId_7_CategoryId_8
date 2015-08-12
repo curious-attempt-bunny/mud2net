@@ -1,0 +1,40 @@
+<html>
+<head>
+<title>Muddled Times - Articles</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<div align="center" style="padding-bottom: 15px;">
+</div>
+Section: <b>Articles</b><br>
+<br><table width=100% cellpadding=15>
+<tr><td valign=top width="5%"><img src="icon/diam.gif" alt="-" border=0></td><td valign=top width="45%"><a href="article.fod_IssueId_7_ArticleId_1138">Oldham Mudmeet</a>
+<br>
+In our first mudmeet report from Oldham, Vulnax tells us what went on. </td><td valign=top width="5%"><img src="icon/diam.gif" alt="-" border=0></td><td valign=top width="45%"><a href="article.fod_IssueId_7_ArticleId_1139">The Oldham Mudmeet Photos</a>
+<br>
+As usual, Karya and Foddy took their cameras to the meet. Here, you (or at least those of you not featured) will be pleased to know, are the results.</td></tr><tr><td valign=top width="5%"><img src="icon/diam.gif" alt="-" border=0></td><td valign=top width="45%"><a href="article.fod_IssueId_7_ArticleId_1140">The Oldham Mudmeet Report</a>
+<br>
+Nope, you're not seeing things, a second mudmeet report! This one, by Poledra, gives a slightly different slant on the proceedings.</td><td valign=top width="5%"><img src="icon/diam.gif" alt="-" border=0></td><td valign=top width="45%"><a href="article.fod_IssueId_7_ArticleId_1141">The Challenge of Pking</a>
+<br>
+Why do players PK? LordRayden discusses the real reasons behind it.</td></tr><tr><td valign=top width="5%"><img src="icon/diam.gif" alt="-" border=0></td><td valign=top width="45%"><a href="article.fod_IssueId_7_ArticleId_1146">End of an Era</a>
+<br>
+As Cockroach leaves MUD, he remembers some of the good times that he's had. </td></table><div align=right>... <a href="issue.fod_IssueId_7">click here</a> to return to the front page.
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

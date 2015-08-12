@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>Muddled Times - News & Gossip</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+Section: <b>News & Gossip</b><br>
+<br><table width=100% cellpadding=15>
+<tr><td valign=top width="5%"><img src="icon/diam.gif" alt="-" border=0></td><td valign=top width="45%"><a href="article.fod_IssueId_22_ArticleId_1435">Wizrundave 19</a>
+<br>
+Who will fall under Wizrundave's spell this month?</td><td valign=top width="5%"><img src="icon/diam.gif" alt="-" border=0></td><td valign=top width="45%"><a href="article.fod_IssueId_22_ArticleId_1436">Crazyfool's Column - August 2003</a>
+<br>
+A crazy column from the craziest man in MUD2!</td></tr><tr><td valign=top width="5%"><img src="icon/diam.gif" alt="-" border=0></td><td valign=top width="45%"><a href="article.fod_IssueId_22_ArticleId_1437">Player Of The Month - July 2003</a>
+<br>
+The Player Of The Month title is back!</td><td valign=top width="5%"><img src="icon/diam.gif" alt="-" border=0></td><td valign=top width="45%"><a href="article.fod_IssueId_22_ArticleId_1438">Death Of The Month - July 2003</a>
+<br>
+With Player Of The Month comes Death Of The Month ...</td></tr></table><div align=right>... <a href="issue.fod_IssueId_22">click here</a> to return to the front page.
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

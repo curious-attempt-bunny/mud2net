@@ -1,0 +1,1537 @@
+<html>
+<head>
+<title>Muddled Times - Interview with Fruitbat.</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 6, October 2000</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Interviews</b></td></tr>
+</table>
+<p>
+<table border=0 cellpadding=15><tr><td>
+<table border=5 cellpadding=5><tr><td BGCOLOR=black>
+<br><font face="AnsiCRT"><font color="#0000A8">[</font><font color="#5454FC">----*</font><font color="#0000A8">]</font><font color="#FCFCFC">l</font></font>
+<br><font face="AnsiCRT"><font color="#54FC54">Sorcerer's room</font><font color="#FCFCFC">.</font></font>
+<br><font face="AnsiCRT"><font color="#00A800">You look around you
+in disbelief at the exotic room which you have discovered.</font></font>
+<br><font face="AnsiCRT"><font color="#00A800">It seems to be a room
+used by some sorcerer, wherein he bound his spells and</font></font>
+<br><font face="AnsiCRT"><font color="#00A800">worked his magic. The
+room is lit by an illusory red light, and many of the</font></font>
+<br><font face="AnsiCRT"><font color="#00A800">strange objects you
+see defy description. To the north is a door inscribed</font></font>
+<br><font face="AnsiCRT"><font color="#00A800">with strange runic symbols,
+but there is no other exit. </font><font color="#00A8A8">The rune-inscribed</font></font>
+<br><font face="AnsiCRT"><font color="#00A8A8">door is locked shut.
+A compound of coloured crystals gives off a heavy vapour</font></font>
+<br><font face="AnsiCRT"><font color="#00A8A8">here.</font></font>
+<br><font face="AnsiCRT"><font color="#FC5454">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#FC5454">
+wizard) is here.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">ok ... are you ready?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) exclaims "</font><font color="#FCFC54">As ready as I will ever
+be!</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">How long have you been playing
+on WP MUD2 for?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">I started playing from about
+a month after it started on Wireplay</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">On and off</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Didn't get into it for ages</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">when did you start playing on
+Wireplay?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">I think it was about three years
+ago, although I'm sure Richard could give you a more accurate date</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">How did you come across MUD2
+on WP?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">I saw it in the list of games
+available to play and wondered what it was...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#54FCFC">An old, dignified, grandfather
+clock ticks away unobtrusively, its case closed.</font></font>
+<br><font face="AnsiCRT"><font color="#0000A8">[</font><font color="#5454FC">----*</font><font color="#0000A8">]</font><font color="#FCFCFC">op
+gfc</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">The grandfather clock
+opens at the front, widely enough for you to enter...</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">...looked to see how big the
+download was and it was so small I decide I would give it a go</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">you were already a keen WP player
+at that point?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">I was a Beta Tester originally
+for WP, so yes</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">The grandfather clock
+suddenly disappears.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">ahh, how did you end up being
+a Beta Tester for</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">WP?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">I was stopped in the Town Centre
+and asked if I had a computer, to which I said yes...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">... they then asked if I had
+heard of the Internet and online gaming, to which I said yes...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">...they then asked if I owned
+a modem, to which I said yes :) ...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">...so they told me about the
+service and asked if I wanted to be sent the free beta software to test
+for them, to which surprisingly I said yes to</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">what games did you regularly
+play on WP at that</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">point?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Descent, Doom and a little bit
+of Ef2000</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">what were your first impressions
+of MUD2?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#0000A8">[</font><font color="#5454FC">----*</font><font color="#0000A8">]</font><font color="#FCFCFC">qw</font></font>
+<br><font face="AnsiCRT"><font color="#FC5454">Boggy the wizard</font></font>
+<br><font face="AnsiCRT"><font color="#FC5454">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#FC5454">
+wizard)</font></font>
+<br><font face="AnsiCRT"><font color="#FC5454">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#FC5454">
+witch)</font></font>
+<br><font face="AnsiCRT"><font color="#FC5454">Azzuri the </font><font color="#5454FC">s</font><font color="#0000A8">u</font><font color="#5454FC">p</font><font color="#0000A8">e</font><font color="#5454FC">r</font><font color="#0000A8">s</font><font color="#5454FC">o</font><font color="#0000A8">n</font><font color="#5454FC">i</font><font color="#0000A8">c</font><font color="#FC5454">
+wizard</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Autox the warrior</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Chaple the protector</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Maverick the protector</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Trouble the deep, deep
+necromancer</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Michael the hero</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Disposable the swordsman</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Dclxvi the protector</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Dennis the yeoman</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Darknight the necromancer</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Constable the hero</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Puddy the necromancess</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Heiach the hero</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Iceman the sorcerer</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Art the matriarch</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Virus the warlock</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Mungji the swordsman</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Dronko the prelate</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Tensai the priest</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Tyrion the swordsman</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Thecaptin the hero</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Jacobite the sorcerer</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Although they were all hideously
+slow and buggy</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">First time I logged in I was
+completely overwhelmed</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">why was that?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">I find it quite hard to grasp
+the whole concept of a text game...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">...and that I could be larger
+and more complex in some ways that all the other games I had played previously</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">I had never seen a MUD before</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">nods.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">I think that is why I didn't
+like it at first</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Was so much to know even for
+a newbie to play...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) exclaims "</font><font color="#FCFC54">...but I kept coming back
+cause it was so interesting and a great challenge!</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#54FCFC">An old, dignified, grandfather
+clock ticks away unobtrusively, its case closed.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">have you tried any other MUDS
+since starting</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">playing on WP MUD2?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Bar MUD2.com, no</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Although...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">The grandfather clock
+suddenly disappears.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">... a colleague at work has
+started getting into MUD's since he sees me play at work...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">... He plays the DragonLance
+style MUD's</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">From what I have seen I don't
+think they are as good at this :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">But then again I'm biased :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Darknight the necromancer
+has just arrived.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Darknight the necromancer
+</font><font color="#FCFC54">blinks.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Darknight the necromancer
+says "</font><font color="#FCFC54">did i miss something?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Evening traveller</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Darknight the necromancer
+</font><font color="#FCFC54">laughs.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Darknight the necromancer
+says "</font><font color="#FCFC54">traveller lol</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Apart from the exit, no</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">smiles.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Darknight the necromancer
+</font><font color="#FCFC54">smiles.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">waves.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Darknight the necromancer
+says "</font><font color="#FCFC54">should i not be here? a private meeting?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Just kidding...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Darknight
+</font><font color="#FCFC54">starts
+to read the runes</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">... your welcome to be in here
+:)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Darknight the necromancer
+</font><font color="#FCFC54">smiles.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+glances around.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+makes some magical gestures.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+makes some magical gestures.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Except you do know this is my
+favourite place to kill ppl don't you? :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">cackles.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Darknight the necromancer
+</font><font color="#FCFC54">nods.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Darknight the necromancer
+says "</font><font color="#FCFC54">i remember :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Darknight the necromancer
+</font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has just fallen asleep.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has woken up!</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Ohhh what an easy kill, he's
+even</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">asleep</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has just fainted.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has woken up!</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">laughs.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Darknight the necromancer
+says "</font><font color="#FCFC54">hang on ill blind myself too</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+makes some magical gestures.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has just fallen asleep.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+moves his eyes around rapidly as he sleeps.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has woken up!</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+makes some magical gestures.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has suddenly disappeared!</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Darknight the necromancer
+has just left.</font></font>
+<br><font face="AnsiCRT"><font color="#5454FC">For your information:
+there are 150 mobiles still alive.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">how does MUD2.com compare to
+WP MUD2?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Darknight the necromancer
+has just arrived.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+makes some magical gestures.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has suddenly disappeared!</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Darknight the necromancer
+has just left.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">To easy I thought because there
+is hardly anyone on there</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">And the lag doesn't make the
+experience as enjoyable I don't believe</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">nods.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Although that is just my opinion</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Good fun to go victimize their
+players though</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">chuckles.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">A lot of them dont seem to have
+the same...what is the word...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">...cautiousness about other
+unknown players (pks) in the land...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Which makes for lucrative resets</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">nods.</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Darknight the necromancer
+has just arrived.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">grins wickedly</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has just fallen asleep.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has woken up!</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has suddenly disappeared!</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Darknight the necromancer
+has just left.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">I play there less than I do
+here though because with limited time I would always chose this MUD over
+.com</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">what name did you first start
+playing as on here?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">First name...hmmm...tricky one</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">I was really into the David
+Edding books so I think I used some names from that</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">nods.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Barak, Hetter, Garion etc</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Also had Venger for a while
+which is a non-mud name I use</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">who were you best known as first?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Darknight the necromancer
+has just arrived.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has just fallen asleep.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has woken up!</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Had to be Velvet without a doubt</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has just fallen asleep.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has woken up!</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">I was a nobody, :) , before
+that</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">persona</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Darknight the necromancer
+says "</font><font color="#FCFC54">deafing wont help will it :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+moves his eyes around rapidly as he sleeps.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has woken up!</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">why the name Velvet?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Darknight the necromancer
+says "</font><font color="#FCFC54">sorry lol didnt mean to interrupt</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has suddenly disappeared!</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Darknight the necromancer
+has just left.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">In one of the David Eddings
+Velvet was the name of one of the characters</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) says "</font><font color="#FCFC54">ahh</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">She was an assasin/spy/thief
+etc</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#5454FC">For your information:
+there are 125 mobiles still alive.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">why did you cease to be a nobody
+once you started playing as Velvet?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">laughs.</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Darknight the necromancer
+has just arrived.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has just fallen asleep.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has woken up!</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Darknight the necromancer
+says "</font><font color="#FCFC54">ooxooptoylia</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has just fallen asleep.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has woken up!</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Darknight the necromancer
+has just left.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Errr...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Syl the necromancer
+has just arrived.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Syl the necromancer
+</font><font color="#FCFC54">bows.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">waves.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Syl the necromancer
+</font><font color="#FCFC54">chuckles.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">...because it was a female persona</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Syl the necromancer
+says "</font><font color="#FCFC54">lo Karya, lo Fb mate</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Syl the necromancer
+asks "</font><font color="#FCFC54">u havin fun in here?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) exclaims "</font><font color="#FCFC54">hi Syl!</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Hiya Syl</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Syl the necromancer
+says "</font><font color="#FCFC54">made necro despite your attempts to
+stop me :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">laughs.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Syl the necromancer
+</font><font color="#FCFC54">coughs,
+i was damn lucky</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) asks "</font><font color="#FCFC54">When?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Syl the necromancer
+says "</font><font color="#FCFC54">in here last night :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Wasn't me m8</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Didn't play that much last night</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Syl the necromancer
+says "</font><font color="#FCFC54">erm yeah i'm sure it was.....as James...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Not me m8...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">...good name though</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Syl the necromancer
+</font><font color="#FCFC54">ponders.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Syl the necromancer
+says "</font><font color="#FCFC54">god damn i dunno whether your just flatly
+denying it now...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">laughs.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Syl the necromancer
+exclaims "</font><font color="#FCFC54">tsu agreed it was you, i'm sure!</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) exclaims "</font><font color="#FCFC54">Nah I wanted that name though
+for obvious reasons!</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Syl the necromancer
+says "</font><font color="#FCFC54">stop trying to confuse me</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Syl the necromancer
+mutters "</font><font color="#FCFC54">who the effin ell was it then</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">shrugs.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">No idea sorry</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Syl the necromancer
+says "</font><font color="#FCFC54">he kicked my ass with reattacks so i
+presumed it was you</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Syl the necromancer
+</font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Not me m8 sorry</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Syl the necromancer
+says "</font><font color="#FCFC54">lost 2.5k to him but managed to stay
+alive</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Syl the necromancer
+asks "</font><font color="#FCFC54">so.....why the sorc room?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) says "</font><font color="#FCFC54">I'm interviewing Fruitbat for
+Muddled Times</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Syl the necromancer
+exclaims "</font><font color="#FCFC54">oh...sorry!</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">chuckles.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Syl the necromancer
+asks "</font><font color="#FCFC54">do i get a mention for being unbelievably
+annoying and interrupying?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">laughs.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">laughs.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Syl the necromancer
+says "</font><font color="#FCFC54">erm interrupting</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) says "</font><font color="#FCFC54">you will appear in the interview,
+yes</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Syl the necromancer
+asks "</font><font color="#FCFC54">damn your not logging it are you to
+display straight?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">thinks, Syl just looking for his 10
+seconds of fame</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Syl the necromancer
+says "</font><font color="#FCFC54">okay i'll leave u lot alone then</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Syl the necromancer
+says "</font><font color="#FCFC54">sorry again :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Syl the necromancer
+</font><font color="#FCFC54">bows.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">waves.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">bows.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Syl the necromancer
+has suddenly disappeared!</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Syl the necromancer
+has just left.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">why did you choose to play a
+female persona?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Escapism from real life problems
+and because people were more friendly so I got some help</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) says "</font><font color="#FCFC54">do you think you got more help
+from other</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">players simply because
+you were female ...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Yes</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">or because you played an especially
+flirty</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">female?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">laughs.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) asks "</font><font color="#FCFC54">Was I that flirty?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) exclaims "</font><font color="#FCFC54">oh yes!</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#5454FC">For your information:
+there are 50 mobiles still alive.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) exclaims "</font><font color="#FCFC54">Velvet and Vella were incorrigible
+flirts!</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">I think all I wanna say about
+this is that I regret some of the things I did...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">you changed your name from Velvet
+to Vella, why</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">was this?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Because Kyric created a Velvet
+Cape...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">... game progression over-rides
+people's names</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">was Vella also an Eddings character?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Yes she was</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) says "</font><font color="#FCFC54">Do you think you received any
+favouritism from</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">either wizards, or key
+players simply for being female?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">In some ways I think I did,
+yes</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">would you have preferred to have
+made witch, or</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">wizard, and why?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) exclaims "</font><font color="#FCFC54">Wizard definitely!</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Why...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Hmmm</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Because after a while I was
+sick of playing a female persona</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">why?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">I wanted to be myself because
+I was making friends through MUD that I couldn't talk to in real life</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">nods.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">So I decided to change from
+female to male</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#5454FC">For your information:
+there are 25 mobiles still alive.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Although not the only reason
+for the switch</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">is there anything you miss about
+playing a</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">female persona?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">No not at all</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Will never do it again</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) says "</font><font color="#FCFC54">Vella was very anti-pk, but your
+next batch of</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">personae were PKs ...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">chuckles.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">why the switch?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">I wanted to try something new
+for a change...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">... as Vella I just swamped
+treasure and tried to kill pk's....</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">... however after years of that
+it gets a bit boring...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">... so I wanted to try something
+new</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#54FCFC">An old, dignified, grandfather
+clock ticks away unobtrusively, its case closed.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">what did you enjoy most about
+playing a PK?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">The grandfather clock
+suddenly disappears.</font></font>
+<br><font face="AnsiCRT"><font color="#0000A8">[</font><font color="#5454FC">----*</font><font color="#0000A8">]</font><font color="#FCFCFC">qw</font></font>
+<br><font face="AnsiCRT"><font color="#FC5454">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#FC5454">
+wizard)</font></font>
+<br><font face="AnsiCRT"><font color="#FC5454">Boggy the wizard</font></font>
+<br><font face="AnsiCRT"><font color="#FC5454">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#FC5454">
+witch)</font></font>
+<br><font face="AnsiCRT"><font color="#FC5454">Azzuri the </font><font color="#5454FC">s</font><font color="#0000A8">u</font><font color="#5454FC">p</font><font color="#0000A8">e</font><font color="#5454FC">r</font><font color="#0000A8">s</font><font color="#5454FC">o</font><font color="#0000A8">n</font><font color="#5454FC">i</font><font color="#0000A8">c</font><font color="#FC5454">
+wizard</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Syl</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Tom the protector</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Jesus the hero</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Mungji the swordsman</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Puddy the </font><font color="#FC54FC">bash-general</font><font color="#A80000">
+swordswoman</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Heiach the superhero</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Poledra the sorceress</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Henry the superhero</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Sycophant the priestess</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Dclxvi the protector</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Muncaster the sorceress</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Tyrion the swordswoman</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Emily the giant-killing
+heroine</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Michael the hero</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Mrsoft the mint-choc-chip
+sorcerer</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Autox the warrior</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Maverick the hero</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Dennis the giant-killing
+superhero</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Frosty the superheroine</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Sparticus the swordsman</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Astral the matriarch</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Trouble the deep, deep
+necromancer</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Darknight the necromancer</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Iceman the giant-killing
+sorcerer</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Art the matriarch</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Dronko the prelate</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Tensai the priest</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Thecaptin the giant-killing
+superhero</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Jacobite the sorcerer</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">The challenge and the adrenaline
+rush :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">who did you play as after Vella?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Nobody</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">why the name, Nobody?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">laughs.</font></font>
+<br><font face="AnsiCRT"><font color="#5454FC">For your information:
+there are 15 mobiles still alive.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Because I wanted to be anonymous</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">... also...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">... because you can sometimes
+guess people's new personas because they go for similar names if you know
+what I mean</font><font color="#A85400">"</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">nods.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Where as Nobody didnt give any
+clue to any previous names I had</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) says "</font><font color="#FCFC54">but what went wrong, people started
+to guess</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">that Nobody was Vella</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">I think that started with the
+wizzes first</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Then it trickled down the 'grape
+vine' as it were</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">No matter how hard to try you
+always drop little hints or clues to who you are...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#5454FC">For your information:
+there are 10 mobiles still alive.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">... I had been playing about
+2 years by then so I had some habits in my playing style that I didn't
+realise would give me away</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">nods.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">eventually you admitted that
+you were also</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">Vella, was that hard
+to do?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Yes it was</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Because I was worried that I
+would lose the friends that I had made</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">nods.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">but you didn't, did you?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">The ones that counted, no</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">In fact I think the friendships
+I had became stronger...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">nods.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">... because I could finally
+meet these people, such as yourself :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">thinks, we still seem to be on the
+whole Vella subject</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) says "</font><font color="#FCFC54">there was one mudmeet (the Kingston
+meet) where</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">you went as Fruitbat,
+but noone knew officially that you were also Vella, how did that feel?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Darknight the necromancer
+has just arrived.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has just fallen asleep.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has woken up!</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">laughs.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has suddenly disappeared!</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Darknight the necromancer
+has just left.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Yeah was a very interesting
+meet :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">did you get lots of people asking
+who you</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">really were?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">It felt very strange because
+I was paranoid that I would get confronted by people about it</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Yes I did get lot and lots of
+people asking :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Especially one person that quizzed
+me all meet :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#FCFCFC">
+wizard) eyes you.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">chuckles.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) exclaims "</font><font color="#FCFC54">I didn't quiz you ALL the
+meet!</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">But I didn't mind, sort of expected
+it</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">laughs.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">For about 80% you did :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">It was fun, sort of :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Because I knew you knew</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">how did you know that I knew?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Look in your eye</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#54FCFC">An old, dignified, grandfather
+clock ticks away unobtrusively, its case closed.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) says "</font><font color="#FCFC54">ahh</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">No joke :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Suddenly, you hear the
+grandfather clock chime:</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Ding dong ding dong,</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Ding dong ding dong.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">The grandfather clock
+suddenly disappears.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">And, you were asking all the
+right questions from memory</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">But ANYWAY....lets change the</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">subject! :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) says "</font><font color="#FCFC54">apart from the whole swopping
+persona stuff,</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">how did it feel going
+to a mudmeet for the first time</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Exciting :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Very exciting in fact :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">was it weird putting faces and
+characters to</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">people you had only
+known online?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#5454FC">For your information:
+there are 5 mobiles still alive.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">I didn't find it that weird,
+I think what was more scary was meeting people I had killed :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Also, how people were had similar
+habits to their personas</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">why the name, Fruitbat?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">My best friend reads loads of
+DragonLance, David Eddings, Raymond E. Feist etc etc and he had leant me
+a</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">book...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">...I was just flicking through
+it for names and stopped on a page and the first thing I saw was the word
+Fruitbat</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">It was just fate :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) says "</font><font color="#FCFC54">did you know that ....</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">Fruitbats have the largest penises
+for their</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">body weight?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Is that a question or a statement?
+:)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Not sure what sort of response
+you want from that :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) says "</font><font color="#FCFC54">I wondered if that had anything
+to do with your</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">choice of name</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">laughs.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">No it wasn't. I didn't even
+know that until you told me then</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">chuckles.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) exclaims "</font><font color="#FCFC54">I'll let you off then!</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">How rude of you Karya :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">laughs.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Ciara and Jincks have seen me
+in my boxer shorts, ask them :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">laughs.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) says "</font><font color="#FCFC54"> ... anyway, moving rapidly on
+...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">laughs.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Good :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">who has influenced you greatly
+in MUD2 and</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">why?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">thinks.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Turrican I think it would have
+to be</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">holds back a tear.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) exclaims "</font><font color="#FCFC54">What a guy!</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">laughs.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) exclaims "</font><font color="#FCFC54">do tell why!</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">thinks he is gunna get his arse kicked
+now :)</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">There is a knocking
+at the rune-inscribed door.</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Muncaster the sorceress
+has just arrived.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Muncaster the sorceress
+makes some magical gestures.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Muncaster the sorceress
+</font><font color="#FCFC54">blinks.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">waves.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Muncaster the sorceress
+makes some magical gestures.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Muncaster the sorceress
+</font><font color="#FCFC54">waves.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">The fear factor and respect</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Muncaster the sorceress
+makes some magical gestures.</font></font>
+<br><font face="AnsiCRT"><font color="#FC5454">Muncaster the sorceress
+emits a </font><font color="#00A800">dark green</font><font color="#FC5454">
+flash of light.</font></font>
+<br><font face="AnsiCRT"><font color="#FC5454">Muncaster the sorceress
+emits a </font><font color="#0000A8">dark blue</font><font color="#FC5454">
+flash of light.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">waves.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Muncaster the sorceress
+makes some magical gestures.</font></font>
+<br><font face="AnsiCRT"><font color="#FC5454">Muncaster the sorceress
+emits a </font><font color="#0000A8">dark blue</font><font color="#FC5454">
+flash of light.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Muncaster the sorceress
+makes some magical gestures.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Muncaster the sorceress
+makes some magical gestures.</font></font>
+<br><font face="AnsiCRT"><font color="#FC5454">Muncaster the sorceress
+has become crippled!</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Muncaster the sorceress
+has just fallen asleep.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Muncaster the sorceress
+has woken up!</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Muncaster the sorceress
+makes some magical gestures.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Muncaster the sorceress
+makes some magical gestures.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Muncaster the sorceress
+mutters something.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Muncaster the sorceress
+has suddenly disappeared!</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Muncaster the sorceress
+has just left.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">do you think she was trying to
+summon someone?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">laughs.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">If she was she wasn't doing
+a very good job :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Obviously a rookie</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">smiles.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">you feared and respected Turrican?
+Why?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">No I'm talking about everyone
+:)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) says "</font><font color="#FCFC54">ahh</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Why...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">...because he could walk into
+a reset at any time and empty the land</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">...he could fight in complete
+odds against him and still win</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">... the majority of people respected
+him because he is so bloody good at this game</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">respected and still do respect
+I should say</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Lets move on, dont want Turrican
+to get to big an ego :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">OK, (Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">laughs.</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Darknight the necromancer
+has just arrived.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has just fallen asleep.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has woken up!</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">do you remember your first (non
+low-life)</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">death?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) asks "</font><font color="#FCFC54">You mean first Sorc?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has just fallen asleep.</font></font>
+<br><font face="AnsiCRT"><font color="#0000A8">[</font><font color="#5454FC">----*</font><font color="#0000A8">]</font><font color="#FCFCFC">deaf
+darknight</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has woken up!</font></font>
+<br><font face="AnsiCRT"><font color="#FC5454">Darknight the necromancer
+has gone deaf!</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Darknight the necromancer
+</font><font color="#FCFC54">smiles.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has just fallen asleep.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) says "</font><font color="#FCFC54">yes, or above</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has woken up!</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Darknight the necromancer
+whispers "</font><font color="#FCFC54">ta</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has just fallen asleep.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">First Sorc died with 10 mins
+to Turrican</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">laughs.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Took me 6 months to get it and
+died within 10, it sucked but hey you just gotta pick yourself up from
+these things</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">how did you lose your first mage?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">thinks.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+moves his eyes around rapidly as he sleeps.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Either Dragon or Turrican -
+can't remember sorry</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has woken up!</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Darknight the necromancer
+says "</font><font color="#FCFC54">iageeloochai</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has just fallen asleep.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">what has been your most upsetting/traumatic</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">death?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has woken up!</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+makes some magical gestures.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Darknight the necromancer
+has suddenly disappeared!</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Darknight the necromancer
+has just left.</font></font>
+<br><font face="AnsiCRT"><font color="#0000A8">[</font><font color="#5454FC">----*</font><font color="#0000A8">]</font><font color="#A85400">(Fruitbat
+the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">thinks.</font></font>
+<br><font face="AnsiCRT"><font color="#0000A8">[</font><font color="#5454FC">----*</font><font color="#0000A8">]</font><font color="#FCFCFC">reset</font></font>
+<br><font face="AnsiCRT"><font color="#A8A8A8">Time-stamp: 22:45:35
+on 28-SEP-2000.</font></font>
+<br><font face="AnsiCRT"><font color="#A8A8A8">This is reset 199, using
+slot 0.</font></font>
+<br><font face="AnsiCRT"><font color="#A8A8A8">An auto-reset will be
+initiated in approximately 1 minute.</font></font>
+<br><font face="AnsiCRT"><font color="#0000A8">[</font><font color="#5454FC">----*</font><font color="#0000A8">]</font><font color="#FCFCFC">sv</font></font>
+<br><font face="AnsiCRT"><font color="#A8A8A8">1 alive, 283 dead.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Don't remember, must of had
+one though I suppose...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">...probably my first sorc</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">nods.</font></font>
+<br><font face="AnsiCRT"><font color="#5454FC">Auto-reset initiated,
+you have 320 seconds to finish up. No further warnings will be issued!</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">6 months of work gone in a second</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Mortals now-a-days dont know
+how lucky they are....</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">... blah, blah, blah, they complain
+about it taking a week</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) says "</font><font color="#FCFC54">its true though, it took us ages
+then to make</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">sorc, but now it seems
+to take people far less time</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">nods.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) exclaims "</font><font color="#FCFC54">any idea why this is, were
+were really that</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">bad?!</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Because the game is to easy
+now-a-days</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">how has the game changed?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Lots and lots of treasure to
+swamp for one thing</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Giants give you about 2k more
+of treasure</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">nods.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">I think basic game knowledge
+has changed as well...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">how?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">... When I was new things like
+the Dragon and HH and Keep were really well kept secrets</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">No one told anyone anything
+and you had to find it all out the hard way - dying</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">nods.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Now people just tell each other
+how to do things or snoop</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Its a lot more open a community
+in general I would say</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">nods.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">People are a lot more willing
+to help - also willing to stick a dagger in your back...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">but hey nothings perfect :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) says "</font><font color="#FCFC54">yes, there seems to be a lot
+more lower level</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">PKing going on these
+days</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) mutters "</font><font color="#FCFC54">cabbage</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) mutters "</font><font color="#FCFC54">lettuce</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">do you think this has an effect
+on the newbies</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">trying to learn about
+the game?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Yes definitely</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">any ideas what we can do about
+it?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#0000A8">[</font><font color="#5454FC">----*</font><font color="#0000A8">]</font><font color="#FCFCFC">reset</font></font>
+<br><font face="AnsiCRT"><font color="#A8A8A8">Time-stamp: 22:50:26
+on 28-SEP-2000.</font></font>
+<br><font face="AnsiCRT"><font color="#A8A8A8">This is reset 199, using
+slot 0.</font></font>
+<br><font face="AnsiCRT"><font color="#A8A8A8">A reset is due in 46
+seconds.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">You never know for sure if someone
+is new or not unless you can see them playing</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Jacobite the sorcerer
+has just arrived.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Jacobite the sorcerer
+</font><font color="#FCFC54">waves.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">waves.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Jacobite the sorcerer
+makes some magical gestures.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Remove the Cabbage and Lettuce
+to start with...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Jacobite the sorcerer
+mutters something.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Jacobite the sorcerer
+has suddenly disappeared!</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Jacobite the sorcerer
+has just left.</font></font>
+<br><font face="AnsiCRT"><font color="#5454FC">Something magical is
+happening.</font></font>
+<p><i><font face="AnsiCRT"><font color="#FCFCFC">The next reset ...</font></font></i>
+<p><font face="AnsiCRT"><font color="#FCFCFC">Players:</font></font>
+<br><font face="AnsiCRT"><font color="#FC5454">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#FC5454">
+witch)</font></font>
+<br><font face="AnsiCRT"><font color="#FC5454">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#FC5454">
+wizard)</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Trouble the deep, deep
+necromancer</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Frosty the superheroine</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Poledra the sorceress</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Mcvities the warlock</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Iceman the sorcerer</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Tensai the priest</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Darknight the necromancer</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Puddy the swordswoman</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Muncaster the necromancess</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Anon the hero</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Maverick the hero</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Michael the hero</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Heiach the superhero</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Emily the heroine</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Thecaptin the superhero</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Art the matriarch</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Dclxvi the protector</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Seamus the mage</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Dennis the superhero</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">A male voice in the
+distance shouts "</font><font color="#FCFC54">it was golem</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">A male voice in the
+distance shouts "</font><font color="#FCFC54">u coulda given us time wizzes
+:(</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">A female voice in the
+distance shouts "</font><font color="#FCFC54">it was golem guys and we
+just got in!!</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">A male voice in the
+distance shouts "</font><font color="#FCFC54">u all should have shut up
+shouldnt have u</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">A male voice in the
+distance shouts "</font><font color="#FCFC54">we found it!</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#54FC54">Sorcerer's room</font><font color="#FCFCFC">.</font></font>
+<br><font face="AnsiCRT"><font color="#00A8A8">The rune-inscribed door
+is locked shut. </font><font color="#54FCFC">On the ground lies a stethoscope.
+</font><font color="#00A8A8">A</font></font>
+<br><font face="AnsiCRT"><font color="#00A8A8">compound of coloured
+crystals gives off a heavy vapour here. </font><font color="#54FCFC">Lying
+on the</font></font>
+<br><font face="AnsiCRT"><font color="#54FCFC">ground is an ogygian,
+cerulean scarab.</font></font>
+<br><font face="AnsiCRT"><font color="#FC5454">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#FC5454">
+wizard) is here.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">waves.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">waves.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">As I was saying... :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">... I think there should also
+be tougher rules for people pking newbies or just low life pking in general</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">what kind of rules?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">However, very hard to enforce
+these sort of things</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">nods.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">What kind...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">If your found to be pking low
+lifes all the time then maybe some sort of penalty</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">nods.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Like I said it very very hard
+to come up with something thats fair on everyone</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">nods.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">And also to enforce whatever
+you try to put into place</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Someone is always going to lose
+out</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">But I think people need to remember
+this...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">...if you go around killing
+newbies then your effectively killing MUD because it will probably only
+to continue to work as a community with intake of fresh players</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">what is your favourite part of
+the game?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#0000A8">[</font><font color="#5454FC">----*</font><font color="#0000A8">]</font><font color="#A85400">(Fruitbat
+the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Could you explain that one a</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">bit more please K</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Tensai the priest has
+just arrived.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Tensai the priest has
+picked up the scarab.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Tensai the priest has
+picked up the stethoscope.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Tensai the priest has
+just tried to tickle you!</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">waves.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">waves.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Tensai the priest </font><font color="#FCFC54">waves.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">which area of the game do you
+like the best?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Tensai the priest asks
+"</font><font color="#FCFC54">soz am I disturbing u?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Tensai the priest has
+just fallen asleep.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Tensai the priest has
+woken up!</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) says "</font><font color="#FCFC54">just interviewing Fruitbat for
+Muddled Times</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">I like it all because there
+is a useful item in every place :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Tensai the priest says
+"</font><font color="#FCFC54">oh</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">There is a knocking
+at the rune-inscribed door.</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Iceman the sorcerer
+has just arrived.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">grumbles.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Iceman the sorcerer
+</font><font color="#FCFC54">bows.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">laughs.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">waves.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Tensai the priest asks
+"</font><font color="#FCFC54">may i listen plz?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Iceman the sorcerer
+says "</font><font color="#FCFC54">wow</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">nods.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">goes for the evasive answer</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Iceman the sorcerer
+has suddenly disappeared!</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Iceman the sorcerer
+has just left.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">ok, why did you chose this room
+to be</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">interviewed in?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Tensai the priest looks
+at the croquet mallet.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Tensai the priest says
+"</font><font color="#FCFC54">bye bye</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Tensai the priest </font><font color="#FCFC54">waves.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">waves.</font></font>
+<br><font face="AnsiCRT"><font color="#FCFCFC">Tensai the priest has
+suddenly disappeared!</font></font>
+<br><font face="AnsiCRT"><font color="#A80000">Tensai the priest has
+just left.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Well I really wanted to do it
+in the Rock Passage as that is where I made wiz but people would always
+interrupt there :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">nods.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">So I chose here...</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#0000A8">[</font><font color="#5454FC">----*</font><font color="#0000A8">]</font><font color="#FCFCFC">l</font></font>
+<br><font face="AnsiCRT"><font color="#54FC54">Sorcerer's room</font><font color="#FCFCFC">.</font></font>
+<br><font face="AnsiCRT"><font color="#00A800">You look around you
+in disbelief at the exotic room which you have discovered.</font></font>
+<br><font face="AnsiCRT"><font color="#00A800">It seems to be a room
+used by some sorcerer, wherein he bound his spells and</font></font>
+<br><font face="AnsiCRT"><font color="#00A800">worked his magic. The
+room is lit by an illusory red light, and many of the</font></font>
+<br><font face="AnsiCRT"><font color="#00A800">strange objects you
+see defy description. To the north is a door inscribed</font></font>
+<br><font face="AnsiCRT"><font color="#00A800">with strange runic symbols,
+but there is no other exit. </font><font color="#00A8A8">The rune-inscribed</font></font>
+<br><font face="AnsiCRT"><font color="#00A8A8">door is locked shut.
+A compound of coloured crystals gives off a heavy vapour</font></font>
+<br><font face="AnsiCRT"><font color="#00A8A8">here.</font></font>
+<br><font face="AnsiCRT"><font color="#FC5454">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#FC5454">
+wizard) is here.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">pats the walls fondly</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">laughs.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Me and these walls have been
+through a lot :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Dennis the spellbinder</font><font color="#FCFC54">
+bids everyone night.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">how did you feel when you made
+wiz?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Happy but sad</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">why sad?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Because I had to leave behind
+my friends and being mortal</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">nods.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">I don't think I really wanted
+to be a wiz</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">why did you go for wiz?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Just that it was something that
+I hadn't done also a great challenge. I didn't think there was much else</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">to try</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Also, get some people off my
+back about it :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">grins.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) asks "</font><font color="#FCFC54">I think that just about wraps
+it up, is there</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">anything you'd like
+to say for Muddled Times?</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) </font><font color="#FCFC54">thinks.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">Not that I can think of now,
+nope</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">Trouble the deep, deep
+necromancer</font><font color="#FCFC54"> bids everyone night.</font></font>
+<br><font face="AnsiCRT"><font color="#54FCFC">An old, dignified, grandfather
+clock ticks away unobtrusively, its case closed.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) says "</font><font color="#FCFC54">Thank you for letting me interview
+you for</font></font>
+<br><font face="AnsiCRT"><font color="#FCFC54">Muddled Times</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">
+wizard) says "</font><font color="#FCFC54">A pleasure, I think :)</font><font color="#A85400">".</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Karya the </font><font color="#00A8A8">d</font><font color="#54FCFC">r</font><font color="#FCFCFC">ea</font><font color="#54FCFC">m</font><font color="#00A8A8">y</font><font color="#A85400">
+witch) </font><font color="#FCFC54">laughs.</font></font>
+<br><font face="AnsiCRT"><font color="#A85400">(Fruitbat the </font><font color="#A80000">slaughtering</font><font color="#A85400">wizard)
+says "</font><font color="#FCFC54">Your Welcome K :)</font><font color="#A85400">".</font></font>
+<br>&nbsp;
+</td></tr></table>
+</td></tr></table>
+<p><br clear=all><div align=right>... <a href="issue.fod_IssueId_3">click here</a> to return to the front page.
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

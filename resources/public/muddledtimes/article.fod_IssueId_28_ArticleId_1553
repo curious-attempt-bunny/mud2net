@@ -1,0 +1,147 @@
+<html>
+<head>
+<title>Muddled Times - Death Of The Month - September-October 2004</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<div align="center" style="padding-bottom: 15px;">
+</div>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 29, March 2005</b></td></tr>
+<tr><td align=right>Section:</td><td><b>News & Gossip</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Crowley</span></b></td></tr>
+</table>
+<p>
+<h1>Death of the Month</h1>
+<p>
+Joejitzu, Joejitzu, you don't know what... hit-ju. Ok, needs some
+work.
+</p>
+<p>
+This issue's DOTM is wholely dedicated to that self-motivated suicide
+machine, Joejitzu. Such dedication to the cause of personal immolation
+should be lauded, congratulated, and most of all, laughed at. Hooray
+for Joe! First off we see him swig down a couple of vials, leading to
+an eight stamina creature summon, and a rather unpleasant end. Then we
+move swiftly onwards to the shameful humiliation of death at the hands
+of a hero. Better luck next time Joe!
+</p>
+<h2>Death of the Month: September 2004</h2>
+</p>
+<table border=0 cellpadding=15><tr><td>
+<table border=5 cellpadding=5><tr><td BGCOLOR=black>
+<pre><font color="white">
+The smooth, sweet-tasting potion glides down your throat...
+(Persona saved on +10 = <span id="g1">28,632</span>).
+<span id="spell">You have suddenly and magically gone blind!</span>
+You were invisible anyway...
+<span id="inv">(<span id="prompt">*</span>)</span>Ahh! Relief! Furthermore, the potty magically cleans itself
+afterwards! What a convenience!
+<span id="inv">(<span id="prompt">*</span>)</span>pour cc f phial
+Potion7 poured into opened phial0.
+Not all of the potion7 will fit in the opened phial0, some
+remains in the coracle.
+<span id="inv">(<span id="prompt">*</span>)</span>dri phial
+wee pot
+The smooth, sweet-tasting potion glides down your throat...
+(Persona saved on +10 = <span id="g1">28,642</span>).
+You were blind anyway...
+<span id="spell">The zombie3 has been summoned.</span>
+<span id="fight">Someone is about to attack you.</span>
+<span id="spell">The magpie has been summoned.</span>
+<span id="spell">The zombie1 has been summoned.</span>
+<span id="fight">Someone is about to attack you.</span>
+<span id="spell">The zombie5 has been summoned.</span>
+<span id="fight">Someone is about to attack you.</span>
+<span id="spell">The zombie6 has been summoned.</span>
+<span id="fight">Someone is about to attack you.</span>
+<span id="inv">(<span id="prompt">*</span>)</span>Your instinct for survival boldly dismisses the demands of
+your bladder! You're obviously not quite as frightened as you thought you
+were...
+[Literary aside: Robert Burns described a frightened mouse as
+a "Wee, sleekit, cow'rin', tim'rous beastie", which is rather appropriate
+for the particular function you thought to perform].
+<span id="inv">(<span id="prompt">*</span>)</span><span id="fhit">Someone hits you.</span>
+<span id="fkill">You feel your very soul stopping...</span>
+<span id="fkill">Someone has killed you.</span>
+<span id="dead">Not updating persona.</span></font>
+</pre>
+</table>
+</table>
+<h2>Death of the Month: October 2004</h2>
+<table border=0 cellpadding=15><tr><td>
+<table border=5 cellpadding=5><tr><td BGCOLOR=black>
+<pre><font color="white">
+<span id="info">Tirnanog the hero looks to have minor injuries.</span>
+<span id="fhit">You hit the ogre (1-4).</span>
+<span id="info">The ogre looks seriously injured.</span>
+<span id="fmiss">The ogre misses you.</span>
+<span id="prompt">*</span>The ogre suddenly gives a loud "HIC!".
+<span id="fmiss">Tirnanog the hero misses you.</span>
+<span id="fhit">You hit Tirnanog the hero (10-14).</span>
+<span id="info">Tirnanog the hero looks to have minor injuries.</span>
+<span id="fhit">You hit the ogre (5-9).</span>
+<span id="info">The ogre looks seriously injured.</span>
+<span id="fmiss">The ogre misses you.</span>
+<span id="prompt">*</span>g bag f tirnanog
+You reach for the bag0, but it leaves you more exposed in your
+fight...
+Tirnanog the hero notices your attempt to steal his bag0...
+<span id="prompt">*</span><span id="fhit">You hit the ogre (15-19).</span>
+<span id="info">The ogre looks critically injured.</span>
+<span id="fmiss">The ogre misses you.</span>
+<span id="fmiss">The ogre misses you.</span>
+<span id="fhit">The ogre hits you (<span id="y2">45</span>/<span id="g2">105</span>).</span>
+<span id="prompt">*</span><span id="fhit">Tirnanog the hero hits you (<span id="y1">25</span>/<span id="g2">105</span>).</span>
+<span id="fhit">You hit Tirnanog the hero (20-29).</span>
+<span id="info">Tirnanog the hero looks seriously injured.</span>
+<span id="prompt">*</span>The ogre suddenly gives a loud "HIC!".
+<span id="prompt">*</span><span id="fhit">You hit the ogre (10-14).</span>
+<span id="info">The ogre looks close to death.</span>
+<span id="fmiss">The ogre misses you.</span>
+<span id="prompt">*</span><span id="fhit">Tirnanog the hero hits you (<span id="y1">17</span>/<span id="g2">105</span>).</span>
+<span id="fhit">You hit Tirnanog the hero (15-19).</span>
+<span id="info">Tirnanog the hero looks critically injured.</span>
+<span id="treas">Lying to the side is a huge, wooden club. </span>
+<span id="fhit">You hit the ogre (15-19).</span>
+<span id="fkill">You have killed the ogre.</span>
+(+158 = <span id="g1">27,016</span>).
+The ogre has just passed on.
+<span id="prompt">*</span><span id="fmiss">Tirnanog the hero misses you.</span>
+<span id="fhit">You hit Tirnanog the hero (10-14).</span>
+<span id="info">Tirnanog the hero looks critically injured.</span>
+<span id="prompt">*</span><span id="fhit">Tirnanog the hero hits you.</span>
+<span id="fkill">You feel your very soul halting...</span>
+<span id="fkill">Tirnanog the hero has killed you.</span>
+Ring6 dropped.
+Axe0 dropped.
+Terracotta vase2 dropped.
+Firestone1 dropped.
+<span id="dead">Not updating persona.</span>
+</font>
+</pre>
+</table>
+</table>
+<p>
+Many thanks to Hawumph and Turrican for the short-notice log snipping. You
+guys! No, <i>you</i> guys!
+</p><p><br clear=all><div align="center"><span class="missing">Mail the author</span><br><br></div><div align="right">... <a href="issue.fod_IssueId_28">click here</a> to return to the front page.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

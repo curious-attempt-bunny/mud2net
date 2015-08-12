@@ -1,0 +1,88 @@
+<html>
+<head>
+<title>Muddled Times - Fleeing</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 20, February 2003</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Game Information</b></td></tr>
+<tr><td align=right>Author:</td><td><b>Foddy</b></td></tr>
+</table>
+<p>
+<h1>Fleeing</h1>
+<p>
+In The Land, whether you're a tough old PK or a fresh new PP, there'll come a time when you'll have to flee. Knowing how and when to flee is one of the more important lessons to be learned as it can quite literally make the difference between life and death.
+<p>
+In MUD, when you die in a fight, you lose all your points. Every single one of them. Luckily, there's a way out - fleeing. Unfortunately, this also loses you points, but not as many.
+<p>
+In fact, the number of points you lose depends on how much stamina you have when you flee - if you cowardly flee on full stamina you'll lose a bundle of them, but if you hold out until you're on your last legs, you may lose only a few - or even none at all.
+<p>
+So, how long do you hold on for? That's for you to decide - in the end, it always comes down to the same gamble: do you want to lose the points or risk dying? 
+<p>
+Of course, sometimes it's not worth fleeing at all. So, to help you decide what to do, here are my top 10 reasons to flee, and also my top 10 reasons not to:
+<br><br><h2>Top 10 reasons to flee</h2>
+<table cellpadding="3" border="0">
+<tr><td align="right" valign="top">10.</td>
+<td>It's the last thing your opponent will expect.</td></tr>
+<tr><td align="right" valign="top">9.</td>
+<td>You really need more practice at fleeing, this is a good chance.</td></tr>
+<tr><td align="right" valign="top">8.</td>
+<td>You're fighting three giants solo, people won't think less of you if you flee.</td></tr>
+<tr><td align="right" valign="top">7.</td>
+<td>Your opponent would score lots of points if you die.</td></tr>
+<tr><td align="right" valign="top">6.</td>
+<td>You don't want to give your opponent the pleasure of the kill.</td></tr>
+<tr><td align="right" valign="top">5.</td>
+<td>You're fighting the dragon, it's traditional to flee.</td></tr>
+<tr><td align="right" valign="top">4.</td>
+<td>If you die, you may lose your confidence.</td></tr>
+<tr><td align="right" valign="top">3.</td>
+<td>You would lose all your points if you die.</td></tr>
+<tr><td align="right" valign="top">2.</td>
+<td>You're really close to wiz - dying now would be bad karma.</td></tr>
+<tr><td align="right" valign="top">1.</td>
+<td>You didn't mean to attack the mage, sorry sir!</td></tr>
+</table>
+<br><h2>Top 10 reasons NOT to flee</h2>
+<table cellpadding="3" border="0">
+<tr><td align="right" valign="top">10.</td>
+<td>You don't care about dying.</td></tr>
+<tr><td align="right" valign="top">9.</td>
+<td>You're duelling, you can't die!</td></tr>
+<tr><td align="right" valign="top">8.</td>
+<td>You don't want to give your opponent the impression that he bothers you.</td></tr>
+<tr><td align="right" valign="top">7.</td>
+<td>You'd lose your kit if you fled.</td></tr>
+<tr><td align="right" valign="top">6.</td>
+<td>Your opponent would score points if you fled.</td></tr>
+<tr><td align="right" valign="top">5.</td>
+<td>You'll learn something from dying.</td></tr>
+<tr><td align="right" valign="top">4.</td>
+<td>You've asked all your friends to help - you don't want to be the first to leave the party.</td></tr>
+<tr><td align="right" valign="top">3.</td>
+<td>Dying will make you a stronger player.</td></tr>
+<tr><td align="right" valign="top">2.</td>
+<td>You don't think you'll die ... quite yet.</td></tr>
+<tr><td align="right" valign="top">1.</td>
+<td>You were AFK!</td></tr>
+</table>
+<p><br clear=all><div align="right">... <a href="issue.fod_IssueId_19">click here</a> to return to the front page.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

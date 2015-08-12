@@ -1,0 +1,65 @@
+<html>
+<head>
+<title>Muddled Times - Section Listing, Events</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<h1>Events</h1>
+<h2>Miscellaneous</h2><ul>
+<li><a href="article.fod_IssueId_6_ArticleId_1127">The Extravanganza Event</a>
+- Eric
+<li><a href="article.fod_IssueId_14_ArticleId_1295">A Sorcerer War - with a twist!</a>
+- Humpy
+<li><a href="article.fod_IssueId_14_ArticleId_1299">Severina's Bash Reports</a>
+- Severina
+<li><a href="article.fod_IssueId_15_ArticleId_1309">Quiz Night in The Land of Mud - March 2002</a>
+- Vulnax
+<li><a href="article.fod_IssueId_15_ArticleId_1310">A Mobile Bash with an Attitude!</a>
+- Undertaker
+<li><a href="article.fod_IssueId_16_ArticleId_1328">Treasure Hunt - A review</a>
+- Vulnax
+<li><a href="article.fod_IssueId_16_ArticleId_1330">Lemmings!</a>
+- Mrburns
+<li><a href="article.fod_IssueId_17_ArticleId_1359">Sorcerer War - A Review</a>
+- Vulnax
+<li><a href="article.fod_IssueId_18_ArticleId_1370">Sorcerer War</a>
+- Chuckles
+<li><a href="article.fod_IssueId_18_ArticleId_1371">Halloween Bash</a>
+- Spandex
+<li><a href="article.fod_IssueId_18_ArticleId_1378">Apeomancer's Treasure Hunt Review</a>
+- Apeomancer
+<li><a href="article.fod_IssueId_19_ArticleId_1386">Mobile Bash - 9th January 2003</a>
+- Vulnax
+<li><a href="article.fod_IssueId_19_ArticleId_1387">Mobile Bash - 16th January 2003</a>
+- Vulnax
+<li><a href="article.fod_IssueId_21_ArticleId_1421">Lemmings Returns!</a>
+- Crowley
+<li><a href="article.fod_IssueId_22_ArticleId_1444">The Immortal Mansion</a>
+- Vulnax
+<li><a href="article.fod_IssueId_23_ArticleId_1459">August's Sorcerer War</a>
+- Darknight
+<li><a href="article.fod_IssueId_24_ArticleId_1482">Unusual Bashing Shenanigans</a>
+- Apeomancer
+<li><a href="article.fod_IssueId_25_ArticleId_1505">Nothing To Lose</a>
+- Laura
+</ul>
+<div align=right>... <a href="section.fod">click here</a> to return to the category list.
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

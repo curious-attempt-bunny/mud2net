@@ -1,0 +1,69 @@
+<html>
+<head>
+<title>Muddled Times - A message from Foddy</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<div align="center" style="padding-bottom: 15px;">
+</div>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 9, April 2001</b></td></tr>
+<tr><td align=right>Section:</td><td><b>News & Gossip</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Foddy</span></b></td></tr>
+</table>
+<p>
+<h2>Welcome to Phoenix, our new home</h2>
+<p>
+This issue of <i>Muddled Times</i> couldn't come at a better time for the game - unfortunately it also couldn't come at a more busy time. Just this week, we picked up our virtual bags and moved to our new home. The move went incredibly smoothly, but there's still a lot more work for us to do behind the scenes.
+<p>
+I'm sure you all know by now what's happened, but just in case I'll go over it briefly.
+<p>
+MUD2 had been running at Wireplay since 1997 as part of their service. The MUD players have been very lucky in that Wireplay paid royalties to MUSE without passing the costs onto the players directly. In effect, the game was for the most part "free" to the players.
+<p>
+Unfortunately, times change, and the situation was no longer viable for Wireplay. Earlier this year, MUSE and Wireplay split company amicably. One of the effects of this was that MUD could no longer run at Wireplay, or indeed for free. We have already moved to our new server, and will start charging for this service by the end of April.
+<p>
+But this isn't all bad news, trust me! The game at Wireplay had problems - some due to Wireplay (who ran the accounts, provided the server, etc.) and some due to "other" influences. With the new set-up, a lot of these problems will be in our past.
+<p>
+We have already regained control of the accounts and server which has hepled a lot. Once we are charging, we'll also be able to start giving out real-world prizes for events again - something I'm sure a lot of you have missed over the last few months. The future is looking a lot brighter than it was just a few months ago.
+<p>
+I know some of you are curious about the new setup, so here goes.
+<p>
+The new server is a dual-processor Dell 2450. It has 512M of memory and a RAID 5 disk array, so we should be safe from disk crashes like the one which afflicted the old server. However, should the worst happen, I have spare servers of a similar spec. which may be used while Phoenix is being fixed.
+<p>
+The server is hosted at Level 3's latest co-location facility in London. Level 3 are a good international ISP with an excellent reputation. In particular, their international connectivity is top notch, so our American players shouldn't notice any drop in performance. Hopefully, those ping times will actually be coming down.
+<p>
+Level 3 are also the ISP which hosts Barrysworld. I'm not sure whether that's a good or bad thing, though!
+<p>
+I know that for some of you, security is a particular concern. With on-line payments imminent, I can understand this. While I could go on about how secure the server is, with good physical security, an experienced network manager (err, that's me) and the best in firewalls, I also know that this doesn't mean a thing in the real world.
+<p>
+So what I'd like to do is assure you that I will do my very best to ensure that we are as secure as is practical. I will also be open about it all - so if you have any worriess about security, please feel free to ask me any questions.
+<p>
+So, where next? At the moment I'm concentrating on transferring the accounts of any stragglers and getting the new <a href="http://www.mudii.co.uk">MudII.co.uk</a> web site live. Hopefully that'll be finished in a week or two. After that, we can start thinking of how to improve the game for you, the players. If you have any suggestions, please e-mail them to me. My address is <span class="missing">richard@duff.org</span>.
+<p>
+I'm extremely positive about the new service, and I hope you are too.
+<p>
+See you in The Land,
+<p>
+<blockquote>
+Foddy
+</blockquote>
+<p><br clear=all><div align="right">... <a href="issue.fod_IssueId_6">click here</a> to return to the front page.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

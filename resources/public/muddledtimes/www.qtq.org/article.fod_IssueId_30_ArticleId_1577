@@ -1,0 +1,143 @@
+<html>
+<head>
+<title>Muddled Times - Rarely Seen Mobiles</title>
+<link REL="stylesheet" TYPE="text/css" HREF="v2-muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td rowspan="2" valign="top" width="10"></td>
+<td valign="top" width="150">
+<td align=center><a href="index.html"><img border=0
+src="images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td valign="top">
+<div id="menu">
+<ul>
+<li class="header">
+<li><h2><a href="issue.fod_IssueId_30">Issue 31<br>May 2006</a></h2>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_30_CategoryId_3">Editorial</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1582">Issue 31 Editorial</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_30_CategoryId_6">News & Gossip</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1576">What articles would you like to see in Muddled Times?</a>
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1578">MUD Version 4E(41)</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_30_CategoryId_8">Articles</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1572">When I make wiz, I will ...</a>
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1573">Sex in The Land</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_30_CategoryId_2" id="selcat">Game Information</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1571">Mapping</a>
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1577" id="selart">Rarely Seen Mobiles</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_30_CategoryId_7">Fiction</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1574">The Maiden, the Vampire and a mirror</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_30_CategoryId_4">Interviews</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1583">An interview with Crowley</a>
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1585">An Interview with Hawumph</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_30_CategoryId_14">Charts</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1579">Top 100, Dead or Alive - December 2005-February 2006</a>
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1580">Top 100, Dead or Alive - March-May 2006</a>
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1581">Top 25, Dead! - March-May 2006</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_30_CategoryId_18">You've Been Logged</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1584">Firedemon Gets Greedy</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_30_CategoryId_16">Questionnaires</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_30_ArticleId_1575">Muddled Times Questionniare Summary</a>
+ <li class="footer">
+ </ul>
+<li><span class="missing">Feedback Form</span>
+<li class="footer">
+</ul>
+<br>
+</div>
+<div align="center" style="margin: 5px;">
+</div>
+</td>
+<td valign="top">
+ <table width=100% cellpadding=10>
+ <tr><td>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 31, May 2006</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Game Information</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Karya</span></b></td></tr>
+</table>
+<p>
+<h1>Rarely Seen Mobiles</h1>
+<h2>Squirrels</h2>
+<p>
+The squirrel is a timid but mischievous creature with an appreciation of valuable jewellery. Be warned though, they get upset when 
+humans invade their territory. They have been known to throw pinecones at the heads of sleeping travellers.
+<h2>The Badger</h2>
+<p>
+The badger is an enigmatic creature and the only mobile with a cult following. He can be vicious but once you get 
+past that hostile front he will protect all that is dear to you.
+<h2>The Ghost of the Olive Grove</h2>
+<p>
+The presence of the ghost lingering around the olive grove serves as a warning to those who are as careless as 
+this unfortunate soul once was.
+<h2>The Woodsman</h2>
+<p>
+A meticulous and proud forester, the woodsman is more likely to be found at hunting grounds rather than at his 
+abode. Never try and steal his trophies though otherwise bad fortune will befall you.
+<h2>The Snail</h2>
+<p>
+This tiny and slow inhabitant of The Land can occasionally be found under a lettuce leaf. Those who are keen to 
+protect the local crops will find themselves with a reward.<p><br clear=all><div align="center"><span class="missing">Mail the author</span><br><br></div><div align="right">... <a href="issue.fod_IssueId_30">click here</a> to return to the front page.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

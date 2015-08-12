@@ -1,0 +1,64 @@
+<html>
+<head>
+<title>Muddled Times - What is MUD?</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<div align="center" style="padding-bottom: 15px;">
+</div>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 18, October 2002</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Articles</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Havoc</span></b></td></tr>
+</table>
+<p>
+<h1>What is MUD?</h1>
+MUD is a Multi User Adventure game, derived from a much simpler (single player game) called 'Adventure', otherwise know as 'Colossal Caves'. The idea in both the simple and complex versions is to present the player with an imaginary world which is split up into many separate 'locations', each having its own description so that the player can visualise his or her surroundings. The player can travel from location to location using compass directions like NORTH and WEST. That's all very well you say, but what's the point in such a game? Well, to make everything a little less dull, objects are placed in locations which the player can pick up, by typing something like GET LAMP or GET ALL, these objects can then be used to solve a puzzle or are rewards for doing so - for example, a lamp could be turned on so that the player could read the signs in a maze which tell the way out. 
+<p>
+This type of text-based game was very popular when home computers were new, but now computers are so much more powerful and can produce such stunning and fast graphics that the more intellectually challenging games have gone out of favour and have been replaced with visually stimulating games like Street Fighter and Turbo Outrun. 
+<p>
+<b>'Players can "talk" (through their keyboards) to each other, give each other objects, fight and steal from each other, cast magical spells, group together and solve puzzles'</b>
+<p>
+Text-based adventures have all but disappeared and the few that are being produced are purchased by the old 'Colossal Caves' veterans. But Multi User Adventure games (henceforth to be referred to as MUAs) are an exciting and relatively new development. Played by as many as 20 players at a time, the whole level of complexity of gameplay rises. No two games of an MUA are the same - players interact with each other and make decisions influenced by the presence of other players. Players can 'talk' (through their keyboards) to each other (they needn't be in the same location), give each other objects, fight and steal from each other, cast magical spells, group together and solve puzzles - the list goes on and on, and one game rarely becomes boring if one is playing a well-made MUA and there are people to interact with. 
+<p>
+MUD suffers from a lack in players and needs publicity - for MUD, in my view, is by far the best MUA on the market, although, unlike lesser MUAs, it is not on any major computer network like Micronet. (MUD has in the past been briefly available on Micronet, CompuServe and British Telecom VAX). 
+<p>
+I started playing MUD in January of '92 after discovering a small ad in ST Format magazine. MUD has, though, been around since 1976. MUD was the first MUA and was developed at Essex University by Richard Bartle and Roy Trubshaw. Its setting is common to most Dungeons and Dragons games (a popular form of game played in groups of three people or more but not on a computer): the land is a fantasy world which contains dragons, goblins, zombies and mythical creatures. The features of the landscape vary from a shipwrecked galleon and underground realms to cottages and hedge mazes. I enjoy the whole atmosphere created by MUD, its above-average prose and excellent descriptions. 
+<p>
+Unlike many of the other MUAs I have played, Shades being a good example - often praised by the press - MUD has been very well thought-out and has a very good 'parser'. For example, MUD can understand sentences like GET THE TREASURE AND THE BAG BUT NOT THE CHEST AND THE HEAVY WEAPON and never come back with comments like 'THE? I don't understand'. Newcomers to MUD can be overwhelmed by the game's sophistication which, though concealed from newcomers in part, is none the less imposingly evident. New players find it hard to win any treasure and tend to move off to simpler, less demanding MUAs, in which solutions are less subtly concealed. 
+<P>
+<b>'I was in tears. I really knew what it was like to be dead, the simulation was so real.'</b>
+<P>
+It is hard to say what is so absorbing and compelling about MUD, the main reason I think, is that everything seems so real and there is the knowledge that there are lots of other real people somewhere out there at their computers playing at the same time, trying to beat you to your goal - nobody can be trusted 100% but if you don't trust somebody you don't get anywhere. This produces constant pressure and split second decision-making is required, resulting in maintained adrenaline levels during play. Some players become really attached to their computer characters they have developed on screen, perhaps nurturing them for half a year or more. A male MUD player commented on his 'fight' with another character: 'I remember the first time I was killed in MUD It was deliberate. I was in tears. I really knew what it was like to be dead, the simulation was so real.' 
+<p>
+I find MUD extremely addictive, although this is not so true if nobody else happens to be playing MUD at the same time. I find myself saving up money for 'MUD binges' where I will spend four hours playing MUD a day during the week and as much as eight hours over the weekend. My main problem though is that I'm still a student and am likely to be so for quite a few years yet, and so never have enough funds to support long-term MUD play. I was, incidentally, surprised to find out that the majority of MUD players are in their thirties (the ages range from 16 to 72), with some players joining in from as far afield as Hawaii and New Zealand. 
+<P>
+To make MUD more fun for lone players there are things called mobiles. Mobiles are computer-controlled players that are intelligent, not mindless, can 'speak' and are able to interact with each other and with human figures; in a fight they can drop unnecessary objects, select the best weapon, steal useful stamina-restoring foodstuffs from you, cast magic spells upon you and flee or offer to withdraw from the fight. If you flee from a fight, that mobile will be after you till the end of that game and will, for instance, if you are behind a locked door, go and find the correct key, come back and open the door so that it can continue the chase. 
+<p>
+<b>'Wide-ranging list of possible spells, enabling you to blind, deafen, make dumb or cripple players'</b>
+<p>
+The aim of the game is to accumulate points through collecting treasure, solving puzzles or winning fights. Once you have got a certain number of points and have completed the required tasks you become Wizard (or indeed Witch). You then assume a very powerful position from which you oversee us ordinary 'mortals' and have next to complete control over the game, you can play as mobiles, create objects and room locations, as well as having the full wide-ranging list of possible spells, enabling you to blind, deafen, make dumb or cripple players [Ed: sounds very educational!], and to put the FOD (Finger Of Death) on annoying players and to snoop on players - this lets you see everything they see - plus many other powers which I have yet to discover. 
+<p>
+MUD is a brilliant game but its main problem besides the small pool of users) is the price. It's worth the effort even if you're not a fast typer and are computer illiterate (little computer knowledge is required). Have fun. 
+<p><br><br><p>
+<h5>The orginal article can be found <a href="http://www.globalideasbank.org/1993/1993-144.HTML">here.</h5>
+<p><br clear=all><div align="right">... <a href="issue.fod_IssueId_17">click here</a> to return to the front page.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

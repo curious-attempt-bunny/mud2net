@@ -1,0 +1,121 @@
+<html>
+<head>
+<title>Muddled Times - A Beginners Guide to MUD2</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<div align="center" style="padding-bottom: 15px;">
+</div>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 4, June 2000</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Game Information</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Agrazag</span> & <span class="missing">Karya</span></b></td></tr>
+</table>
+<p>
+<h1>A Beginners Guide to MUD2</h1>
+<p>
+<h2>What is MUD2?</h2>
+<p>
+MUD stands for Multi-User Dungeon. MUD2 is an adventure game, written by the author of the world's very first MUD, Richard Bartle! In it, you can let your imagination run wild as you explore, find and collect treasure from the furthest reaches of the Land, fight fantastical monsters (and other players if you think you're up to it!), solve puzzles, or sit back and chat with your friends over a nice warm cup of Darjeeling.
+<p>
+As you roam the Land, you will come across dozens of exciting areas to plunder. The treasures of the dwarfen realm are legendary, whilst the guardians of the keep are known to be formidable foes! If you fancy a tipple you can visit the inn, then sleep it off later in the gravedigger’s cottage. The goblin realm holds many secrets, and stumbling into the area inhabited by gruesome giants could well turn out to be a fatal mistake if you're not properly prepared! The areas of the Land are too numerous to mention, but it's safe to say that only the bravest of adventurers dare to visit the remote island, which is home to the most feared creature of the game ...
+<p>
+MUD2 has many distinct player levels, ranging from the feeble Novice to the mighty Witch/Wizard. Players brave enough to risk the ancient power of the touchstone have the chance of being bestowed with wondrous magical spells, whilst those who prefer to wander the Land safe in the knowledge that they won't be set upon by other players, can play Protected personae.
+<p>
+<h2>Where can I get MUD2 from?</h2>
+<p>
+MUD2 is available on Wireplay, which is a FREE on-line multi-player games service provided by Gameplay. Before you can play MUD2, you’ll need to download both Wireplay and MUD2 from <a href="http://www.gameplay.com/wireplay">www.gameplay.com/wireplay/</a> - just click on the link and you’re on your way!
+<p>
+Once you’ve downloaded and installed the two files, you’ll need to add MUD2 to the Wireplay game list. To do this, first select GAME SETUP in the SETUP menu. From there, simply click on FIND GAMES and let Wireplay do the rest!
+<p>
+If you fancy doing a spot of research into the basics of how to make the most of Wireplay before you get stuck in, check out this useful beginners guide, at <a href="http://www.wireplay.co.uk/html/help/tutorial/tutorial_main.htm">www.wireplay.co.uk/html/help/tutorial/tutorial_main.htm</a>. 
+<p>
+<h2>Where can I play MUD2?</h2>
+<p>
+Once you’ve set up a user name and logged into Wireplay, select POWER PLAY, then click on MUD2 on the Wireplay Noticeboard. It’s as simple as that! MUD2 is a server-based game, so it’s always running on the Wireplay system.
+<p>
+<h2>What do I do now?</h2>
+<p>
+Once you’ve logged into MUD2 the screen will look something like this:
+<pre>
+Type P - to play MUD
+Type U - for some basic help on MUD
+Type M - for persona-to-persona MUDmail
+Type C - to list menu options
+Type BB - for the bulletin board
+Invent a password
+</pre>
+<p>
+You’ll now need to type in a password to continue. This password will be unique to your account, and will be required every time you enter MUD2 under that account - so don’t lose it!
+<p>
+Your screen will now look like this:
+<pre>
+Option (H for help):
+</pre>
+<p>
+This is the standard prompt within the shell of MUD2 (you’re not actually in the game yet!). A short list of useful commands was listed when you first entered MUD2. Typing U (for some basic help on MUD) is probably the best thing to do right now. You should now see a prompt like this:
+<pre>
+LIBRARY>
+</pre>
+<p>
+You are now in MUD2’s library, which is a wealth of information about the game. Read the basic help provided, then type S as it suggests for a short directory. At this stage it’s probably worth reading the "Beginners’ Companion", the rest can be read later at your leisure (do try and read all of it at some point though, it IS worth it!). To quit from the library type Q and you will find yourself back at the Option prompt. Now you should be ready to enter the game itself ...
+<p>
+<h2>How to play MUD2.</h2>
+<p>
+After typing P at the Option prompt you will be asked for a persona name (with a maximum of 10 letters). You have 3 personae available to you per account. Once you’ve chosen your name and sex, you’ll find yourself in the Elizabethan Tearoom. This is where all of MUD2’s adventurers begin their quest. It’s a safe haven from the dangers outside, and also a place to chat to other players. If there are other players in the Elizabethan Tearoom (commonly known as the tearoom), why not have a chat with them, they may give you advice on playing the game!
+<p>
+Some useful commands to know at this point are WHO, LEVELS, SAY, TELL and SHOUT. There’s a brief description of these below :
+<ul>
+<li>The WHO command gives you a list of people on the game, their persona names are followed by their levels.
+<li>Typing LEVELS will give you a list of all the levels within MUD2.
+<li>SAY HI, would say "HI" to everyone in the same room as you.
+<li>TELL &lt;persona name&gt CAN YOU HELP ME PLEASE? Would send the message directly to the persona you specified (no matter where they are in the Land).
+<li>Using SHOUT HELLO EVERYONE!, you can send a message to everyone in the game. Try not to overuse the SHOUT command though, as some people may be trying to sleep!
+</ul>
+<p>
+A few more useful commands for beginners are:
+<ul>
+<li>INFO - This gives an overview of MUD and is VERY useful.
+<li>HELP FAQ - These are a list of help files, you’d be wise to you read numbers 1 and 2 at least to begin with.
+<li>TOURS - These are just that, mini tours around various areas of the game that you can view in complete safety.
+</ul>
+<p>
+You are now ready to leave the tearoom!
+<p>
+To actually leave type NORTH (N for short), or click on north on the compass directions using your mouse. You will find yourself on a road, which runs west to east roughly in the centre of the Land. Roughly at the west of this road is a cottage, and at the east is an Inn. Typing SWAMPWARD (ZW for short - SW is used for SOUTHWEST!) from almost anywhere in the Land will take you to the SWAMP (refer to INFO again).
+<p>
+One of the ways to score points in MUD2 is by dropping treasure in the swamp. The more points you score - the higher the level you reach. Type EXITS (X for short) to see which direction(s) you can travel from your current location. By typing AUTO EXITS (AUTO X), you will always see the exits possible for each room as you move into it.
+<p>
+Other useful in-game commands are : HELP, SLEEP, GET &lt;object&gt;, DROP &lt;object&gt;, INVENTORY, VALUE &lt;object&gt;, ACCOMPANY &lt;player&gt;, SCORE, KILL &lt;creature/player&gt; and QUIT. Typing HELP will give you a list of more commands and what they do.
+<p>
+Now, it’s time to actually get on and play the game!
+<p>
+It can take time to get into MUD2. It’s not a mindless shoot-em-up. It will take perseverance and skill to make your way in the Land, but one thing’s for sure ... the rewards are well worth the effort!! As you’re learning, try exploring and experimenting with objects you find. Talk to other players. Maybe you can learn from their experiences. 
+<p>
+Above all, have fun!
+<p>
+And remember ...
+<p>
+<div align=center>
+<b>YOU HAVEN’T LIVED UNTIL YOU’VE DIED IN MUD2!!</b>
+</div>
+<p><br clear=all><div align="right">... <a href="issue.fod_IssueId_1">click here</a> to return to the front page.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

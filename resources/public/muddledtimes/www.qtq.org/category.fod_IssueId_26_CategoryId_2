@@ -1,0 +1,34 @@
+<html>
+<head>
+<title>Muddled Times - Game Information</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<div align="center" style="padding-bottom: 15px;">
+</div>
+Section: <b>Game Information</b><br>
+<br><table width=100% cellpadding=15>
+<tr><td valign=top width="5%"><img src="icon/diam.gif" alt="-" border=0></td><td valign=top width="45%"><a href="article.fod_IssueId_26_ArticleId_1507">Dragon Tours, in association with Thomas Cooked presents: The Formal Gardens</a>
+<br>
+From the chinese house to the ruined terrace, the formal gardens have it all! Come and admire this beautiful vista, courtesy of Dragon Tours.</td><td valign=top width="5%"><img src="icon/diam.gif" alt="-" border=0></td><td valign=top width="45%"><a href="article.fod_IssueId_26_ArticleId_1512">Rumour Has It - Part 4</a>
+<br>
+I heard this rumour ... read all the latest rumours about the game here, then complete the questionnaire!</td></tr></table><div align=right>... <a href="issue.fod_IssueId_26">click here</a> to return to the front page.
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

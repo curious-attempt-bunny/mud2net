@@ -1,0 +1,94 @@
+<html>
+<head>
+<title>Muddled Times - Changes</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<div align="center" style="padding-bottom: 15px;">
+</div>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 21, April 2003</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Articles</b></td></tr>
+</table>
+<p>
+<h1>MUD 4E(41) Version Release</h1>
+<p>
+A new version of MUD - 4E(41) will be released this summer. In an attempt to help both mortals and wizzes to prepare for the changes, we have decided to publish an early release of the changes list here.
+</p>
+<p>
+Please note that this list is likely to change. If you have any comments or suggestions regarding this list of changes, please post your comments on the MUDII forums <a href="http://www.mudii.co.uk/forums/viewforum.php_forum_9">here</a>.
+</p>
+<h2>Changes made to the database for release 4E(41)</h2>
+<h3>Censored-for-mortals version</h3>
+<p>
+<ol>
+<li>New emotives: BAIT, DISEMBOWEL, MINCE, STROP, YAP, LOOK SEXY and SQUAT.
+<p>
+<li>Players are now able to SEX &lt;pla&gt; to determine their gender.
+<p>
+<li>Wizzes can now eat any non-edible objects, including players.
+<P>
+<li>Players can now SWIM in any large body of water.
+<p>
+<li>Players can now POLE DANCE by using DANCE WITH POLE.
+<p>
+<li>An additional 4 tasks have been added. The grimoire refers to them as appropriate.
+<p>
+<li>New mobiles: 
+<ul><li>a UNICORN
+ <li>the CAT from MUD1 is reintroduced
+ <li>a BABY DRAGON now roams the main land. Players are fore-warned of its location by scorch marks on the ground
+ <li>a WARLORD now protects the treasure in the keep
+ <li>a new dinosaur - the BULBASAUR to keep the pterodactyl on the middle mountain company</ul>
+<p>
+<li>2 new wiz levels: MYSTICS (protected personae wiz level) and UBERWIZ (a level between wiz and archwiz).
+<p>
+<li>BESERKERs from MUD1 are reintroduced.
+<p>
+<li>PULL CHAIN in a toilet room will now do something.
+<p>
+<li>Additional AFK commands: by typing AFK a player talking to you will see &lt;pla&gt; is away from the keyboard, AFK MT = &lt;pla&gt; is away from the keyboard making tea, AFK OTL = &lt;pla&gt; is away from keyboard on the loo, AFK OTP = &lt;pla&gt; away from keyboard on the phone and AFK WTV = &lt;pla&gt; away from keyboard watching TV.
+<p>
+<li>Tying the RIBBON on the PONY will now do something.
+<p>
+<li>Players can now SABOTAGE &lt;pla&gt;. This will destroy a random number of items that the player is carrying. Warning, this will have a side-effect on the player carrying out the sabotage.
+<p>
+<li>The functionality of RING6 has now changed.
+<p>
+<li>Five extra RATS now start off in the rat tunnel.
+<p>
+<li>Replaced 6 of the mausoleum puzzles with new, tricker ones.
+<p>
+<li>Some new SYNS: SAB = SABOTAGE, MD = MANDRAKE, PO = POUR and PHEONIX = PHOENIX. 
+<p>
+<li>Players can now DUNK &lt;pla&gt; whilst at sea to drown now.
+<p>
+<li>DUNK &lt;pla&gt; in the tearoom is now trapped.
+<p>
+<li>Some new objects: a WAND, a WHIP, a SHIELD, a WIG and an additional REED.
+<p>
+<li>The CAPE will now have a 1 in 5 chance of having a negative effect when WORN.
+<P>
+<li>The vampire can now BITE players. If bitten by the vampire in a fight the player will receive a permanent stamina loss between 1-5.
+</ol>
+<p> 
+<p><br clear=all><div align="right">... <a href="issue.fod_IssueId_20">click here</a> to return to the front page.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,106 @@
+<html>
+<head>
+<title>Muddled Times - Colloquialisms</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<div align="center" style="padding-bottom: 15px;">
+</div>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 13, December 2001</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Game Information</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Karya</span></b></td></tr>
+</table>
+<p>
+<h1>Colloquialisms</h1>
+<p>
+This is for you if you're completely new to MUD2, muds in general, and especially if you're new to on-line gaming. This is a brief guide to all those acronyms, abbreviations and hieroglyphics you see being used a lot but have no idea as to what they mean.
+<p>
+<table cellpadding="5">
+<tr>
+<td colspan="2">
+<h2>Communication</h2>
+</td>
+</tr><tr>
+<td valign="top"><nobr>&lt;g&gt; or &lt;G&gt;:</td> 
+<td>Grin. This means that the player is grinning or showing the fact that he/she found the last comment or action displayed amusing.</td>
+</tr><tr>
+<td valign="top">&lt;s&gt; or &lt;S&gt;:</td>
+<td>Smile. A slightly less enthusiastic version of &lt;g&gt;.</td>
+</tr><tr>
+<td colspan="2">
+<p>
+These can be customised to &lt;GGGG&gt; or &lt;SSSS&gt;, the general idea being the more G's or S's there are the more the player is grinning or smiling. A capital G or S also implies a bigger grin or smile too.
+<p>
+</td>
+</tr><tr>
+<td valign="top"><nobr>Lol:</td> 
+<td>Laughs out loud. If you type LOL it result in you acting as though you're laughing out loud:
+Newbie the protector laughs out loud.
+But a lot of people use the term "lol" as a word to indicate that they were highly amused (more amused that if they used &lt;g&gt; or &lt;s&gt;).<td>
+</tr><tr>
+<td valign="top">Rofl:</td> 
+<td>Rolls on the floor laughing. Like LOL, ROFL can be typed on it's own to result in your rolling on the floor laughing. Also like LOL, ROFL is used as a term indicating more mirth than LOL.</td>
+</tr><tr>
+<td valign="top">Brb:</td> 
+<td>Be right back. This is used when someone quits the game but intends to return shortly.</td>
+</tr><tr>
+<td valign="top">Afk:</td> 
+<td>Away from keyboard: This is an old term from the days when MUD couldn't be played at the same time as using the net. It was used when someone had to do something in real life (making a cup of coffee, going to the toilet etc) but was leaving his or her persona in game. These days it's more than likely to indicate that the player has multiple windows open on their PC and are in fact popping over to another window to check their ICQ messages or something similar.</td>
+</tr><tr>
+<td valign="top">Imo:</td> 
+<td>In my opinion, a variation is IMHO which means in my humble opinion.</td>
+</tr><tr>
+<td valign="top">Btw:</td> 
+<td>By the way.</td>
+</tr><tr>
+<td valign="top">M8:</td> 
+<td>Mate.</td>
+</tr><tr>
+<td valign="top">Ty:</td>
+<td>Thank you.</td>
+</tr><tr>
+<td valign="top">K:</td>
+<td>A very brief version of OK.</td>
+</tr><tr>
+<td colspan="2">
+<br>
+<h2>Other Colloquialisms</h2>
+</td>
+</tr><tr>
+<td valign="top">Ctd:</td> 
+<td>Close to death. A reference to a player or mobile being very nearly dead. This is actually a message the game gives whilst in a fight or if a player looks at another player or mobile who is below a certain stamina.</td>
+</tr><tr>
+<td valign="top">BB:</td>
+<td>Bulletin Board. The message board for MUD2 available by typing BB at the option prompt.</td>
+</tr><tr>
+<td valign="top">Mu:</td>
+<td>Magic User. This refers to players who have magic.</td>
+</tr><tr>
+<td valign="top">Nrbl:</td>
+<td>Narrow Road Between Lands. A fairly central place in the land, where new players often start.</td>
+</tr><tr>
+<td valign="top">Cos:</td>
+<td>Cave of Stars. The cave where players gain magic.</td>
+</tr>
+</table>
+<p><br clear=all><div align="right">... <a href="section.fod_CategoryId_2">click here</a> to return to the category list.<br>... or <a href="issue.fod_IssueId_12">click here</a> to go to the front page of this issue.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

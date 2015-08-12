@@ -1,0 +1,240 @@
+<html>
+<head>
+<title>Muddled Times - How to use the Bulletin Board and Mud Mail</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<div align="center" style="padding-bottom: 15px;">
+</div>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 12, October 2001</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Game Information</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Karya</span></b></td></tr>
+</table>
+<p>
+<h1>How to use the Bulletin Board and Mud Mail</h1>
+<p>
+<h2>An introduction to the MUD2 board system</h2>
+The Bulletin Board and Mud Mail systems are very important forms of communication connected to the game. The Bulletin Board is where you'll find important annoucements made about the game and should be followed reguarly. The Mud Mail system is a way for fellow players, wizzes and arch-wizzes to contact you and send messages when you're not in-game. They are also both sources of gossip, game help, debates and much more. These two systems can seem bewildering to the first time user and even the frequent user may not be aware of the full potential of these boards. The aim of this article is <i>not</i> to go into detail about this subject, it is far to long a topic to do it any justice, plus most people would just switch off half way through, it isn't exactly the most scintillating topics I could have chosen to write about! No, here I will just go over the basics along with a few other tips that I'd wished I had known a few years ago but couldn't be bothered to trawl through all the help files to find out. 
+<p>
+In any examples included below the bit that you type out is shown in <font color="cyan">cyan</font> to make things easier to follow.
+<p>
+Once in the shell of the game and before you actually enter the game you can view the Boards (Bulletin Board and Mail). Firstly to bring up the help file type BB (for Bulletin Board) at the option prompt followed by H:
+<p>
+<blockquote><pre>Option (H for help): <font color="cyan">bb</font>
+[Entries on this board are formatted, directed, public and signed]
+[Messages are numbered between 1 and 323 inclusive]
+[There is no record of the highest-numbered message you have read]
+BB><font color="cyan">h</font>
+Help.
+The BOARD part of the LIBRARY program is a means by which users can leave 
+public messages on a given topic, in the style of bulletin-boards. Any non-
+guest who can read the messages on a board can leave messages of their own, 
+except when access to the board is specifically restricted. Restricted boards 
+will show up with an R flag on a short directory; normal boards have a B flag. 
+Boards are of a fixed size, and wrap around when full. All messages are 
+numbered, and they can be read either sequentially, individually by number, or 
+by threads (threads are collections of related messages on the same topic). 
+Messages left on boards are word-wrapped automatically.</br>
+[Return to continue, S to stop]
+Common commands accepted by BOARD are as follows:
+A -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; read the last message again
+C -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; list all available BOARD commands
+D -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; give a directory of messages in the board
+E & Q - &nbsp;&nbsp;&nbsp;&nbsp; exit BOARD back to LIBRARY
+H -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; give this help message
+J -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; jump to a message
+L -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; leave a new message
+N -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; read next message
+O -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; change order in which messages are read
+P -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; print messages without stopping in between
+R -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; reply to the last message read
+RH - &nbsp;&nbsp;&nbsp;&nbsp; reply to the last message read, to whole house
+S -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; give a shortened directory of messages in the board
+/ -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; terminal-setting commands<br>
+[Return to continue, S to stop]</pre></blockquote>
+<p>
+The help file goes on for a lot longer, you can also type <b>C</b> for a more comprehensive list of commands and <b>OH</b> for Ordering Help which will be mentioned later.
+<p>
+<h2>But what does all that <i>really</i> mean?</h2>
+The general gist of things is that within the <b>Libaray</b> is a facility called a <b>Board</b>. There are two main boards in this mud that you can access: the <b>BULLETIN BOARD (BB)</b> which is a public board, i.e. everyone can read it and everyone can leave messages on it (except guests) and <b>MAIL (M)</b> which is private. All non-guests can use it but only the sender and recepient can read the messages. There are short cuts to these two boards from the option prompt: <b>BB</b> and <b>M</b>. The commands for these two boards are identical, you just have to make sure that you are in the correct board before posting (sending) a message - it can be rather embarassing thinking that you are in MAIL and sending a private message to someone when you are actually in the BB and everyone reads what you've send! It <b>is</b> possible to erase the message later though, as long as you realise your mistake before it's too late! Alternatively you can send your mail message to more than once person at a time, simply type in each persona name who you want to receive the message seperating each with a comma. Again, this isn't to be recommended on the BB otherwise your identical message will be posted on the BB many times! 
+<p>
+Board message are only kept for so long, mail message are erased after a peroid of time, but at the time of this article mail messages of over 6 months ago are still accessable. BB messages are not erased though, they are archived and I will explain later how to view those.
+<p>
+<h2>Now how about actually using the damn thing!</h2>
+Now you'd like to know exactly how to use the boards, wouldn't you? O.K. to actually send a message here is an example (remembering the bit you type is in <font color="cyan">cyan</font>):
+<p>
+<blockquote><pre>Option: <font color="cyan">BB</font>
+[Entries on this board are formatted, directed, public and signed]
+[Messages are numbered between 1 and 323 inclusive]
+[The highest-numbered message you have read is 323]
+BB&gt;<font color="cyan">L</font>
+Leave new message.
+From: <font color="cyan">karya</font>
+To: <font color="cyan">*</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="red">(* is a shortcut for everyone)</font>
+Subject: <font color="cyan">Testing</font>
+Message (end with /E):
+8000&gt;<font color="cyan">Hi everyone!</font>
+7987&gt;<font color="cyan">/e</font>
+Send this text? (y/n) <font color="cyan">y</font>
+[Message number 324 sent to Everyone]
+BB&gt;</pre></blockquote>
+<p>
+And this is what your message would look like:
+<P>
+<blockquote><pre>Message number: 324
+From: Karya 
+To: Everyone 
+Time: 17:59:37 10-OCT-01
+Subject: Testing
+--------
+Hi everyone! 
+--------
+BB&gt;</pre></blockquote>
+<p>
+You do exactly the same to send message to people in MAIL also. although you should specify a persona name rather than attempting to send your mail message to everyone!
+<P>
+To actually read messages on either board you go to the board in question then press <b>return</b>, this will bring up your first unread message. If you keep on pressing return more messages will be shown in the default order. There are various orders in which you can read messages but the default order is to read them by threads, that is to read the oldest message first followed by its replies, then to go to the next oldest message, its replies and so on. You can change the order preference to chronological order, reverse order and so on, but <b>OH</b> (Order History) at the option prompt goes into more detail about that. <b>N</b> has the same effect as RETURN (and will be used in the following example) and <b>A</b> will enable you to read the last message again. To read ALL of your unread messages, both BB and mail in one fell swoop without having to go into each board seperately you can type <b>RB</b> (Read Boards) at the option prompt. If you do this every time you log on you'll easily be able to keep up to date with the BB.
+<P>
+This next example shows you how to read your latest unread MAIL message and how to reply to it:
+<P>
+<blockquote><pre>Option: <font color="cyan">m</font>
+[H for help, end-of-line to read your mail]
+[Messages are numbered between 1 and 1163 inclusive]
+MAIL&gt;<font color="cyan">n</font>
+Message number: 1163
+From: Karya 
+To: You 
+Time: 18:14:56 10-OCT-01
+Subject: Hi
+--------
+Hi, was the BB and MAIL article in Muddled Times useful? 
+--------
+MAIL&gt;<font color="cyan">r</font>
+Reply to message.
+[Switching persona to You]
+Message (end with /E):
+8000&gt;<font color="cyan">It was OK but a bit confusing.</font>
+7969&gt;<font color="cyan">/e</font>
+Send this text? (y/n) <font color="cyan">y</font>
+[Message number 1164 sent to Karya]
+MAIL&gt;</pre></blockquote>
+<p>
+You can use F (forward) in exactly the same way as you do R (reply).
+<p>
+<h2>Reading the archives</h2>
+Another useful thing to know about the boards is how to access the archived BB's. These archives are fascinating to read, they are an unlimited source of humour, history and help! The archives are to be found in the LIBRARY, but I'll show you how to access it here:
+<blockquote><pre>Option: <font color="cyan">L</font>
+MUD LIBRARY.
+[H for help]
+Library . (library):
+ 1 L 0 Newcomers
+ 2 L 0 Magazines & Competitions
+ 3 L 0 Word of Mouth
+ 4 D 0 MUDspeke Dictionary
+ 5 D 0 help
+LIBRARY&gt;<font color="cyan">3</font>
+Library .3 (Word of Mouth) {WOM}:
+ 1 B 0 MAIL
+ 2 B 0 BB
+ 3 L 0 BB Archives
+ 4 C 1 CHAT
+LIBRARY&gt;<font color="cyan">3</font>
+Library .3.3 (BB Archives) {BBARCHIVE}:
+ 1 R 0 BB Archive 1 (Aug 97 - May 98)
+ 2 R 0 BB Archive 2 (May 98 - Sep 98)
+ 3 R 0 BB Archive 3 (Sep 98 - Feb 99)
+ 4 R 0 BB Archive 4 (Feb 99 - May 99)
+ 5 R 0 BB Archive 5 (Jul 99 - Apr 00)
+ 6 R 0 BB Archive 6 (Sep 00 - Mar 01)
+LIBRARY&gt;<font color="cyan">1</font>
+[Entries on this board are formatted, directed, public and signed]
+[Restricted access: you cannot leave messages on this board, only read them]
+[Messages are numbered between 1 and 981 inclusive]
+[The highest-numbered message you have read is 981]
+BB Archive 1 (Aug 97 - May 98)&gt;<font color="cyan">1</font>
+Message number: 1
+From: Andy 
+To: *Everyone 
+Time: 18:45:05 06-AUG-97
+Subject: Coo!
+--------
+Best populate this board as quick as poss, then!! Don't think much of this front-end to 
+the FE.. I'd rather more of a longer line! [g] 
+Wish I could switch terminal modes (f1/2/3) easier, too.. 
+Heh... 
+ Andy. 
+--------
+There are replies:
+ 486, 662
+BB Archive 1 (Aug 97 - May 98)&gt;</pre></blockquote>
+<p>
+If you keep on pressing RETURN you'll be able to follow the archives as the default order (unless you have changed it by now) which is to read the replies to this message (486 and 662) then go back to message number 2 and so on. You can stop reading at any time and the next time you go back to the archives you should automatically pick up from where you left. <b>Q</b> will take you out of the library completely and <b>0</b> (zero) will take you back to the previous level of library.
+<p>
+<h2>To print or not to print?</h2>
+Many of the older players will remember how pressing the <b>P</b> key would cause a fetch error - well no longer! Printing the boards doesn't actually cause the contents of your screen to be sent to your printer so don't worry about realms of BB covered paper being spewed from your printer if you use this function, but what it does do is to display a specified range of messages very, very quickly (without pausing) to your computer but to make any real use of it you need the ability to log your sessions. This is client dependent and therefore beyond the scope of this article. To actually print (or more accurately LOG) any part of the board follow this:
+<p>
+<blockquote><pre>Option: <font color="cyan">bb</font>
+[Entries on this board are formatted, directed, public and signed]
+[Messages are numbered between 1 and 324 inclusive]
+[The highest-numbered message you have read is 324]
+BB&gt;<font color="cyan">P</font>
+Print board.
+[Messages are numbered between 1 and 324 inclusive]
+[There is no message number 325]
+[Messages are numbered between 1 and 324 inclusive]
+What is the number of the message you want to read first? (Q to abort)
++&gt;<font color="cyan">1</font>
+Ready to start (y/n) <font color="cyan">y</font></pre></blockquote>
+<p>
+You'll then see messages 1 through to 324 whiz past <i>really</i> fast. This function is useful for reading the archives at your own leisure by "printing" them to a log first then reading it later rather then repeatedly going back to the Library.
+<p>
+<h2>Summary</h2>
+<p>
+<table cellpadding="8">
+<tr>
+<td valign="top"><nobr>To enter the relevant board:</nobr></td>
+<td valign="top">BB (for Bulletin Board) or<br>M (for Mail)</td>
+</tr><tr>
+<td valign="top"><nobr>To read any new messages:</nobr></td> 
+<td valign="top">N (for New messages) or by simply pressing RETURN.</td>
+</tr><tr>
+<td valign="top">To leave a message:</td> 
+<td valign="top">L (for Leave) to leave a new message<BR>
+R (for Reply) to reply to the last read message<br>
+F (for Forward) to foward the last read message to someone else.</td>
+</tr><tr>
+<TD valign="top">To delete a message:</td> 
+<td valign="top">X (for eXpunge) to delete and<br>U (for Unexpunge) to undelete the last message read as long as it was either from or to you.</td>
+</tr><tr>
+<TD valign="top">To list all messages:</td> 
+<td valign="top">D (for Directory) lists details of all messages from a specified message number.</td>
+</tr><tr>
+<TD valign="top">To list all unread messages:</td> 
+<td valign="top">RB (for Read Boards) lists messages from <b>all</b> boards.</td>
+</tr><tr>
+<TD valign="top">To "print" messages:</td> 
+<td valign="top">P (for Print) rapidly views messages from a specified number.
+</td>
+</tr>
+</table>
+To send a (MAIL) message to multiple people seperate the persona names with a comma on the to line. Do not use this on the BB though.<p><br clear=all><div align="right">... <a href="section.fod_CategoryId_2">click here</a> to return to the category list.<br>... or <a href="issue.fod_IssueId_9">click here</a> to go to the front page of this issue.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

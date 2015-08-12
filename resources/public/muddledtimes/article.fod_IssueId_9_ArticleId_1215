@@ -1,0 +1,220 @@
+<html>
+<head>
+<title>Muddled Times - A Beginners Guide to Mapping The Land</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 12, October 2001</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Game Information</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Xena</span></b></td></tr>
+</table>
+<p>
+<h1>A Beginners Guide to Mapping The Land</h1>
+<p>One of my earliest memories of
+MUD was hearing someone shout out &quot;help at the mine&quot;,
+and I remember thinking 'well I don't even know where the mine
+is, so I couldn't help even if I wanted to'. It was at that
+moment that I decided I really had to map The Land
+so that I would know where everywhere is and how to get there. The result
+is now the wallpaper next to my computer.</p>
+<p>So how have I gone about mapping
+The Land? Well, you have to start by realising what you are
+trying to achieve. There are two objectives:</p>
+<p>
+<ol>
+<li>To differentiate between the
+different places in The Land.
+<li>To understand how the different places are linked together.</ol></p>
+<p>The most basic tool we have to
+help achieve these objectives is the EXITS command. The EXITS
+command lists all the links to other places from the place you
+are in. If you use AUTO EXITS, all links will automatically be
+shown whenever you enter a new place. For example, go to the
+Fuming Swamp and type EXITS. Notice that to the East is West Lush
+Pasture. We have now achieved both objectives. Clearly West Lush
+Pasture is not the Fuming Swamp, and we know that it is to the
+East of the Fuming Swamp. Now for a slightly more complex
+example. From the Fuming Swamp, type S,S to end up in the
+Bandstand. Type EXITS here. Notice that in all directions there
+is Pine Forest. Here the EXITS command alone does not achieve the
+objectives because it is not able to&nbsp; differentiate between
+two different places that have the same short description. In
+these cases, we can have a look at the place's long description
+to see if that can help us. The LOOK command is used to see the
+long description of the place you are in. If you use the VERBOSE
+command, the long description will automatically be shown
+whenever you enter a new place. For example, from the Bandstand
+go N, and type LOOK here. Notice that you are in a place called
+Pine Forest, where the long description ends in the words 'to get
+through'. Now go S to return to the Bandstand, and then go W, and
+type LOOK here. Now you are in a place which is also called Pine
+Forest, but this time the long description ends in the words
+'resembling a bandstand'. We have now once again achieved both
+objectives.</p>
+<p>The combination of AUTO EXITS and
+VERBOSE is not sufficient to map the whole of The Land, but it
+will do most of it. There is however one more thing you will need
+before you start - a way of recording all the different places,
+in The Land, and how they are linked. I use pieces of paper with
+15 columns headed as follows:</p>
+<p>| No. | Description | N | NE | E
+| SE | S | SW | W | NW | U | D | I | O | Comments |</p>
+<p>Each row under the headings is a
+different place in The Land, and shows links from that place. For
+example, the Bandstand example I gave earlier would be recorded
+as follows:</p>
+<div align="left">
+<table border="0" cellpadding="0" cellspacing="0">
+ <tr>
+ <td align="center">No.</td>
+ <td align="center">Description</td>
+ <td align="center" width="3%">N</td>
+ <td align="center" width="3%">NE</td>
+ <td align="center" width="3%">E</td>
+ <td align="center" width="3%">SE</td>
+ <td align="center" width="3%">S</td>
+ <td align="center" width="3%">SW</td>
+ <td align="center" width="3%">W</td>
+ <td align="center" width="3%">NW</td>
+ <td align="center" width="3%">U</td>
+ <td align="center" width="3%">D</td>
+ <td align="center" width="3%">I</td>
+ <td align="center" width="3%">O</td>
+ <td align="center">Comments</td>
+ </tr>
+ <tr>
+ <td align="center">1</td>
+ <td align="center">Bandstand</td>
+ <td align="center">2</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">3</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ </tr>
+ <tr>
+ <td align="center">2</td>
+ <td align="center">Pine
+ Forest</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">to get
+ through</td>
+ </tr>
+ <tr>
+ <td align="center">3</td>
+ <td align="center">Pine
+ Forest</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">&nbsp;</td>
+ <td align="center">resembling
+ a bandstand</td>
+ </tr>
+</table>
+</div>
+<p>This can be read like this: if
+you start in place 1, the Bandstand, and go N, you will end up in
+place 2, the Pine Forest where the long description ends in the
+words 'to get through'. This method has the added advantage that
+I can tell when I have completed each place. Any blanks in a row
+mean that I have not yet finished that place. The complete entry
+for Bandstand would be:</p>
+<div align="left">
+<table border="0" cellpadding="0" cellspacing="0">
+ <tr>
+ <td align="center">No.</td>
+ <td align="center">Description</td>
+ <td align="center" width="3%">N</td>
+ <td align="center" width="3%">NE</td>
+ <td align="center" width="3%">E</td>
+ <td align="center" width="3%">SE</td>
+ <td align="center" width="3%">S</td>
+ <td align="center" width="3%">SW</td>
+ <td align="center" width="3%">W</td>
+ <td align="center" width="3%">NW</td>
+ <td align="center" width="3%">U</td>
+ <td align="center" width="3%">D</td>
+ <td align="center" width="3%">I</td>
+ <td align="center" width="3%">O</td>
+ <td align="center">Comments</td>
+ </tr>
+ <tr>
+ <td align="center">1</td>
+ <td align="center">Bandstand</td>
+ <td align="center">2</td>
+ <td align="center">2</td>
+ <td align="center">2</td>
+ <td align="center">X</td>
+ <td align="center">X</td>
+ <td align="center">4</td>
+ <td align="center">3</td>
+ <td align="center">5</td>
+ <td align="center">X</td>
+ <td align="center">X</td>
+ <td align="center">X</td>
+ <td align="center">5</td>
+ <td align="center">&nbsp;</td>
+ </tr>
+</table>
+</div>
+<p>The X's mean that there is no
+link from that place in that direction. Having completed the
+entry for place 1, I move to place 2 and complete that entry, and
+so on for all places.</p>
+<p>Using this method, I have been
+able to map most of The Land. I know there are outstanding
+questions, like what to do if both the short and the long
+descriptions of two different places are the same. And it is
+certainly not easy to turn the record of places and links into an
+actual map either. 
+<p>
+Happy Mapping!</p>
+<p><br><br><p>
+<i><h5>This article first appeared in issue 3 of Muddled Times.</h5></i><p><br clear=all><div align="right">... <a href="section.fod_CategoryId_2">click here</a> to return to the category list.<br>... or <a href="issue.fod_IssueId_9">click here</a> to go to the front page of this issue.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

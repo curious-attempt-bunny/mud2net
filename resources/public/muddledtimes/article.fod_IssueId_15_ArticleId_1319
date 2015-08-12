@@ -1,0 +1,109 @@
+<html>
+<head>
+<title>Muddled Times - Vital Statistics</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<div align="center" style="padding-bottom: 15px;">
+</div>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 16, June 2002</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Game Information</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Foddy</span></b></td></tr>
+</table>
+<p>
+<h1>Vital Statistics</h1>
+<p>
+How many times a reset do you check you type <b>qs</b>? Do you pay attention to more than just your stamina? If not, you should. So, let's have a look at them.
+<p>
+First of all, there's your stamina. This is your basic "dead or alive" stat. It tells you how much life you have left in you, and goes up and down throughout your time in The Land.
+<p>
+Next is strength. This is how hard you hit, it's how heavy a weapon you can wield, it's how beefy you are. It goes up as your level increases, but is also affected by other influences in the game. More about these later.
+<p>
+Next is dexterity. This is how nimble you are. It's how likely you are to hit something, it's how good you are at tickling people. Like strength, it goes up as your level increases, and is also affected by what you do in the game.
+<p>
+Last, is magic. Not everyone has it, but those who do can't live without it. Actually, they can - they just think they can't. It's similar to stamina, but losing it isn't quite as fatal.
+<h2>Stamina</h2>
+<p>
+In The Land, stamina is your life-timer. When it runs out, your persona ceases to exist. Luckily, there are ways of regaining stamina - sleeping, eating wafers and magic.
+<p>
+It's generally a good idea to keep your stamina as high as possible for as much of the time as possible as you never know what might happen next.
+<p>
+When your stamina is low, you are in greater danger. Not only because it'll take less to kill you, but because mobiles (and occasionally other players) may see you as an easy target and are more likely to attack you.
+<p>
+As well as sleeping and wafers, the <b>refresh</b> spell can be used to increase your stamina, but it only works once and is temporary. Be careful of it running out at exceedingly inconvenient moments. You can only use the spell again once it has run out.
+<p>
+There's also a spell called <b>drain</b> which does the opposite, but it's best used on other creatures.
+<p>
+Low stamina can also have an adverse effect on your strength, dexterity, and even what you can eat - so try not to let it get too low.
+<h2>Strength</h2>
+<p>
+With everyone out to get you in The Land, strength is also important. It's not something you lose or regain like stamina, it remains constant until you change level.
+<p>
+However, you also have an <i>effective</i> strength which, while based on your strength, may be higher or lower than your basic strength. You can never have too high a strength.
+<p>
+The biggest drain on your strength is what you carry. The heavier the objects, the lower your strength will go. Keep this in mind when picking a weapon, while it may have the sharpest blade in the land, it may also weigh you down too much. If your strength is too low, you may not even be able to wield it at all! You can check how heavy something is with the <b>weigh</b> command.
+<p>
+Luckily, there is a spell which can improve your strength, <b>strengthen</b>. This can be shortened to <b>str</b>, which is useful in a fight! As with refresh, you can only use it once and it will run out after a time.
+<p>
+There's also the opposite spell, <b>weaken</b> which (in case you forget this) can also be called with <b>unstr</b>.
+<h2>Dexterity</h2>
+<p>
+Dexterity goes hand-in-hand with strength. Like strength, your persona has a basic dexterity value, but your <i>effective</i> dexterity may be higher or lower than this.
+<p>
+Dexterity is important in fights as it not only determines how easily you hit your opponent but also how easily you defend against them. The higher your dexterity, the better.
+<p>
+Like strength, the biggest influence on your dexterity is what you carry - but not in quite the same way. Unlike strength, which is reduced by the weight of what you carry, dexterity is reduced by the number of items you're carrying (although some really heavy objects can reduce your dexterity more than you'd expect.)
+<p>
+There are tricks you can use to keep your dexterity up, like putting small objects you are carrying in a container. Your dexterity will be much higher if you carry a dozen brands in a bag than if you carry the bag and brands separately.
+<p>
+As well as what you're carrying, your dexterity is affected by how well you can see. If you're blind, or stumbling around in a dark room, your dexterity will be a great deal less than you'd expect. Watch out for the wine, too - a drunk's dexterity won't be what it was when sober.
+<p>
+I'm sure you've already guessed, but there's also a spell to help you with your dexterity, <b>deften</b>. Most people choose to use its shorter name, <b>dex</b>. The opposite spell is <b>clumsify</b> or <b>undex</b> - not one you want to cast on yourself, though!
+<p>
+If you find yourself blind, the <b>unblind</b> spell can be quite handy, too!
+<h2>Magic</h2>
+<p>
+Magic in itself makes little difference to your stats in the game. If you are running out, people won't hit you harder, and you won't die if you go back to a non-magic user. Magic is more of a resource for you to use.
+<p>
+This resource can be used to affect your other stats, though. You can use it to boost your strength, recover from blindness, or even adversely affect the stats of someone you're fighting. In some ways magic is a super-stat, allowing you to control your other stats.
+<h2>Magical objects</h2>
+<p>
+As well magic you can cast, there are also magical objects and potions in the land which will affect your stats in both good ways and bad.
+<p>
+Keep an eye out for vials containing potions - these can boost your stats for the reset and sometimes even permanently. Be wary of them, though - some may do the opposite!
+<p>
+There are also objects which will allow you to regain stamina or magic without sleeping, and a puzzle which, once completed, will give you a huge boost to your stats. I won't tell you any more about these, though - I'm sure you'll have fun working them out for yourself.
+<h2>Where to start?</h2>
+<p>
+When you start the game, your stats maybe the furthest thing from your mind. Casting magic may not even be possible for many resets to come. However, the very first choice you make will affect your stats.
+<p>
+<i>What sex would you like to be?</i> What isn't said here is that male personae are slightly stronger than their female equivalents - but then female personae are slightly more dextrous. It's not a big difference, but it's something to keep in mind.
+<p>
+When you start, you can check your stats with <b>qs</b> or <b>score</b>. If you're not too keen on them, you can use <b>reroll</b> to see if you can improve them. This only works until you score some points though, otherwise we'd have mages rerolling!
+<p>
+<h2>Finally</h2>
+<p>
+After all that, stats are important, but I don't think you should go around checking your stats every few seconds. Apart from your stamina, they are there to give you an idea of how fit you are, but shouldn't rule your life in The Land.
+<p>
+Bear them in mind when you make choices, like which weapon you use or how much you carry and remember that The Land is a magical place - sometimes even the best stats won't ensure you win.
+<p><br clear=all><div align="right">... <a href="section.fod_CategoryId_2">click here</a> to return to the category list.<br>... or <a href="issue.fod_IssueId_15">click here</a> to go to the front page of this issue.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

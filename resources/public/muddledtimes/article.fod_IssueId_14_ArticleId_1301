@@ -1,0 +1,113 @@
+<html>
+<head>
+<title>Muddled Times - Introduction to Quests</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 15, April 2002</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Game Information</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Karya</span></b></td></tr>
+</table>
+<p>
+<h1>An Introduction to Quests</h1>
+<p>Quests are exactly as you'd imagine them to be, a search or adventure undertaken, <i>in principle</i> at least. Quests are a collective name given to an area or module designed and constructed by a wiz, which is worked into the game for a reset. It is usually a self-contained area, complete with mobiles, treasure and puzzles. That's where uniformity ends and the definition of quest blurs depending on who has written the quest. Cat, for example, takes quest to mean "lets design an area with wickedly fiendish traps in it to keep players on their toes!" Where Cat's quests are devilish, Agrazag's quest is exquisitely atmospheric and McNabb's quest is full of ghoulish humour. Quests are diverse as the wizzes who wrote them. Some people have a favourite quest and will only explore that quest until they have solved or "beaten" it. Other people see quests as a way of recapturing the innocence and wonder of a new player.</p>
+<p>If you've not tried playing in quests before it's worthwhile, if only to try something new. Most quests are lucrative for points too provided you're sensible and careful! I wouldn't recommend taking a "prized-persona" into one (like your first high-life!) as some quests are full of traps and often result in "silly deaths" and bumping into a particularly nasty mobile isn't unheard of too. The trick with quests is to pay particular attention to room descriptions and to items and mobiles that you encounter. For example a path littered with bones and possessions of travellers past probably hints at danger ahead. A mobile that is valued at 10 points probably means that you could kill it without breaking out into too much of a sweat. (Notice my use of probably, there is always an exception to the rule although the quests that are currently run aren't that mean.)</p>
+<p>My advice to the novice of quests would be to use a persona with magic, take a couple of friends with you, grab a weapon and container before entering the quest and to play with verbose on (type VERBOSE - this will give you full room descriptions).</p>
+<p>Below is a table of current quests available with some other useful information including some links to reviews of the quests.</p>
+<table cellpadding="8" cellspacing="0" border="1">
+<tr valign="top">
+<td><b>Quest</b></td>
+<td><b>Author</b></td>
+<td><b>Entrance</b></td>
+<td><b>Danger Rating</b></td>
+<td><b>Notes</b></td>
+<td><b>Reviews</b></td>
+</tr><tr valign="top">
+<td>Quest of the Elements</td>
+<td>Agrazag</td>
+<td>Teleportation to "Mystical Crossroads"</td>
+<td>****</td>
+<td>An incrediably atmospheric, puzzle-solving quest.<br>
+Designed for 1 player only of sorcerer or necromancer level.<br>
+Run by Agrazag & Karya only.</td>
+<td><ul><li><a href="article.fod_IssueId_1_ArticleId_1009">Indroduction to Quest of the Elements</a><br>
+<li><a href="article.fod_IssueId_3_ArticleId_1053">Apeomancer's Topical Collective Part 1</a><br>
+<li><a href="article.fod_IssueId_2_ArticleId_1033">A review by Foz</a><br></ul></td>
+</tr><tr valign="top">
+<td>Umbrarg's Island</td>
+<td>Umbrarg</td>
+<td>Via a trawler at the Jetty</td>
+<td>***</td>
+<td>A large area of land made up of a collection of quests as opposed to 1 large quest.<br>
+Run by Umbrarg only.</td>
+<td><ul><li><a href="article.fod_IssueId_3_ArticleId_1053">Apeomancer's Topical Collective Part 2</a><br>
+<li><a href="article.fod_IssueId_2_ArticleId_1042">A review by Serenety</a><br></ul></td>
+</tr><tr valign="top">
+<td>School of Magic</td>
+<td>Cat</td>
+<td>Hall of the Cottage</td>
+<td>**</td>
+<td>A murder-mystery set in a deserted school of magic.</td>
+<td><ul><li><a href="http://www.netcomuk.co.uk/~europe/quests.html#school">Cat's Quest List<a/><br>
+<li><a href="article.fod_IssueId_8_ArticleId_1163">Apeomancer's Topcial Collective Part 3</a><br></ul></td>
+</tr><tr valign="top">
+<td>The Haunted Castle</td>
+<td>McNabb</td>
+<td>Story Books found in the Cottage and Inn</td>
+<td>*** - ****</td>
+<td>Explore the haunted castle to unlock its grisly secrets.</td>
+<td><ul><li><a href="article.fod_IssueId_8_ArticleId_1164">Apeomancer's Topical Collective Part 4</a></ul></td>
+</tr><tr valign="top">
+<td>Ice Palace</td>
+<td>Tabitha</td>
+<td>Wardrobe in the Cottage</td>
+<td>*** - ****</td>
+<td>Wander the grounds and land surrounding a beautiful, enchanted Ice Palace solving the puzzles thrown your way.<br>
+Having magic is not a necessity.</td>
+<td><ul><li><a href="article.fod_IssueId_14_ArticleId_1293">A review by Alphabet</a><br>
+<li><a href="article.fod_IssueId_14_ArticleId_1289">Apeomancer's Topical Collective Part 5</a></ul></td>
+</tr><tr valign="top">
+<td>Balloon Flight</td>
+<td>Cat</td>
+<td>Via a balloon at the Ford</td>
+<td>***</td>
+<td>Let the hot-air balloon take you to a strange greco-roman world.</td>
+<td><ul><li><a href="http://www.netcomuk.co.uk/~europe/quests.html#balloon">Cat's Quest List</a></ul></td>
+</tr><tr>
+<td>The Princess</td>
+<td>Cat</td>
+<td>South Dale & Sundial in the pine forest</td>
+<td>***</td>
+<td>Rescue the princess and return her to her father for a substantial prize.</td>
+<td><ul><li><a href="http://www.netcomuk.co.uk/~europe/quests.html#princess">Cat's Quest List</a></ul></td>
+</tr>
+</table>
+<p>The Danger Rating is based upon the opinions of players who have tried out the quests.</p>
+<p>To explore any of these quests let a wiz know which one you're interested in or alternatively keep an eye on the <a href="http://www.mudii.co.uk/cal-mar.mud">Event Calendar</a> as quests are regularly scheduled.</p>
+<h2>Quests to look out for</h2>
+<p>The following quests will be available to play in the near future:</p>
+<ul>
+<li>The Manse - explore the manse belonging to a magus and discover his secrets, written by Cat.
+<li>The Rebels - overthrow the rebels to defend the honour of the wizzes, lots of treasure to be looted, written by Cat.
+<li>Gremlins - a totally new quest to this site written by Mudguard from <a href="http://www.mud2.com">mud2.com</a>.
+<p><br clear=all><div align="right">... <a href="section.fod_CategoryId_2">click here</a> to return to the category list.<br>... or <a href="issue.fod_IssueId_14">click here</a> to go to the front page of this issue.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

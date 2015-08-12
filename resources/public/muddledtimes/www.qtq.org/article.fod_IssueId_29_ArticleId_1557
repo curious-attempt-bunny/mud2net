@@ -1,0 +1,292 @@
+<html>
+<head>
+<title>Muddled Times - The Land Design Competition - Results</title>
+<link REL="stylesheet" TYPE="text/css" HREF="v2-muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td rowspan="2" valign="top" width="10"></td>
+<td valign="top" width="150">
+<td align=center><a href="index.html"><img border=0
+src="images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td valign="top">
+<div id="menu">
+<ul>
+<li class="header">
+<li><h2><a href="issue.fod_IssueId_29">Issue 30<br>June 2005</a></h2>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_29_CategoryId_3">Editorial</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1569">Issue 30 Editorial</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_29_CategoryId_6">News & Gossip</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1562">Land Design Competition - The Scores</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_29_CategoryId_8" id="selcat">Articles</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1557" id="selart">The Land Design Competition - Results</a>
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1566">When is a witch not a witch?</a>
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1559">Witch!</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_29_CategoryId_2">Game Information</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1563">Explore This!</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_29_CategoryId_7">Fiction</a>
+ <ul class="h">
+ <li class="header">
+ <li><span class="missing">My Favourite Things</span>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_29_CategoryId_5">Quizzes</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1568">Persona Pictures - II</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><span class="missing">Interviews</span>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1567">An Interview with Brisa</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_29_CategoryId_14">Charts</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1564">Top 100, Dead or Alive - March-May 2005</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_29_CategoryId_11">Events</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1560">Easter Egg Hunt</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><span class="missing">Questionnaires</span>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="questionnaire.fod_IssueId_29_ArticleId_1565">Muddled Times Questionnaire</a>
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1561">Gender Questionnaire - Part 3</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_29_CategoryId_1">Letters</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1570">Seperated at Birth?</a>
+ <li class="footer">
+ </ul>
+<li><span class="missing">Feedback Form</span>
+<li class="footer">
+</ul>
+<br>
+</div>
+<div align="center" style="margin: 5px;">
+</div>
+</td>
+<td valign="top">
+ <table width=100% cellpadding=10>
+ <tr><td>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 30, June 2005</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Articles</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Foddy</span></b></td></tr>
+</table>
+<p>
+<h1>The Land Design Competition - Results</h2>
+<p>
+This summer, we ran a competition to design new areas for The Land. There were three winners, and (once completed) one they will be loaded randomly.
+<p>
+Anyone could enter, and voting for the entries was open to all MUD's players. The top two mortal entries, and the top wiz entry would win.
+<p>
+Entries were scored in four sections, with an additional "favourite" vote. The sections were:
+<p>
+<table>
+<tr><td valign="top" align="right"><b>Originality:</b></td>
+<td valign="top">How does the idea rate as an original concept? (As opposed to one derived from another game.)</td></tr>
+<tr><td valign="top" align="right"><b>Atmosphere:</b></td>
+<td valign="top">How well does the idea work without ruining the existing atmosphere?</td></tr>
+<tr><td valign="top" align="right"><nobr><b>In&nbsp;keeping&nbsp;with&nbsp;the&nbsp;game:</b></nobr></td>
+<td valign="top">Will this idea fit in well with the rest of The Land?</td></tr>
+<tr><td valign="top" align="right"><nobr><b>Quality&nbsp;of&nbsp;room&nbsp;descriptions:</b></nobr></td>
+<td valign="top">Do the descriptions read well, are they nicely linked to each other?</td></tr>
+</table>
+<p>
+If you'd like to know more about the scoring, see <a href="article.fod_IssueId_29_ArticleId_1562">this article</a>.
+<p>
+The winning entries, in alphabetic order were:
+<ul>
+<li><span class="missing">Beached Whale</span>
+<li><span class="missing">Redwood Forest</span>
+<li><span class="missing">The Deerpark</span>
+</ul>
+The entries, as voted on are given below.
+<br><br><br>
+<a name="bw">
+<div style="border-style: solid; border-color: #001100; border-width: 2px;">
+<table bgcolor="#003300" cellspacing="0" cellpadding="10"><tr><td>
+<table width="100%" cellpadding="5" cellspacing="5" border="0">
+<tr>
+ <td valign="top" align="right"><b>Name:</b></td>
+ <td>Beached Whale</td>
+</tr>
+<tr>
+ <td valign="top" align="right"><b>Description:</b></td>
+ <td>There's a beached whale on the north part of the stony
+beach - enter through its
+mouth, across the tongue past the huge dangling tonsils, slide down the
+throat to the cavernous interior.
+<br><br>
+Meet crazed shipwrecked sailors, an old man who has a pussy-cat and a goldfish (but no real boy), crabs, and enraged oysters. Look out for some swallowed treasure chests, the odd tin of ship's biscuits, cutlasses, and belaying pins.
+<br><br>
+The mouth shuts after you enter - there are various ways out.</td>
+</tr>
+<tr>
+ <td valign="top" align="right"><b>Number&nbsp;of&nbsp;Rooms:</b></td>
+ <td>20</td>
+</tr>
+<tr>
+ <td valign="top" align="right"><b>Sample&nbsp;Room&nbsp;1:</b></td>
+ <td bgcolor="black"><span class=xgn>Back of the mouth</span><br>
+<span class=gn>You are standing at the back of a spongy tongue. It's
+difficult to keep your footing on its mottled surface. Unpleasant and
+unspecified liquids dribble down your head, and swirl around your
+feet.</span>
+<span class=cn>There is a pair of dangly tonsils here.</span></td>
+</tr>
+<tr>
+ <td valign="top" align="right"><b>Sample&nbsp;Room&nbsp;2:</b></td>
+ <td bgcolor="black"><span class=xgn>Throat</span><br>
+<span class=gn>You are sliding down an enormous muscular tube. It's dark,
+wet, and frankly, not very nice.</span><br>
+<span class=wn>Oversized cilia brush you, attempting to suck the nutrients out of you!<br>
+(<span class=gn>115</span>/<span class=xgn>120</span>)</span><br>
+<span class=wn>Oversized cilia brush you, attempting to suck the nutrients out of you!<br>
+(<span class=gn>110</span>/<span class=xgn>120</span>)</span></td>
+</tr>
+<tr>
+ <td valign="top" align="right"><b>Sample&nbsp;Room&nbsp;3:</b></td>
+ <td bgcolor="black"><span class=xgn>Entrance to stomach</span><br>
+<span class=gn>You are noisily expelled from a spincter into a vast
+chamber. You've reached the beast's stomach! Strange noises echo around
+the gargantuan chamber, and you are overcome by an uncommon sense of
+danger... and digestion. You can't see much through the acidic gloom.</span>
+<span class=mn>A swallowed sailor (sailor3) stares at you madly. The sailor3 is carrying a <span class=cn>belaying pin4</span>.</span></td>
+</tr>
+</table>
+</td></tr></table>
+</div>
+<br><br><br>
+<a name="rf">
+<div style="border-style: solid; border-color: #001100; border-width: 2px;">
+<table bgcolor="#003300" cellspacing="0" cellpadding="10"><tr><td>
+<table width="100%" cellpadding="5" cellspacing="5" border="0">
+<tr>
+ <td valign="top" align="right"><b>Name:</b></td>
+ <td>Redwood Forest</td>
+</tr>
+<tr>
+ <td valign="top" align="right"><b>Description:</b></td>
+ <td>Northwest of The Land, the grassy pastures and pleasant forests give way to a primeval wilderness.
+<br><br>
+Great redwood trees rise up high into the sky, beyond which lies a barren, grey plain. This is marked only by a mysterious stone circle, believed to be a sister to that found upon the Dragon's Isle. A mystical location of great power and beauty is also rumoured to exist here, though none have yet found it, for it is protected by potent spirits.
+<br><br>
+Flora and fauna not seen in The Land for centuries can be found in this domain. Beware, however, for not all of these are friendly ...</td>
+</tr>
+<tr>
+ <td valign="top" align="right"><b>Number&nbsp;of&nbsp;Rooms:</b></td>
+ <td>54</td>
+</tr>
+<tr>
+ <td valign="top" align="right"><b>Sample&nbsp;Room&nbsp;1:</b></td>
+ <td bgcolor="black"><span class=xgn>Barren plain</span><br>
+<span class=gn>Many bones, eroded by the wind and bleached by the sun, lie strewn across this area of the plain, creating the impression that this must have been a favoured feeding site for carnivores from ages past. However, some of the bones are considerably less bleached and eroded than others - possibly this place isn't as deserted as it appears ... The stone circle lies to the north and northwest, while the plain goes on in all other directions.</span></td>
+</tr>
+<tr>
+ <td valign="top" align="right"><b>Sample&nbsp;Room&nbsp;2:</b></td>
+ <td bgcolor="black"><span class=xgn>Barren plain</span><br>
+<span class=gn>This section of plain is covered with lumps of rock that once must have borne detailed carvings, but now all that remains are faint impressions in the stone. Even these will surely soon be eroded away by the unrelenting wind and the dust it carries. To the north lies a stone circle, miraculously still intact despite the cruelty of the elements here. To the west the plain slopes up into a bleak hill, and in other directions the plain continues into the distance.
+<span class=xcn>A grey-veined chunk of marble whose carvings have resisted the passage of time rests here.</span></span></td>
+</tr>
+<tr>
+ <td valign="top" align="right"><b>Sample&nbsp;Room&nbsp;3:</b></td>
+ <td bgcolor="black"><span class=xgn>Southeast side of stone circle</span><br>
+<span class=gn>Within the environs of the stone circle, the gale gains a new level of intensity, nearly lifting you from your feet. It almost seems that you can hear the final calls of long-extinct species of animal carried on the wind's scream. To the northwest lies the intricately carved stone altar in the circle's centre, while to the north and west lie two of the four trilithons making up the circle.</span></td>
+</tr>
+</table>
+</td></tr></table>
+</div>
+<br><br><br>
+<a name="td">
+<div style="border-style: solid; border-color: #001100; border-width: 2px;">
+<table bgcolor="#003300" cellspacing="0" cellpadding="10"><tr><td>
+<table width="100%" cellpadding="5" cellspacing="5" border="0">
+<tr>
+ <td valign="top" align="right"><b>Name:</b></td>
+ <td>The Deerpark</td>
+</tr>
+<tr>
+ <td valign="top" align="right"><b>Description:</b></td>
+ <td>This is an extension of the current deerpark.
+<br><br>
+Wandering around this area are several deer, a faun and some birdlife. Typical of any deerpark there are trees, a watering hole for the deer and old logs and branches lying around. There's also the park-keepers hut and a large, old oak tree.
+<br><br>
+Both the hut and oak tree are explorable with some hidden suprises.</td>
+</tr>
+<tr>
+ <td valign="top" align="right"><b>Number&nbsp;of&nbsp;Rooms:</b></td>
+ <td>25-30</td>
+</tr>
+<tr>
+ <td valign="top" align="right"><b>Sample&nbsp;Room&nbsp;1:</b></td>
+ <td bgcolor="black"><span class=xgn>Underneath the oak tree</span><br>
+<span class=gn>You are in a cavity underneath the old oak tree. You are surrounded by a network of old, gnarled roots. The earth around you looks loose enough to move with the help of a suitable tool. Above you is the hollowed centre of the old oak tree.</span></td>
+</tr>
+<tr>
+ <td valign="top" align="right"><b>Sample&nbsp;Room&nbsp;2:</b></td>
+ <td bgcolor="black"><span class=xgn>Oak tree hollow</span><br>
+<span class=gn>This is the hollow centre of an old oak tree. It is very homely here, large enough to fit several people or animals and sheltered enough to protect against the elements. Downwards is a hole surrounded by a tangle of old roots. It is possible to climb upwards into the tree using the branches for support.</span></td>
+</tr>
+<tr>
+ <td valign="top" align="right"><b>Sample&nbsp;Room&nbsp;3:</b></td>
+ <td bgcolor="black"><span class=xgn>Oak tree branch</span><br>
+<span class=gn>You are perched on a large branch of a very old oak tree. Underneath is the deer park which you could jump down to. The branch looks strong enough to support your weight if you chose to crawl further along it. Below is the hollow of the tree. You can see something twinkling at the end of the branch.</span></td>
+</tr>
+</table>
+</td></tr></table>
+</div>
+<p><br clear=all><div align="center"><span class="missing">Mail the author</span><br><br></div><div align="right">... <a href="issue.fod_IssueId_29">click here</a> to return to the front page.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

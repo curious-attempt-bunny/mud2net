@@ -1,0 +1,467 @@
+<html>
+<head>
+<title>Muddled Times - Mortal Morals</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<div align="center" style="padding-bottom: 15px;">
+</div>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 21, April 2003</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Articles</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Lexley</span></b></td></tr>
+</table>
+<p>
+<h1>Mortal Morals</h1> 
+<P>When I was a newbie to MUD2, a sorcerer (what a high level that 
+seemed!) offered to give me 300 points. All I had to do was spend a few minutes 
+helping him in the swamp. 300 points seemed an awful lot to me at the time, so I 
+agreed. Ten minutes later, he gave me my 300 points and I was happy. Nothing 
+wrong with that, then? 
+<P>Well yes, there was. Although I'd made 300 points, he had made 2,000 for the 
+crown. An experienced player would have demanded a more equitable split; he 
+therefore got newbies to help him because the returns were better. Basically, he 
+was ripping them off. He offered a deal, but didn't explain the full terms of 
+the deal. 
+<P>In other words, he had suspect morals. 
+<p> <div align="center"><img src="icon/default.gif" alt="*"></div> <p>
+<P>Morality is a subject which is almost inextricably intertwined with that of 
+religion. This makes it very touchy because religions, by their very nature, 
+depend on people believing things to be true without any of what other people 
+(of a different or of no religion) might consider to be evidence. Also, because 
+most major religions are hundreds if not thousands of years old, there's a 
+problem when a system of ethics which worked fine all those years ago runs up 
+against modern political or scientific thinking. 
+<P>For every <A href="http://www.christiancourier.com">The Christian 
+Courier</A> ("Charles Darwin challenged the Bible record of creation with his 
+book, <I>The Origin of Species</I>. His influence has been extensive and 
+harmful") there is a <A href="http://www.bbc.co.uk/education/darwin">BBC 
+Education</A> ("4,000 million years crammed into one website"); for every <A 
+href="http://www.plannedmurderhood.com">Planned Murderhood</A> ("A complete Web 
+Solutions Provider for Anti-Abortion/Prolifers and American Patriots" - 
+highlight the black space from the lower right-hand corner to see the hidden 
+keywords list they use to trick search engines into recommending them) there is 
+a <A href="http://www.nwho.org">National Woman's Health Organization</A> ("We 
+understand that your emotional health and safety are as important as your 
+physical well being"); for every <A href="http://www.muslimnews.co.uk">The 
+Muslim News</A> ("Homosexuality amendment defeated in Lords ... Lord Ahmed 
+supports the Amendment on the grounds that Muslims are opposed to 
+homosexuality") there is an <A href="http://www.alltogether.com">ALL 
+Together</A> ("A place to explore Sexuality and Coming Out"). 
+<P>And then some ... 
+<P>It's also quite possible to have a moral code without having a religion to 
+support it (<A href="http://www.abarnett.demon.co.uk/atheism/morals.html">Does 
+morality require a God?</A>). So even if I were to talk about the morals of 
+MUD2 from the perspective of one or more major religions, I'd still get 
+into trouble from atheists (which, as they include <A 
+href="http://www.mud.co.uk/richard/celebath.htm">the game's author</A>, can't 
+easily be dismissed in this context!). 
+<P>However, if I am to discuss the morals of the game, I do need some definition 
+of what is "moral" and what isn't. I have therefore gone back to the 
+philosophical underpinning of morality, which is basically this: <I>don't do to 
+other people what you wouldn't like them to do to you</I>. OK, so there are 
+exceptions (my dentist can be forgiven for not letting me fill his teeth), but 
+the basic idea is valid. I'm sorry if this doesn't mesh with your own 
+fundamental morality, but it's the best I can do. It's what I'll be assuming for 
+the remainder of this article, anyway. 
+<P>Incidentally, those of you who, like me, use <A 
+href="http://www.freeserve.co.uk">Freeserve</A> as your ISP may find that some 
+of the above links don't work. This is because Freeserve surreptitiously filters 
+them out. In fact, it even filters out some of the ads that <A 
+href="http://www.altavista.com">Alta Vista</A> throws up when you do research 
+on the topic! Yet do they tell you they're filtering it out? No - they just 
+report that the page isn't found. 
+<P>Another example of suspect morals ... 
+<p> <div align="center"><img src="icon/default.gif" alt="*"></div> <p>
+<P>The first point I have to make, which is absolutely crucial, is that morality 
+is essentially a <I>real life</I> phenomenon. There is no concept of morality in 
+the game itself; essentially, it's an invention of the players. If no-one were 
+to play MUD2, the mobiles would still walk around stealing things from 
+one another and attacking without compunction. The morality of the game is an 
+absolute: if the game allows you to do something, it therefore implicitly 
+permits it; if it doesn't, it implicitly prohibits it. 
+<P>This doesn't mean that anything goes, however. Reality "allows" you to tie 
+firecrackers to old ladies' hair, but that doesn't mean you can expect that to 
+work as an excuse when you're hauled up before the magistrate. In considering 
+what you can do - whether in reality or MUD2 - the controls operate at 
+three levels: 
+<P>
+<OL>
+ <LI>What is physically possible.<BR>You can't do things which are physically 
+ possible. In Real Life, no matter how desirable it is that you be able to 
+ travel faster than light, you can't. In MUD2, no matter how much you 
+ want to be able to break arbitrary objects into their constituent parts, you 
+ can't. 
+ <LI>What is legal.<BR>Lawmakers impose restrictions on what you can do. 
+ Sometimes, this works by telling you what you can't do, and sometimes it works 
+ by telling you what you can. In England, killing people is prohibited except 
+ in very special cases (self defence, for example, or soldiers in wartime). In 
+ MUD2 it is generally allowed, but deliberate suicide to give people 
+ points is not. Sanctions are imposed on transgressors by the authorities, who 
+ have the ability to enforce their laws. 
+ <LI>What is moral.<BR>Your morality is personal. In the real world, you may be 
+ against hunting animals even though it's legal. You may treat women as 
+ inferior even though the law makes no such claims. In MUD2, you might 
+ never attack anyone at a level lower than your own. You might always leave 
+ easy treasure that you come across so that newbies can find it. These are 
+ decisions based on your own personal morality (or lack of it). </LI></OL>
+<P>From this, we can see that my earlier statement about the game being 
+essentially without morality stands up: if there were no players and no 
+lawmakers/enforcers, then all that's left is what's physically possible. If you 
+can do it, that's all that matters. 
+<P>The point where normal systems of morality start to get flaky is where these 
+world collide. If it's not OK to kill people in real life, why is it OK to kill 
+people in MUD2? Because they're not real people? But if instead of 
+"dwarfs", those mobiles were described as "niggers" that would be utterly 
+unacceptable - even though they wouldn't be real people either, just 
+representations. What allows a game universe to get away with modelling the most 
+serious of all crimes (murder) but not a lesser crime (racism)? 
+<P>How about things that aren't even crimes? Would it be acceptable, for 
+example, to make all the player characters male and all the mobiles female? No, 
+it would not be: that would be saying things about women and what it's OK to do 
+to them which, although not overt, would be nevertheless there and dangerous to 
+encourage. Well in that case, what if all the player characters were female and 
+all the mobiles male? They can put <I>Man O Man</I> on TV ... What if the mobiles 
+<I>and</I> the player characters were all the same sex? Would it matter which 
+sex? Perhaps it would. 
+<P>You can't use the excuse that MUD2 is a role-playing game, and 
+therefore it's OK for people to kill in it because they could do so in the 
+vaguely medieval setting it uses. In medieval times, the Jews were regularly 
+persecuted simply for being Jews, but if you put that into MUD2 for 
+"realism" then, again, you had better have a very good excuse (an educational 
+MUD teaching schoolchildren how their ancestors behaved, perhaps). You can't 
+simply let people persecute Jews for fun, even in a game - the real world 
+(rightly) insists so. 
+<P>The reason that some things are OK and some aren't is because the real world 
+is boss. MUD2 exists in the real world, therefore it is subject to the 
+real world's constraints. It is a model of a non-real world, but the real world 
+does not exist in that model. In the real world, someone can switch off the 
+computer that runs MUD2; no-one in MUD2 can switch off reality. 
+It's when events in MUD2 take on a real world aspect that they become 
+real world issues. 
+<P>This is why no-one bats an eyelid in MUD2 when they steal from 
+another character, but they do when a character with a profane name enters the 
+game. It's why you can burn down private property, give alcohol to apes and 
+slaughter babies and children in MUD2. None of these actions have an 
+immediate impact on the real world. But if you start talking dirty to a 
+12-year-old, or trying to sell illegal drugs, or giving yourself blasphemous 
+names, the superiority of reality is asserted. What you are doing has real life 
+consequences. 
+<P>That's why they're "dwarfs" and not "niggers". Well, that and the fact that 
+persons of restricted growth haven't got much political clout at the moment ... 
+<P>So problems of morality in MUD2 do not, in fact, have much to do with 
+MUD2 at all. They're to do with those aspects of reality that come to 
+the fore through the game. You may believe that helping the disadvantaged is 
+something which is important, therefore you go out of your way to talk to 
+newbies. You may believe that people should learn to stand on their own two 
+feet, so you explain puzzle solutions in terms of cryptic hints instead of 
+straight answers. Whether you, as a vegetarian in real life, allow your 
+character to eat the ham is as of little consequence as whether you, as a 
+responsible member of society in real life, allow your character to flood a mine 
+and drown half a dozen dwarfs who never knew what hit them. It's not an issue: 
+<I>you're</I> not doing it, your character is. You're not doing it to a 
+<I>person</I>, you're doing it to a game construct. It only becomes an issue 
+when you do something that directly affects a person. Not a character (persona), 
+mind: a person. 
+<P>Here is the single, most important statement in the whole of this article: 
+<B>it's people, not characters, that are important</B>. 
+<p> <div align="center"><img src="icon/default.gif" alt="*"></div> <p>
+<P>You can do things to characters, but always remember that there is a person 
+behind them. A character is a representation of a real character in the game 
+world. What you do to that character impinges on the real world via the person 
+playing that character; in other words, characters interacting in MUD2 
+are really just public interfaces used to connect the minds of real people. When 
+put like that, it becomes obvious that it's possible to cause real-world 
+distress by in-game action. What your character does to another character occurs 
+only because you, a player, wish to have an effect on the player of the other 
+character. Now of course, almost all the time this is within the context of the 
+game, and both players expect it; they knew what a "game" was when they started, 
+so they expect to win some and lose some, they expect some highs and lows - 
+that's part of the attraction. But that's only <I>almost</I> all the time. 
+Sometimes, reality rises shark-like from the water and the game momentarily 
+ceases to be a game. 
+<P>People can really hurt one another. I don't just mean by the use of insults 
+or inconsiderate language - that just shows them up to be prats. I mean much 
+deeper wounds, like those caused by lying, bullying and betrayal. And because 
+people often identify with their characters, they can be hurt by direct assaults 
+on those characters. Players may look on their characters as if they were 
+friends, or as aspects of their own identity, or even as true representations of 
+themselves. Just as they might get upset and angry when they see someone torment 
+an innocent animal in the real world, they can get upset and angry when someone 
+torments their character in the game without provocation. 
+<p> <div align="center"><img src="icon/default.gif" alt="*"></div> <p>
+<P>I'm now going to give a series of examples of things that players commonly do 
+in the game which, were they to think about it a little more than they do (which 
+is to say, if they were to think about it at all!), might give them cause for 
+concern for what it says about them as <I>people</I> in real life. 
+<P>It should come as no surprise that the first of these examples concerns PKing 
+(player killing). 
+<P>Contrary to what many people seem to believe, I am not against players 
+attacking others in the game. These things happen in games, MUD2 makes 
+no secret of the fact it will happen - it even does it itself, killing 
+characters with its mobiles. Without some killing, we'd have a game of all 
+wizzes and novices, with nothing in between. 
+<P>What I object to is unfairness in killing. Attacking someone with massive 
+force, when they stand no chance of escape, is sadistic and unwarranted. Players 
+who PK can really hurt their victims - in fact, for many of them this is the 
+very reason they PK in the first place. What they don't give much thought to is 
+what it feels like to be on the receiving end of something that is, effectively, 
+an assassination. When you stand practically no chance of survival, that makes 
+it even worse. The PKs can even come in afterwards to gloat, in the guise of 
+"teaching" you what you did wrong. What you did wrong was to play with assholes 
+like that around in the first place, that's what you did wrong! But you're 
+simply expected to show some backbone and get right back to where you were 
+without a whimper. 
+<P>And if you do take it "like a man", do you get any credit? No. They just find 
+some other excuse to whack you again. All they're teaching you is to play when 
+they're not around. Tough if real life won't let you do that. Fairness? What's 
+that got to do with it? 
+<P>Why is this a moral issue, and not simply one of people with disturbed 
+personalities or too many hormones getting kicks from a game which, while not 
+encouraging what they're doing, doesn't exactly discourage it either? It's a 
+moral issue because it violates the framework of <I>consensuality</I> that 
+exists between the players. All players coming into a game have certain 
+expectations of what being a "game" means. This can involve many things, such as 
+its luck factor, its learning curve and the behaviour of its other players. If 
+weeks of play can be wiped out by totally random events (say, every once in a 
+while the dragon summons you using wiz powers and slays you before you get to 
+type a command) then that would be counter to the expectations players have of 
+what a game is about; they would complain. The game would then be changed to 
+remove this problem (I hope!). 
+<P>When it comes to other players, though, it's all down to trust. The players 
+have to <I>trust</I> one another to play the game. It's not a game when people 
+who have much, much more experience and much, much better kit and much, much 
+higher level characters come along and kill you. There was nothing you could do 
+to stop them. You didn't join the game so people could use you as a punchbag: by 
+doing this to you, they're betraying your trust in them to behave responsibly. 
+Yes, of course the game mechanics allow them to attack you, but the game 
+mechanics in cricket let you hit a ball at someone's head; you're trusting your 
+fellow players not to do that. It doesn't matter what excuses they come up with 
+- "it happened to me when I was a superhero", "I'm 2 levels higher than you, 
+deal with it", "if you can't take it, don't play" - you know that they took 
+advantage of you. By signing up to the game, you accepted that certain things 
+you wouldn't like might happen, but the PK has gone way beyond what you felt you 
+agreed to. It was no longer consensual. You trusted them to behave within 
+certain parameters, but they violated that trust; they violated <I>you</I>. 
+<P>Fairness may have little to do with it, but <I>fair play</I> has everything 
+to do with it. 
+<p> <div align="center"><img src="icon/default.gif" alt="*"></div> <p>
+<P>My second example of the way people bend their morals to suit themselves 
+concerns the "role-playing" argument that PKs often give to excuse themselves. 
+What happens here is that Player A and player B are friends. Their main 
+characters are A1 and B1 - these are the ones they were playing when they became 
+friends. One day, player A brings on A2 and kills B1. When player B brings back 
+B1 the novice, he complains to player A. Player A says that he was just 
+role-playing an evil character. He comes back as A1 all full of sympathy. 
+<P>What kind of idiots do these people think we are? 
+<P>Friendships are between <I>players</I>, not characters. Characters can't have 
+friendships any more than lit brands can. It's the real people who have the 
+friendship. If one of them does something nasty to the other (such as killing 
+their character) then they're damaging their real friendship. OK, so maybe they 
+<I>were</I> role-playing, but who wants to be friends with someone who can turn 
+on you at any moment using that kind of feeble line as an excuse? People who use 
+this "I was only role-playing" argument are doing no such thing! What's more, 
+the fact they're using that argument on you in the first place means they don't 
+have a very high regard for your intellect. They'll just carry on doing it while 
+you're dumb enough to let them. 
+<P>They want their bread buttered both sides: they want to advance their 
+characters, game skill or level of fun at your expense, but don't want to suffer 
+the consequences. So they fob you off with an excuse that it wasn't really them, 
+it was someone they were <I>pretending</I> to be. Right. Why don't they pretend 
+to be someone who gives you all their treasure next time? 
+<P>This a moral issue because it's come out of the game. Friendships forged in 
+MUD2 are friendships in real life. Friendships betrayed in MUD2 
+are friendships betrayed in real life. Betraying a friendship in real life is an 
+action which draws widespread disapprobation. Why the surprise that it does so 
+in MUD2, too? 
+<P>No wonder so many of these people find themselves friendless after a while ... 
+<p> <div align="center"><img src="icon/default.gif" alt="*"></div> <p>
+<P>My third example continues this theme of betrayal. In this one, people claim 
+to be someone or something that they are not and you invest a lot of time and 
+effort in them, only to find out that you've been suckered. 
+<P>The most obvious way this happens is when dealing with newbies. Many newbies, 
+as I've said before, are no such thing. In order to work up a secret character (for 
+whatever reasons, but mainly, I suspect, so they can PK their friends without 
+being blamed) they start off pretending to be brand new. A newbie helper comes 
+along and gives them lots of encouragement, patiently explaining all the 
+commands and showing them how to get treasure, when it suddenly becomes clear 
+that the newbie is an oldbie playing tricks. It's infuriating! I used to bawl 
+them out when they did this to me, but now I pretend I haven't noticed and 
+simply make a mental note that so-and-so is a fake instead. 
+<P>Fake newbies are just the tip of the iceberg, though. In MUD2, anyone 
+can say anything about their real life selves, and who's to know they're lying 
+or telling the truth? The number of times I've got quite deeply into a chat with 
+a female-presenting player only to realise that something was not quite right, 
+and, sure enough, it's a guy. I'm not saying that guys shouldn't play female 
+characters, of course not; it's just that when they claim to be girls in real 
+life and they're not it annoys me. How can you make friends with people who lie 
+to you about things like that? How can you ever trust them not to lie to you 
+again? They should either admit the truth openly, like most people do, or seal 
+themselves in a role-playing cocoon that makes no reference to their real life 
+self at all. 
+<P>Again, the reason this is a moral issue is because it's a betrayal of real 
+world trust. For a relationship to develop, people have to enter into one 
+another's confidence. If it subsequently turns out that someone has been telling 
+you a pack of lies from start to finish, that's intolerable. I have several 
+long-term email correspondents I've never met in real life and if I found out 
+that they'd been making up everything we'd ever talked about I'd go wild! And if 
+that applies to email, why shouldn't it apply to MUD2? 
+<p> <div align="center"><img src="icon/default.gif" alt="*"></div> <p>My final 
+example is a little more subtle: it's what we wizzes (preen, preen) call 
+"sneaking". This is where players have reached a level way beyond their ability 
+by using tactics that aren't really in the spirit of the game: only playing when 
+there's hardly anyone around; quitting when people you don't know appear; only 
+scoring for easy treasure in 5-minute bursts; killing one mobile in a bash then 
+sitting it out in the tearoom. I'm sure you know what I mean - everyone has 
+heard of someone who's done this, even if they haven't actually done it 
+themselves. Does the phrase "How did they ever get to be a mage?" ring a bell? 
+<P>The waters are muddied by the fact that many ordinary players actually 
+respect people who are trying to sneak their way to higher levels. They see all 
+PKs as being wizmorts out to get them, therefore anyone who can fly in the face 
+of that deserves to be cheered all the way. What they fail to appreciate is that 
+people who sneak like this are undermining the very principles that make the 
+game fun for everyone else. If you can reach wiz by popping in at the start of a 
+reset, swamping 500 points worth of flowers, then sitting in the Tearoom 
+chatting the rest of the time (except maybe when the <TT>SV</TT> mobile count 
+gets close to a points bonus) then, frankly, what's to stop anyone from reaching 
+wiz? Why bother with character death at all if it's completely avoidable anyway? 
+In fact, why should they even have to go through the tedium of playing to wiz - 
+wouldn't it be simpler if they could merely write Wireplay a cheque for 1,000 
+hours of usage and save all that tiresome playing fluff? 
+<P>And that's the heart of the issue. "How did they ever get to be a mage?" can 
+all too soon become "How did they ever get to be a wiz?". It has to <I>mean</I> 
+something when you reach wiz; people who try get in through a back door are 
+cheating those who strive to do it honestly. As I mentioned earlier, central to 
+the conditions that people understand prevail when they start a game is the 
+concept of fair play. People who attempt to writhe snake-like up to wiz are not 
+playing fair; in so doing, they mock the attempts of people who struggle up 
+conventionally. The same trust you have in your fellow players that they won't 
+swat you like an insect with monstrously superior firepower is the same trust 
+you have in them that they won't cheat. 
+<P>Is it a moral issue? It's unlike the other three. I don't want to be PKed 
+without hope of escape, so I won't PK others; I don't want my friends to turn on 
+me, so I won't turn on them; I don't want others to deceive me, so I won't 
+deceive them. Those are all fairly obviously issues of personal morality, as 
+discussed at the beginning of this article. But what about sneaking? Sneaking is 
+an individual action - you don't "sneak someone" in the same way that you "PK 
+someone" or "deceive someone". Why is it a problem, if there's no victim? 
+<P>It's a problem because <I>every</I> player is a victim, in the long term. 
+<P>Suppose that in real life you worked hard for your A-levels and went on to do 
+a degree. After another three or four years of more hard work, you eventually 
+pass, only to discover that someone has been given the same degree as you merely 
+for attending the lectures. You'd be angry: firstly, because it meant you'd done 
+all that work when you needn't have; and secondly, because once word got out how 
+easy it was to get a degree like yours, it would be worthless as a qualification 
+anyway. 
+<P>So it is with MUD2. If anyone can make wiz with a minimum of effort, 
+what kind of a goal is that? It's no goal at all! People who sneak up are 
+debasing the currency: they want to be a wiz because that shows them to be a 
+great player, but by sneaking up they make the rank of wiz worth less. People 
+who have been playing to score points "properly" are being cheated by this 
+reduction in value of their ultimate goal. Anyone who sneaks to wiz regardless 
+of the effect on the other players is lacking in morals. 
+<p> <div align="center"><img src="icon/default.gif" alt="*"></div> <p>
+<P>So how do your MUD2 morals stand up? Can you honestly say that you 
+never do anything which affects people in real life beyond what they might 
+reasonably expect when they start to play the game? Do you never do things to 
+people which you would really, really <I>hate</I> for them to do to you? 
+<P>To round off, here are some scenarios for you to think about. I won't make 
+any comments as to whether I think they're morally justifiable or not - that's 
+for you to decide. Why not make a <a href="http://www.mudii.co.uk/forums/index.php">post on the forums</a> with your thoughts on the subject? 
+<P>
+<OL>
+ <LI>Player A's sorcerer is attacked without provocation by player B's warlock. 
+ Player A knows that player B also has a sorcerer. Is it OK for player A to 
+ attack player B's sorcerer with a mage? 
+ <LI>Player A is killed by a mysterious PK which player A is certain belongs to 
+ player B. Player A posts a list of all player B's characters on the BB. Are 
+ player A's morals suspect? 
+ <LI>Player A won't tell anyone anything about his private life. After much 
+ detective work, player B finds a photograph of player A on some obscure web 
+ site. Is it morally defensible for player B privately to tell other interested 
+ players the URL of the image? 
+ <LI>A wizard tries to chat up a mortal. Good news or bad news? 
+ <LI>An experienced mortal is emigrating and won't be able to play any more. As 
+ a parting gift to everyone, he posts a complete and very accurate set of maps 
+ on his web site. Can the morality of this act be called into doubt? 
+ <LI>MUDs are addictive. Is providing them therefore an immoral act? </LI></OL>
+<P>Enjoy yourselves wrestling with those! 
+<p> <div align="center"><img src="icon/default.gif" alt="*"></div> <p>
+<h2>Further Reading</h2> 
+<P><I>The</I> major article on morals in MUDs is <A 
+href="http://www.legendmud.org/Bibliography/texts/essay.html">An Essay on Ethics and Virtual 
+Reality</A>. It argues cogently that ethics do apply in MUDs, that there are 
+different types of ethics involved and what some of these are. 
+<P>Most MUDs don't mention ethics or morality at all, of course - it's a tricky 
+subject! For a lot of these, the fact that different character alignments allows 
+for a range of "moral standards" is enough, although those are in-game only, of 
+course. That said, many MUDs allow players to organise into groups or "clans" 
+(like MUD2's houses), and some of these have their own moral codes. For 
+example, the "Watchers" clan from the MUD <A 
+href="http://dead.greenwing.com">The Dead of The Night</A> has a fairly evolved 
+<A href="http://members.tripod.com/~Tivao/w/constitution.html">constitution</A> 
+which covers issues of morality both inside and outside the game. 
+<P>MUDs which do give ethical guidelines tend to do so at the "netiquette" 
+level, for example <A 
+href="http://www.sleepless.cheese.org/rules.html">Sleepless Nights</A>. These 
+muddle together moral and practical issues, but they're better than anything 
+MUD2 has at present... Even <A 
+href="http://www.grayarea.com/mud1.htm">Abandon All Hope</A>, a MUD which prides 
+itself on its willingness to explore grey areas of morality, doesn't have a 
+particularly well codified <A href="http://www.grayarea.com/rules.htm">set of 
+rules</A>. 
+<P>Two interesting articles by outsiders on some of the moral implications of 
+MUDding are <A 
+href="http://www.mikiko.net/library/weekly/aa092897.htm"><I>Machina sapiens</I> 
+and Human Morality</A> (which considers the moral issues raised by "bots" in 
+MUDs and IRC) and <A href="http://ptgptb.humbug.org.au/0003/muds.html">Happy as 
+a Player in MUD</A> (which outlines the main positions taken by people when 
+relating MUDs to real life - the author doesn't seem to like mine!). 
+<P>As usual, there are some interesting academic papers to be found, for people 
+who want to take the subject just that little bit further. <A 
+href="http://www.sundoulos.com/articles.aspx_in_18">The 
+Social Trajectory of Virtual Reality: Substantive Ethics in a World Without 
+Constraints</A> is absolutely excellent, I can't recommend it too highly. <A 
+href="http://www.du.edu/~lortiz/theater.htm">MUDs, Memories and Morals: A 
+Revisioning of Primary Orality and Later Literacy</A> is more quirky (OK, 
+<I>much</I> more quirky!) but it has some interesting things to say towards the 
+end on how MUD histories are remembered by players and the way that players' 
+morals affect this. 
+<P>And to wrap it all up, I guess I should state the obvious: this article is 
+written from a mortal's point of view. Wiz morals are something else entirely! 
+For MUD2, there <I>is</I> a proper, formal document provided to wizzes 
+which defines the boundaries of acceptable wiz behaviour, but it's not something 
+I can openly discuss; as a wiz, there's a danger that anything I say on the 
+subject could be taken literally, out of context. Mortals interested in the kind 
+of constraints under which wizzes have to operate will therefore either have to 
+make wiz themselves, or look at what other MUDs publish on the subject - two 
+good ones are the famous <A 
+href="http://www.godlike.com/mushman/wiz-ethics.html">Amberyl's Wizard 
+Ethics</A> and Impmud's <A 
+href="http://mudhole.spodnet.uk.com/~marshall/ethics.html">MUD Admin Ethics</A>. 
+<P>Don't take it all too seriously though. When I asked one old-timer what 
+"ethics" meant to him, he replied, "It'th the univerthity where the firtht MUD 
+wath written"!
+<p>
+<div align="center"><img src="icon/default.gif" alt="*"></div>
+<p>
+This article first appeared in the August 1999 issue of Witch?<p><br clear=all><div align="right">... <a href="section.fod_CategoryId_8">click here</a> to return to the category list.<br>... or <a href="issue.fod_IssueId_20">click here</a> to go to the front page of this issue.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,379 @@
+<html>
+<head>
+<title>Muddled Times - Abbreviations</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<div align="center" style="padding-bottom: 15px;">
+</div>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 10, June 2001</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Game Information</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Karya</span></b></td></tr>
+</table>
+<p>
+<h1>Abbreviations</h1>
+<P>
+The following tables are a set of commands with the approprite abbreviation(s). Not of all of them are strictly abbreviations, but they make things easier to type, especially when you're in a hurry. This is by no means a comprehensive list. Whilst in-game, if there is an item or mobile that you refer to a lot and there is no known abbreviation then you can use synonyms (SYN for short). For example, if you like to attack the wraith a lot (why you'd want to I've no idea!) then it may be easier to type wra, rather than wraith, so at the start of a reset you could type this: SYN WRAITH as 'WRA then you'd be able to refer to he wraith as wra for the rest of that reset. Alternatively you could use the SUGGEST command. Simply type SUGGEST wra be a syn/abbreviation of wraith (or whatever you'd like to suggest) and if you're really lucky, that syn/abbreviaton will be implimented in the following version release.
+<p>
+<div align="center">
+<table border=1 cellpadding=6>
+<tr><td colspan=2><br><h2 align="center">Boats</h2></td></tr>
+<tr align=center>
+<td>Coracle</td><td>cc</td>
+</tr><tr align=center>
+<td>Dingy</td><td>dg</td>
+</tr><tr align=center>
+<td>Sampam</td><td>sp, sam</td></tr>
+<tr><td colspan=2><br><h2 align="center">Commonly Used Commands</h2></td></tr>
+<tr align=center>
+<td>Exits</td>
+<td>x</td>
+</tr><tr align=center>
+<td>Help</td>
+<td>h</td>
+</tr><tr align=center>
+<td>Inventory</td><td>i</td>
+</tr><tr align=center>
+<td>Look</td><td>l</td>
+</tr><tr align=center>
+<td>Keep</td><td>kp</td>
+</tr><tr align=center>
+<td>Quicklook</td><td>ql</td>
+</tr><tr align=center>
+<td>Quickscan</td><td>qn</td>
+</tr><tr align=center>
+<td>Quickscore</td><td>qs</td>
+</tr><tr align=center>
+<td>Quickwho</td><td>qw</td>
+</tr><tr align=center>
+<td>Quit</td><td>qq</td>
+</tr><tr align=center>
+<td>Score</td><td>sc</td>
+</tr><tr align=center>
+<td>Sleep</td><td>zz, zzz</td>
+</tr><tr align=center>
+<td>Superflee</td><td>sf</td>
+</tr><tr align=center>
+<td>Survivors</td><td>sv</td>
+</tr><tr align=center>
+<td>Unhelp</td><td>unh</td>
+</tr><tr align=center>
+<td>Unkeep</td><td>unkp</td>
+</tr><tr align=center>
+<td>Withdraw</td><td>wd</td>
+</tr>
+<tr><td colspan=2><br><h2 align="center">Communication Commands</h2></td></tr>
+<tr align=center>
+<td>Chuckle</td><td>ch</td>
+</tr><tr align=center>
+<td>Curtsey</td><td>cu</td>
+</tr><tr align=center>
+<td>Encourage</td><td>en</td>
+</tr><tr align=center>
+<td>Gaze</td><td>gz</td>
+</tr><tr align=center>
+<td>Giggle</td><td>gg</td>
+</tr><tr align=center>
+<td>Goodluck</td><td>gl</td>
+</tr><tr align=center>
+<td>Grin</td><td>gr</td>
+</tr><tr align=center>
+<td>Growl</td><td>grr</td>
+</tr><tr align=center>
+<td>Laugh</td><td>la</td>
+</tr><tr align=center>
+<td>Laughs on the floor, rolling</td><td>lofr</td>
+</tr><tr align=center>
+<td>Laughs out loud</td><td>lol</td>
+</tr><tr align=center>
+<td>Reply</td><td>re</td>
+</tr><tr align=center>
+<td>Rewave</td><td>rewav</td>
+</tr><tr align=center>
+<td>Rolls on the floor, laughing</td><td>rofl</td>
+</tr><tr align=center>
+<td>Shakes his/her head</td><td>shh</td>
+</tr><tr align=center>
+<td>Shout</td><td>sh</td>
+</tr><tr align=center>
+<td>Smile</td><td>sm</td>
+</tr><tr align=center>
+<td>Throw</td><td>thr</td>
+</tr><tr align=center>
+<td>Venerate</td><td>ven</td>
+</tr><tr align=center>
+<td>Wave</td><td>wav</td>
+</tr><tr align=center>
+<td>Whisper</td><td>whi</td>
+</tr>
+<tr><td colspan=2><br><h2 align="center">Containers</h2></td></tr>
+<tr align=center>
+<td>Briefcase</td><td>brc, case</td>
+</tr><tr align=center>
+<td>Box</td><td>bx</td>
+</tr><tr align=center>
+<td>Box0</td><td>b0</td>
+</tr><tr align=center>
+<td>Haversack</td><td>hs</td>
+</tr><tr align=center>
+<td>Teachest</td><td>tc</td>
+</tr>
+<tr><td colspan=2><br><h2 align="center">Display Commands</h2></td></tr>
+<tr align=center>
+<td>Brief</td><td>br</td>
+</tr><tr align=center>
+<td>Communication brief</td><td>cb</td>
+</tr><tr align=center>
+<td>Communication verbose</td><td>cv</td>
+</tr><tr align=center>
+<td>Fight brief</td><td>fb</td>
+</tr><tr align=center>
+<td>Fight verbose</td><td>fv</td>
+</tr><tr align=center>
+<td>Identify</td><td>id</td>
+</tr><tr align=center>
+<td>Superbrief</td><td>sb</td>
+</tr><tr align=center>
+<td>Unbrief</td><td>unbr</td>
+</tr><tr align=center>
+<td>Unidentify</td><td>unid</td>
+</tr><tr align=center>
+<TD>Verbose</td><td>ve</td>
+</tr>
+<tr><td colspan=2><br><h2 align="center">Food</h2></td></tr>
+<tr align=center>
+<td>Cauliflower</td><td>cauli</td>
+</tr><tr align=center>
+<td>Carrot</td><td>root</td>
+</tr><tr align=center>
+<td>Carrot/Spinach/Cabbage/Cauliflower etc</td><td>veg</td>
+</tr><tr align=center>
+<td>Mandrake</td><td>root</td>
+</tr><tr align=center>
+<td>Mushroom</td><td>mush</td>
+</tr><tr align=center>
+<td>Wafer</td><td>wf</td>
+</tr><tr align=center>
+<td>Wafer0</td><td>w0, wf0</td>
+</tr>
+<tr><td colspan=2><br><h2 align="center">Miscellanous</h2></td></tr>
+<tr align=center>
+<td>Bundle of firewood</td><td>bof</td>
+</tr><tr align=center>
+<td>Grandfather clock</td><td>gfc</td>
+</tr><tr align=center>
+<td>Gunpowder</td><td>gp</td>
+</tr><tr align=center>
+<td>Hammock</td><td>hm</td>
+</tr><tr align=center>
+<td>Heavy chest</td><td>kist</td>
+</tr><tr align=center>
+<td>Key</td><td>k</td>
+</tr><tr align=center>
+<td>Jamjar</td><td>jj</td>
+</tr><tr align=center>
+<td>Paperflower0</td><td>pf0</td>
+</tr><tr align=center>
+<td>Pointer</td><td>ptr</td>
+</tr><tr align=center>
+<td>Player</td><td>pla</td>
+</tr><tr align=center>
+<td>Portcullis</td><td>pc</td>
+</tr><tr align=center>
+<td>Rogues Gallery</td><td>rg</td>
+</tr><tr align=center>
+<td>Toadstool</td><td>tst</td>
+</tr><tr align=center>
+<td>Winerack</td><td>wr</td>
+</tr><tr align=center>
+<td>Wolfsbane</td><td>bane</td>
+</tr>
+<tr><td colspan=2><br><h2 align="center">Miscellanous Actions</h2></td></tr>
+<tr align=center>
+<td>Close</td><td>cl</td>
+</tr><tr align=center>
+<td>Drink</td><td>dri</td>
+</tr><tr align=center>
+<td>Drop</td><td>dr</td>
+</tr><tr align=center>
+<td>Get</td><td>g</td>
+</tr><tr align=center>
+<td>Jump</td><td>j</td>
+</tr><tr align=center>
+<td>Kill</td><td>k</td>
+</tr><tr align=center>
+<td>Open</td><td>op</td>
+</tr>
+<tr><td colspan=2><br><h2 align="center">Mobiles</h2></td></tr>
+<tr align=center>
+<td>Alligator</td><td>gator</td>
+</tr><tr align=center>
+<td>Ape0</td><td>a0</td>
+</tr><tr align=center>
+<td>Baby dwarf</td><td>bd</td>
+</tr><tr align=center>
+<td>Basilisk</td><td>bas</td>
+</tr><tr align=center>
+<td>Billygoat</td><td>bg</td>
+</tr><tr align=center>
+<td>Boar</td><td>wb</td>
+</tr><tr align=center>
+<td>Butterfly</td><td>bf</td>
+</tr><tr align=center>
+<td>Crocodile</td><td>croc</td>
+</tr><tr align=center>
+<td>Dragonfly</td><td>df</td>
+</tr><tr align=center>
+<td>Dwarf</td><td>dw</td>
+</tr><tr align=center>
+<td>Exceptionally large goblin</td><td>elg</td>
+</tr><tr align=center>
+<td>Firefly</td><td>ff</td>
+</tr><tr align=center>
+<td>Griffin</td><td>grif</td>
+</tr><tr align=center>
+<td>Grizzly Bear</td><td>gb</td>
+</tr><tr align=center>
+<td>Goblin</td><td>g</td>
+</tr><tr align=center>
+<td>Hedgehog</td><td>hh</td>
+</tr><tr align=center>
+<td>Hunchback</td><td>hb</td>
+</tr><tr align=center>
+<td>Ichthyosaurus</td><td>ich</td>
+</tr><tr align=center>
+<td>Jellyfish</td><td>jf</td>
+</tr><tr align=center>
+<td>King dwarf</td><td>kd</td>
+</tr><tr align=center>
+<td>Mermaid</td><td>mm</td>
+</tr><tr align=center>
+<td>Mongoose</td><td>mg</td>
+</tr><tr align=center>
+<td>Piglet</td><td>pig</td>
+</tr><tr align=center>
+<TD>Pterodactyl</td><td>pt</td>
+</tr><tr align=center>
+<td>Queen dwarf</td><td>qd</td>
+</tr><tr align=center>
+<td>Rat</td><td>r</td>
+</tr><tr align=center>
+<td>Reindeer</td><td>rd</td>
+</tr><tr align=center>
+<td>Skeleton</td><td>sk</td>
+</tr><tr align=center>
+<td>Snow leopard</td><td>sl</td>
+</tr><tr align=center>
+<td>Snugglepuss</td><td>puss</td>
+</tr><tr align=center>
+<td>Stegosaurus</td><td>Steg</td>
+</tr><tr align=center>
+<td>Vampire</td><td>v</td>
+</tr><tr align=center>
+<td>Watersnake</td><td>ws</td>
+</tr><tr align=center>
+<td>Zombie</td><td>z</td>
+</tr>
+<tr><td colspan=2><br><h2 align="center">Spells</h2></td></tr>
+<tr align=center>
+<td>Deften</td><td>deft</td>
+</tr><tr align=center>
+<td>Ignite</td><td>ign</td>
+</tr><tr align=center>
+<td>Invisible</td><td>inv</td>
+</tr><tr align=center>
+<td>Refresh</td><td>rf</td>
+</tr><tr align=center>
+<td>Repair</td><td>rp</td>
+</tr><tr align=center>
+<td>Resite</td><td>rs</td>
+</tr><tr align=center>
+<TD>Snoop</td><td>sn</td>
+</tr><tr align=center>
+<td>Strengthen</td><td>str</td>
+</tr><tr align=center>
+<td>Supersite</td><td>ssite</td>
+</tr><tr align=center>
+<td>Uninvisible</td><td>vis</td>
+</tr><tr align=center>
+<td>Unsnoop</td><td>unsn</td>
+</tr><tr align=center>
+<td>Where</td><td>wh</td>
+</tr>
+<tr><td colspan=2><br><h2 align="center">Treasure</h2></td></tr>
+<tr align=center>
+<td>Barometer</td><td>barom</td>
+</tr><tr align=center>
+<td>Brass monkey</td><td>bm</td>
+</tr><tr align=center>
+<td>Carpet</td><td>rug</td>
+</tr><tr align=center>
+<td>Chrysanthemum</td><td>chrys</td>
+</tr><tr align=center>
+<td>Ciborium</td><td>cib</td>
+</tr><tr align=center>
+<td>Cloth-of-gold</td><td>cog</td>
+</tr><tr align=center>
+<td>Firestone</td><td>fs</td>
+</tr><tr align=center>
+<td>Gargoyle</td><td>gg</td>
+</tr><tr align=center>
+<td>Nightcap</td><td>nc</td>
+</tr><tr align=center>
+<td>Parachute</td><td>par, para</td>
+</tr><tr align=center>
+<td>Postcard</td><td>card</td>
+</tr><tr align=center>
+<td>Rhododendron</td><td>rhodo</td>
+</tr><tr align=center>
+<td>Sarcophagus</td><td>sarc</td>
+</tr><tr align=center>
+<td>Stethoscope</td><td>scope</td>
+</tr><tr align=center>
+<td>Umbrella</td><td>brolly</td>
+</tr><tr align=center>
+<td>Uranium</td><td>ura</td>
+</tr>
+<tr><td colspan=2><br><h2 align="center">Weapons</h2></td></tr>
+<tr align=center>
+<td>Axe</td><td>ax</td>
+</tr><tr align=center>
+<td>Billhook</td><td>bh</td>
+</tr><tr align=center>
+<td>Broadsword</td><td>bs</td>
+</tr><tr align=center>
+<td>Longsword</td><td>ls</td>
+</tr><tr align=center>
+<td>Pitchfork</td><td>pf</td>
+</tr><tr align=center>
+<td>Sceptre</td><td>sce</td>
+</tr><tr align=center>
+<td>Shortsword</td><td>ss</td>
+</tr><tr align=center>
+<td>Two-handed sword</td><td>ths</td>
+</tr><tr align=center>
+<td>Valetant</td><td>va, val, vl</td>
+</tr>
+</table>
+</div>
+<p><br clear=all><div align="right">... <a href="section.fod_CategoryId_2">click here</a> to return to the category list.<br>... or <a href="issue.fod_IssueId_7">click here</a> to go to the front page of this issue.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

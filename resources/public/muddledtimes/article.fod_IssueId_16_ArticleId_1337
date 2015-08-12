@@ -1,0 +1,60 @@
+<html>
+<head>
+<title>Muddled Times - Mortal Wish List</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<div align="center" style="padding-bottom: 15px;">
+</div>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 17, August 2002</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Articles</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Azrael</span>, <span class="missing">Hawumph</span> & <span class="missing">Turrican</span></b></td></tr>
+</table>
+<p>
+<h1>Mortal Wish List</h1>
+<p>So during a lull in play, the kind wizzes sat around and tried to think of a list of mortal wishes that could be presented to Richard for inclusion in the next release of MUD2. The result, ever so slightly modified (i.e. all the chuckling and a few references to certain players removed) follows.</p>
+<ol> 
+<li>A coracle containing 6 or more wafers carried by a player will begin to breed new wafers.
+<li>Same applies to dingy but 3 times the effect.
+<li>Players wishing to enter the game more than 10 seconds after the reset start will be docked 119 stamina.
+<li>Ring6, cape, amulet are now unstealable.
+<li>The icicle now weighs 25kg.
+<li>Should archmorts enter midset they are automatically given 300/300/300 stats (to disprove midset play is impossible).
+<li>A new kind of vial, the re-summon everything useful that's been destroyed vial.
+<li>Wafers inside a container of less than 10kg automaticaly transport themselves into foe's inventory.
+<li>Spamming qi and l in the tearoom increase stats by 1/1/1 per repetition.
+<li>The worse you are for sneaking the more likely you are to automatically succeed in a steal of teachest or coracle from a foe.
+<li>After each round you're asked if you want to uncripple.f.qq, no time passes while you reply.
+<li>Calling someone smelly does 10-15 damage mid-fight, and if you add the word poo you get a sleep from them as well.
+<li>Announcing your greatness is a self-fulfilling prophecy causing your stats to increase by 20-20-20.
+<li>Farts should be ignitable and may be used to harm anyone not carrying obsidian, or a clothes peg.
+<li>Players in the tearoom automatically announce arrival of midset warlocks.
+<li>As a result of 15, the maximum timeout value is now 3 days.
+<li>If you die to obvious interference, for example to dragon when a wiz is visible, calling them *CENSORED*, *CENSORED*'s, or anything starting with the letter F grants you an immediate restore to twice your previous level.
+<li>The usefulness of objects stashed in the diamond room will be compounded by the presence of other such stashed items.
+<li>If sufficient treasure is left in the safe room, it merges into one piece of super treasure worth 100 times original total values due to the gravitational effect.
+<li>New object, the anti-gravity dinghy (for getting 19 to swamp).
+<li>If you are a tearoom mage or any close derivative the pansy becomes undamageable and has twice the stats of the longsword for you.
+<li>If you are extremely naive eating the pansy only costs 1 point. But if you mention your points loss, you lose 2 points, then 4, then 8!
+<li>New object, the wizmortdetector0, unlimited charges of *CENSORED*.
+</ol><p><br clear=all><div align="right">... <a href="issue.fod_IssueId_16">click here</a> to return to the front page.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,89 @@
+<html>
+<head>
+<title>Muddled Times - Corwin's Questionnaire</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 23, August 2003</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Questionnaires</b></td></tr>
+<tr><td align=right>Author:</td><td><b>Corwin</b></td></tr>
+</table>
+<h1>Corwin's Questionnaire</h1>
+<form method="post" action="questionnaire.fod">
+<table border="0" cellpadding="8">
+<tr><td colspan="2"><p>I'm collecting your opinions on general MUD2 topics. Your answers will be collated for an article in the next Muddled Times.</p>
+<p>All replies are strictly anonymous.</p>
+</td></tr>
+<tr><td align="right" valign="top">1.</td>
+<td valign="top">Favorite weapon<br>
+<input type="text" name="q_1" size="60"></td></tr>
+<tr><td align="right" valign="top">2.</td>
+<td valign="top">Favorite mobile<br>
+<input type="text" name="q_2" size="60"></td></tr>
+<tr><td align="right" valign="top">3.</td>
+<td valign="top">Favorite room<br>
+<input type="text" name="q_3" size="60"></td></tr>
+<tr><td align="right" valign="top">4.</td>
+<td valign="top">Highest level achieved<br>
+<input type="text" name="q_4" size="60"></td></tr>
+<tr><td align="right" valign="top">5.</td>
+<td valign="top">Nicest wiz<br>
+<input type="text" name="q_5" size="60"></td></tr>
+<tr><td align="right" valign="top">6.</td>
+<td valign="top">Meanest wiz<br>
+<input type="text" name="q_6" size="60"></td></tr>
+<tr><td align="right" valign="top">7.</td>
+<td valign="top">Most likely to wiz next<br>
+<input type="text" name="q_7" size="60"></td></tr>
+<tr><td align="right" valign="top">8.</td>
+<td valign="top">Least likely to wiz next<br>
+<input type="text" name="q_8" size="60"></td></tr>
+<tr><td align="right" valign="top">9.</td>
+<td valign="top">Craziest mortal<br>
+<input type="text" name="q_9" size="60"></td></tr>
+<tr><td align="right" valign="top">10.</td>
+<td valign="top">Player that is the most opportunistic lowlife scum<br>
+<input type="text" name="q_10" size="60"></td></tr>
+<tr><td align="right" valign="top">11.</td>
+<td valign="top">Scariest killer<br>
+<input type="text" name="q_11" size="60"></td></tr>
+<tr><td align="right" valign="top">12.</td>
+<td valign="top">Player that most defines the word plodder<br>
+<input type="text" name="q_12" size="60"></td></tr>
+<tr><td align="right" valign="top">13.</td>
+<td valign="top">Most infamous tea room mage<br>
+<input type="text" name="q_13" size="60"></td></tr>
+<tr><td align="right" valign="top">14.</td>
+<td valign="top">Biggest jerk &lt;mortal or wiz&gt;<br>
+<input type="text" name="q_14" size="60"></td></tr>
+<tr><td colspan="2"><p>P.S. Does not have to be a current player if you wish to answer with someone from Wireplay or somesuch.</p>
+</td></tr>
+<tr>
+<td></td>
+<td><input type="submit" name="submit" value="Send">
+<input type="hidden" name="ArticleId" value="1449">
+<input type="hidden" name="IssueId" value="22">
+<input type="hidden" name="acount" value="1">
+</table>
+</form>
+<div align="right">... <a href="issue.fod_IssueId_22">click here</a> to return to the front page.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

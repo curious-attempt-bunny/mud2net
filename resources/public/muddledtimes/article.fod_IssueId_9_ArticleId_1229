@@ -1,0 +1,54 @@
+<html>
+<head>
+<title>Muddled Times - Newbie Central I - The River</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<div align="center" style="padding-bottom: 15px;">
+</div>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 12, October 2001</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Game Information</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Lexley</span></b></td></tr>
+</table>
+<p>
+<h2>The River</h2>
+<p>
+The river flows south from up near the the northeast corner of The Land, passing between
+the pagoda and the deer park in a torrent so fast that you can only cross it
+in two places (the southernmost of which is the <font color="#00ee00">ford
+in river</font>). It continues south from there a little way, then forks.
+The left branch carries on as before, past a small island (don't even <i>think</i>
+of visiting it), while the right sweeps round to run west/east. This second
+branch is not so fast-flowing and you can cross it if the weather is good. It
+disappears under the south mountain, to emerge at the other side as some
+rapids. Thereafter, it flows leisurely to the cliff, where it tumbles off as
+a waterfall and meets the sea. MUD2's physics is good enough that
+if you drop something in the river, it floats off and ends up somewhere
+else (if the very act of getting it wet doesn't destroy it).
+<p>
+There are a few creatures which inhabit the river, but they're very easy
+to kill. Even a fresh-from-the-tearoom first-time player can kill the
+dragonfly, for example.
+<p>
+<a href="article.fod_IssueId_9_ArticleId_1199"><i>Back to the Map</i></a>.
+<p><br clear=all><div align="right">... <a href="issue.fod_IssueId_9">click here</a> to return to the front page.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

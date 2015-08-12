@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>Muddled Times - Non-Player Character</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<div align="center" style="padding-bottom: 15px;">
+</div>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 17, August 2002</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Articles</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Theman</span></b></td></tr>
+</table>
+<p>
+<h1>Non-Player Character</h1>
+<p>MUD, as all but the newest of players will be able to inform you is an acronym for Multi-User Dungeon. Now for those educated and well versed in the world of adventure will know that the word dungeon carries two distinct meanings within the gaming world. By far the most popular kind of dungeon is the one found in the world of Britannia (Ultima) and other such RPGs. But then there is the game Dungeon, which so famously took us through the twisty passages of a land heralded as "The Great Underground Empire".</p> 
+<p>But surely, I hear you cry (Come on, someone? Anyone?) that was also the plot of Zork. Dungeon was an attempt by programmers at MIT to make their own version of Adventure, seeing how successful their game was they went on to found Infocom and create the Zork trilogy. You have to wonder that if the original implementers had used the later name, Zork, would we be playing MUZs? It could be said that the creation of Dungeon and Adventure was to bring forth the whole wealth of Interactive Fiction on the world.</p>
+<p>Now the aim of Zork, for those who have never stepped within its hallowed but deserted corridors, was to collect the treasures within this huge cave complex below and place them within the trophy cabinet within the house, on the surface. The more treasures inside the cabinet the more points the player will gain and the more points the player has the higher his rank will be. Much like MUD then, although the ranks are called levels and there is a fair few more than 350 points available to the player. In fact there are some oddities with the background of the two games that are most probably unrelated. Dungeon was itself programmed in a language called MUDDLE (MDL), which was a lisp-like language popular at the time. However the language used for the adventures was changed to ZIL, although even ZIL was written in MUDDLE (ZIL was a definition language ... if you don't know what a definition language is then you probably don't need to). When looked in detail the similarities and influences of Zork appear great in MUD, but are probably best left for a different article.</p> 
+<p>Now since Zork thousands of single-user games have sprung up over time and like most genres it has evolved and improved. If you play Zork now and compare it to games of this modern era the first thing you will notice is the distinct lack of NPCs that actually do anything but kill you. The most complicated other character appears to be the thief who steals your items and which are placed in his lair. Later games involved character which you could talk to, explain things to and show items to and get useful comment. This kind of interaction is probably most cleverly demonstrated in games like the Magnetic Scrolls classic 'Corruption'. The NPCs are so devious in this game that they essentially live a world out in the background away from you. Although experienced programmers will tell you that the characters are heavily scripted and know far more about the game world than they could possibly know from their simple observations. They are right, of course, but it doesn't take away from the fact that the game feels real.</p>
+<p>What am I trying to say here? Mobiles should talk and interact more? No, the points I am trying to demonstrate show how the system works within a single-player environment and it does work well. But talking and interacting mobiles in a multi-user environment seems a very bad idea to me. Single-User games have a shelf life of a couple of months at the maximum and you are expected to use such NPCs as tools to move on through the game. However in MUD you are playing the game for, perhaps, considerably longer and by that time you surely will have run out of conversation topics for the mobiles. Talking mobiles is something that, if implemented at all, would need to be done at the start when significant puzzles and interaction could be built up; it is not something that can be plonked on top of an existing game environment. It may work if the mobiles were fully articulate and had a rather large dictionary to hand but I doubt Richard is prepared to write an entire conversation interface for what would be a little used feature (although it did work splendidly in Douglas Adam's Starship Titanic).</p> 
+<p>What about the odd phrase here and there? Well sure it would seem to be good if the ogre shouted "Death to the mortals" once…but what about every set? No, I'd rather leave the mobile banter to the wizzes thank you…(actually I could do without the mobile banter all together).</p>
+<p><br clear=all><div align="right">... <a href="issue.fod_IssueId_16">click here</a> to return to the front page.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,86 @@
+<html>
+<head>
+<title>Muddled Times - MUD3 - Richard's Response</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<div align="center" style="padding-bottom: 15px;">
+</div>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 16, June 2002</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Articles</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Richard</span></b></td></tr>
+</table>
+<p>
+<h1>MUD3 - Richard's Response</h1>
+<h2>In issue 15 of Muddled Times, <a href="article.fod_IssueId_14_ArticleId_1294">Jericho</a> outlined how a MUD3 could
+conquer the world. This is my response.</h2>
+<p>I tried it last year.</p>
+<p>To write a graphical MUD requires money. To get from the point at which a company is founded to the point at which it goes live (to paying customers) you need about �,000,000. You don't need it all at once, but you do need to know you'll get it. The way it works is that you set up your company using seed capital, and develop enough of a product to persuade first-round investors to drip-feed you money at regular intervals until you have something that looks like a good investment. Assuming all goes to plan, you then approach second-round investors (whom you've lined up already) and tap them for the rest of the money that you need. Then you finish your product and go to launch.</p>
+<p>Now I did manage to get about �000,000 promised from first-round investors. However, not unreasonably they weren't going to give me the seed capital unless I could persuade other people to come in on the project too. This proved to be quite difficult. The reason is, investors want an "exit strategy" which allows them to recoup their initial investment (and then some) after at most 5 years. This is problematical for two reasons: there's no guarantee that they'll be able to turn their interest in the company into cash (it means either a stock market listing or a buy-out by a larger investor); the break-even point isn't until 6 years after company launch.</p>
+<p>In other words, to get the money I'd need to lie.</p>
+<p>Money isn't the least of the problems, though. To develop a MUD3 would mean setting up a company with the following individuals in place:</p>
+<ul>
+<li>Chairman</li>
+<li>Managing Director</li>
+<li>Finance Director</li>
+<li>Creative Director</li>
+<li>Technical Director</li>
+<li>Producer</li>
+</ul>
+<p>Getting these people is non-trivial. Good folk are hard to find, and when you've found them are hard to persuade they should leave their current job and work in Colchester (or, more likely, London). I wouldn't even know where to start looking for a Finance Director, for example - it's not like the computer games jobs agencies have them on file.</p>
+<p>As it happens, some of the positions were filled by default when Gameplay collapsed. I asked one person if he was interested, and although he wasn't he asked another in such a way that this second person thought I was inviting him in, and then a third arrived the same way. I'm not a businessman, though, and neither do I know any, so initially I was grateful for what I thought at the time was a slice of good luck.</p>
+<p>Let's take a closer look at the above-listed roles.</p>
+<p>The Chairman is some well-respected industry name who will, for 15% of the company, keep it on track and interface with other companies. I had someone lined up to be the chairman who was thoroughly excellent and whom I'd ask again like a shot if I ever tried this again. Sadly, he's signed up with someone else now so I can't.</p>
+<p>The Managing Director is the person who runs the company day to day. The role can be combined with another role, eg. Finance Director. I had an MD who would also have been the producer, but he was working for another company of his own doing Gameboy Advance software and it suddenly took off. He couldn't do any of the MD-like things he was supposed to be doing, although he was reluctant to give up the position so someone else could do it. In the end, I had to do it myself while saying all the while that he was in charge. This made the other companies we were trying to partner with more than a little suspicious.</p>
+<p>The Finance Director is the person who raises the money. This can be a part-time job for the first few years. I had a Finance Director, but he didn't actually DO a great deal. We were waiting for weeks for the financials, and when they arrived they were in vast, recycled Gameplay spreadsheets that had been sewn together and contained alarmingly trivial errors. For example, the most important information potential backers need to know is how much it is going to cost them. Our headline figures had amounts in dollars added to amounts in pounds, which made us look absolute amateurs. There were other areas where a more committed Finance Director might have been useful, too. Contacts given to our guy by the initial backers so he could find more backers went uncontacted. It took me a while to discover all this, by which time it was too late to do much about
+it. I'd want serious assurances from this person that he was going to do what he said he'd do before I ever considered going into business with him again.</p>
+<p>The Creative Director is in charge of design. That would be me, then. As I mentioned earlier, I also ended up doing MD stuff like running the company newsletter, buying domain names, printing the business plan and so on. I am utterly hopeless at this. I did do a design, though (set in the world of "Arabian Nights" - pretty inspired, at least before September 11th came along).</p>
+<p>The Technical Director is in charge of the hardware, the networking, the support, the maintenance - things that actually matter. The one I found was top-notch and I'd ask him to play a leading role if I ever got a second chance to do this project. He'd make a great MD, too. He's running his own company now, however, so it seems unlikely I could get him on board again.</p>
+<p>The Producer is the project manager, who makes sure the work gets done. As I said, our producer was going to double up as MD but got distracted. I'd go for a different producer next time unless the original one could actually do some pre-launch work (and didn't insist we based the company in Oxford). Strictly speaking, each product needs its own Producer, so this position should really be Development Director. We only had the one product planned initially, though.</p>
+<p>I also arranged for a Programming Director, in charge of the coding. Normally, this would fall under the auspices of the Technical and Development Directors, however the person I had in mind was someone rather special whom I was very keen be involved. He was all too happy to agree. It was even better as I was told that his presence would be very attractive to potential investors, but as the Finance Director didn't ever get in touch with any we never found out whether that was indeed the case or not.</p>
+<p>In addition to the above personnel, a start-up company also needs:</p>
+<ul>
+<li>Art Lead</li>
+<li>Server Programming Lead</li>
+<li>Client Programming Lead</li>
+</ul>
+<p>These, you can get from jobs agencies.</p>
+<p>About a year prior to launch, some more directors are required, too:</p>
+<ul>
+<li>Customer Service Director</li>
+<li>Marketing Director</li>
+</ul>
+<p>These, you can't.</p>
+<p>Once all the necessary people are nominally signed up, you can begin work on the business plan. This is a document that explains what the company is about, how it will make money, who the directors are (and their great track records), and how much money is needed. And about 40 other things you have to fit in 20 pages. Most of this work was done by ex-Gameplay employees who would have formed the core of the new company but not have been directors; it far exceeded in quality anything written by anyone else for the business plan, although it's a little out of date now.</p>
+<p>So what happened that caused it all to fail?</p>
+<p>Nothing.</p>
+<p>Nothing happened, when things should have been happening.</p>
+<p>For 6 months, things did happen. Then, nothing happened. I wrote emails, got promises and assurances, but no-one actually did anything. Eventually, one of the backers said that actually he could think of better things to do with his money than just sit around with it in the bank, and asked to be released from his committment. It signalled the end, and we all went our separate ways.</p>
+<p>Mind you, I sold the domain name immersivestudios.com last week for more than I paid for it, so it wasn't all bad.</p>
+<p>In his article, Jericho said: "The hard part is finding the backing for such a venture. If it's been tried already, try harder." Finding the backing is just one hard part; finding the people is the other.</p>
+<p>Different people have different skills. Mine are creative, not financial. I'm about as likely to get a venture capitalist to give me money as a financier is to design a virtual world. If any of you lot have an MBA and would like to give it a shot, get in touch; I'm willing to try again. If you know someone whose experience in computer games production will look good in the business plan and you can get them to come aboard, so much the better.</p>
+<p>Jericho also suggested, "Take it to those large gaming companies who aren't running an online game, show them the money that can be made and the success that can be enjoyed.". This was an option I considered, but when I spoke with the owner of such a company I was informed that they already knew there was money to be made. Their plan was to let venture capitalists fund start-ups, wait two or three years for them to get established, then buy a failing one at a knock-down price. It's so much less of a risk, and you know what you're getting.</p>
+<p>Most publishers don't know who I am anyway. They're not even going to answer my emails, let alone be impressed by my vast knowledge of virtual world design... If they were going to splash out �,000,000 on a new game, why not give it to a proven computer game company rather than someone who's spent 20 years on a game that fewer than 500 people play?</p>
+<p>To conclude, it's all well and good to sit and think about developing a world-beating product, but the practice is somewhat different.</p>
+<p>This is the real world, not a virtual one.</p>
+<p><br clear=all><div align="right">... <a href="issue.fod_IssueId_15">click here</a> to return to the front page.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

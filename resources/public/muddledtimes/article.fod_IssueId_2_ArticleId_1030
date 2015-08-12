@@ -1,0 +1,165 @@
+<html>
+<head>
+<title>Muddled Times - A Beginners Guide to MUD2 (Part 2)</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<div align="center" style="padding-bottom: 15px;">
+</div>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 5, August 2000</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Game Information</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Karya</span></b></td></tr>
+</table>
+<p>
+<h1>A Beginners Guide to MUD2 (Part 2)</h1>
+<h2>A Recap.</h2>
+<p>
+In Part 1 you learnt how to get started in MUD2. Useful commands about the game itself that were mentioned were :
+<p>
+<table cellspacing=5>
+<tr>
+ <td valign=top><ul><li>INFO</ul></td>
+ <td valign=top>this gives an overview of MUD.</td>
+</tr>
+<tr>
+ <td valign=top><ul><li>HELP FAQ</ul></td>
+ <td valign=top>these are a list of help files.</td>
+</tr>
+<tr>
+ <td valign=top><ul><li>TOURS</ul></td>
+ <td valign=top>these are mini tours around various areas of the game (type TOUR whilst in the tearoom).</td>
+</tr>
+</table>
+<p>
+Other useful commands :
+<p>
+<table cellspacing=5>
+<tr>
+ <td valign=top><ul><li>SAY</ul></td>
+ <td>typing SAY HI, would say "HI" to everyone in the same room as you.</ul></td>
+</tr>
+<tr>
+ <td valign=top><ul><li>TELL</ul></td>
+ <td>typing TELL &lt;persona name&gt; CAN YOU HELP ME?, would send the message directly to that persona, unless they were magically deaf.</ul></td>
+</tr>
+<tr>
+ <td valign=top><ul><li>SHOUT</ul></td>
+ <td>typing SHOUT HELLO EVERYONE! , would send your message to everyone in the game who can hear.</ul></td>
+</tr>
+<tr>
+ <td valign=top><ul><li>WISH</ul></td>
+ <td>typing WISH I’M NEW, CAN A WIZ HELP ME PLEASE?, would send your message to any wizzes (witches or wizards, the highest level in the game bar arch-wizzes) who may be about.</ul></td>
+</tr>
+<tr>
+ <td valign=top><ul><li>WHO</ul></td>
+ <td>(or QW for short) will give you a list of people, visible to you, in the game. Their persona names are followed by their level.</ul></td>
+</tr>
+<tr>
+ <td valign=top><ul><li>LEVELS</ul></td>
+ <td>gives you a list of all the levels within MUD2. The lowest being novice and highest being witch/wizard (or wiz). There are different levels for those who successfully obtain magical powers (by surviving the ancient powers of the Touchstone) and for Protected Personae (those who are immune to attacks by fellow players because they have VOWed whilst in the tearoom), although Protected Personae (PP’s for short) cannot reach the level of wiz.</ul></td>
+</tr>
+</table>
+<h2>Leaving the Tea Room.</h2>
+<p>
+To actually progress through the game, you’ll need to leave the safety of the Tea Room, no matter how cosy and inviting it seems! To do this, type NORTH (N for short) or click on North on the compass directions using your mouse. You will find yourself on a road that runs west to east roughly through the centre of the Land. Roughly west of this road is a cottage, and at the east is an Inn. Typing SWAMPWARD (ZW for short) from almost anywhere in the Land will take you to a place known as the Treacherous Swamp, and typing OUT (O for short) will take you to the Ford in the River.
+<p>
+<h2>How to advance in levels.</h2>
+<p>
+The overall aim when playing MUD2, is to reach the level of witch or wizard, and to do this you need to score 204 800 points and complete 7 tasks. There are three main ways of scoring points :
+<p>
+<ul>
+<li>Dropping treasure into the swamp.
+<li>Killing mobiles or other players.
+<li>Solving puzzles and tasks.
+</ul>
+<p>
+<h2>Treasure.</h2>
+<p>
+Scattered around the Land are objects known as trinkets and treasure. Trinkets are easily found pieces of treasure that are only worth points to low level personae. Treasure is spread all across the Land and generally, the more valuable it is, the harder it is to obtain. The easiest places to go to for treasure when you are new are the Cottage, the Inn and the Italian villa known as "Il Castellaire" which is at the top of the driveway leading from the Ford in the River.
+<p>
+Depending on what client you are using to connect to MUD2, treasure will usually be displayed in <font color="#00FFFF">cyan</font>. Typing LOOK in a room, will give you that room’s description and also the description of whatever objects are in it. For example :
+<P>
+<table bgcolor="black" cellpadding=10>
+<tr><td>
+<pre><font color="#00FF66">Kitchen.</font>
+<font color="#009900">Around you is all the usual paraphernalia that can found in a kitchen,
+although it is firmly fixed down so you can't take any of it away. The pantry
+is to the northwest, and a doorway to the hall is to the north. East is a
+small serving hatch through which you can see, if not move to, the dining
+room.</font><font color="#00FFFF">You notice a formidable rolling-pin close by</font><font color="#009900">.</font></pre>
+</td></tr>
+</table>
+<p>
+In this room the treasure is the rolling-pin, or pin for short. Typing VALUE (or VAL for short) PIN will tell you how many points you would get for dropping it in the swamp. Typing GET PIN, or alternatively GT (an abbreviation for GET TREASURE) will enable you to pick up the treasure so you can take it to the swamp (by typing ZW lots of times), then by typing DROP PIN or DR T whilst at the swamp, you will get the points for the treasure.
+<p>
+"Swamping treasure" as it’s known, is often the source of most players’ points.
+<h2>Killing.</h2>
+<p>
+Killing mobiles or other players is another way of making points. Mobiles are the "monsters" of the Land, but not all of them are monsters in the traditional sense of the word. There is a thief about who will quite inconsiderately steal any treasure that you are carrying if he gets the chance, and will happily swamp it for himself! There is a rather annoying parrot, a very cute snugglepuss as well as mobiles such as goblins, dwarfs, giants and an incredibly scary dragon! Mobiles will usually appear as <font color="#990099">dark magenta</font> on your screen, e.g. :
+<p>
+<table bgcolor="black" cellpadding=10>
+<tr><td>
+<pre><font color="#00FF66">Nanny's room.</font>
+<font color="#009900">You are in a room at the top of a tall tower. Windows on all four walls afford
+breathtaking views over a hillside. The room appears to have been occupied by
+a nanny. Everything is in immaculate order, but a trifle stern-looking, as if
+naughty boys and girls who don't eat their greens might still have their
+bottoms soundly smacked here. The staircase downwards looks extremely
+hazardous. </font><font color="#990099">Curled up here is an idle snugglepuss</font><font color="#009900">.</font></pre>
+</td></tr>
+</table>
+<p>
+You can engage in a fight with a mobile in order to kill it and thus earn some points. But be warned : depending on your level, many mobiles are liable to kill you! A combination of the description of the mobile (type L/LOOK &lt;mobile&gt;) and its value (VAL &lt;mobile&gt;) will give you a clue as to how hard it will be to kill. Typing KILL (or K) &lt;mobile&gt; will start a fight.
+<P>
+If you do find yourself in a fight that you are loosing, typing FLEE (or F for short) will get you out of the fight, but you are strongly recommended to leave that location as fast as possible before the mobile (or player) attacks you again!
+<p>
+Many players opt to kill other players to score points. You can value players the same way as you do mobiles (VAL &lt;persona name&gt;) and start fights and flee the same way. However, to fight other players successfully and with any real points reward it takes a lot more skill than killing mobiles. And you also have to be prepared to face the potential consequences of attacking your fellow players!
+<p>
+If you are totally against players fighting each other, you can still play the game without participating in this. Protected personae (PP) are immune to attacks and steals from fellow players. To play as a PP you need to type VOW in the tearoom. Typing DEFN PP whilst in the game, will give you more information about playing as a protected persona, but briefly, you cannot make wiz as a PP, and if you want to unvow at any time, you will lose two thirds of your points.
+<p>
+Playing as a PP does not protect you from mobile attacks though, and whether you chose to play as a PP or non-PP one thing you WILL experience is a lot of death. It cannot be avoided, and can be very frustrating, even demoralising a times. But it is a large and important part of learning how to play the game. Few single experiences in MUD2 will teach a player new skills quicker than dieing.
+<p>
+<h2>Puzzles and Tasks.</h2>
+<p>
+There are numerous puzzles within the game, both small and large. These can involve a points reward when you complete them, on top of the points you get for killing any mobiles and picking up treasure on the way.
+<p>
+There are also temporary puzzles or quests as they are known as, held occasionally by wizzes. These are areas that wizzes have designed and created that run within the game for your enjoyment (and often at your peril!). The rewards of completing these quests can be great.
+<p>
+The tasks required to make wiz, are made up of eight puzzles within the game. Of these, only seven are actually required before the top level can be reached. A book hidden within the Land called the Grimoire will tell you more about these tasks.
+<p>
+<h2>Mapping.</h2>
+<p>
+You know now (in theory at least!) how to go about getting points and therefore how to go up levels. But another skill you will need before this can happen is to learn your way about the Land. The Land of MUD2 is a huge and complex place. There are undergroud rivers, a huge snow-covered mountain, a dwarfen citadel, a half-sunken ship and an island, home to the fabled dragon! It is very easy to get lost in such a huge Land, and very easy to misplace that amazing weapon you found, the last time you played! There is a map giving a very rough outline of the Land to be found in the study of the cottage, but the best way to get to know the Land is to make your own maps, whether they are mental maps or maps drawn out on paper. There are also a number of mazes where a pencil and paper will come in very handy indeed!
+<p>
+Another point to note is that the game generally resets itself every 105 minutes. This is where the game stops, your score is saved, and then the game restarts. You will find yourself back at the option prompt so you will need to re-enter the game (typing P for PLAY) then your persona name. You will find yourself back in the tearoom again, and all the treasure, mobiles and puzzles will have reset for you to attempt it all again!
+<p>
+So, now you know how to get points, all you need to do is to get out and explore! Learn the layout of the Land, learn where the treasure is, where the mobiles are (both the ones to avoid until you are a little stronger, and the ones you can cope with). On your travels you will come across useful objects such as weapons, remember where you found these so you can go back there again. Use INVENTORY (I) to check what you are carrying and SCORE (SC or QS) to keep an eye on your stamina. Don’t forget to SLEEP if your stamina gets low, but choose carefully where you sleep. Typing AUTO EXITS and AUTO MAP (and KEY) may help you to get your bearings around the Land. Type UNAUTO EXITS and UNAUTO MAP to cancel these. Typing HELP will give you a list of other useful commands.
+<p>
+Talk to other players, you will often find that they give you guidance if you get lost, and you may learn from their experiences. Over and above that, it’s much more fun to explore the Land with other players.
+<p>
+But most importantly, have fun!
+<p>
+And don’t forget ...
+<p>
+<b><div align=center>YOU HAVEN’T LIVED UNTIL YOU’VE DIED IN MUD2!!</div></b>
+<p><br clear=all><div align="right">... <a href="issue.fod_IssueId_2">click here</a> to return to the front page.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

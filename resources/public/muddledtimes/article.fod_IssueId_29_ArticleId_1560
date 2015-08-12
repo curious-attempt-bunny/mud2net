@@ -1,0 +1,172 @@
+<html>
+<head>
+<title>Muddled Times - Easter Egg Hunt</title>
+<link REL="stylesheet" TYPE="text/css" HREF="v2-muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td rowspan="2" valign="top" width="10"></td>
+<td valign="top" width="150">
+<td align=center><a href="index.html"><img border=0
+src="images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td valign="top">
+<div id="menu">
+<ul>
+<li class="header">
+<li><h2><a href="issue.fod_IssueId_29">Issue 30<br>June 2005</a></h2>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_29_CategoryId_3">Editorial</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1569">Issue 30 Editorial</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_29_CategoryId_6">News & Gossip</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1562">Land Design Competition - The Scores</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_29_CategoryId_8">Articles</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1557">The Land Design Competition - Results</a>
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1566">When is a witch not a witch?</a>
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1559">Witch!</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_29_CategoryId_2">Game Information</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1563">Explore This!</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_29_CategoryId_7">Fiction</a>
+ <ul class="h">
+ <li class="header">
+ <li><span class="missing">My Favourite Things</span>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_29_CategoryId_5">Quizzes</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1568">Persona Pictures - II</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><span class="missing">Interviews</span>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1567">An Interview with Brisa</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_29_CategoryId_14">Charts</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1564">Top 100, Dead or Alive - March-May 2005</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_29_CategoryId_11" id="selcat">Events</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1560" id="selart">Easter Egg Hunt</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><span class="missing">Questionnaires</span>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="questionnaire.fod_IssueId_29_ArticleId_1565">Muddled Times Questionnaire</a>
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1561">Gender Questionnaire - Part 3</a>
+ <li class="footer">
+ </ul>
+ <li class="folder"><a class="submenu" href="category.fod_IssueId_29_CategoryId_1">Letters</a>
+ <ul class="h">
+ <li class="header">
+ <li><a
+href="article.fod_IssueId_29_ArticleId_1570">Seperated at Birth?</a>
+ <li class="footer">
+ </ul>
+<li><span class="missing">Feedback Form</span>
+<li class="footer">
+</ul>
+<br>
+</div>
+<div align="center" style="margin: 5px;">
+</div>
+</td>
+<td valign="top">
+ <table width=100% cellpadding=10>
+ <tr><td>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 30, June 2005</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Events</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Vordai</span></b></td></tr>
+</table>
+<p>
+<h1>Easter Egg Hunt</h1>
+<p>
+What does Easter mean to you? Fluffy bunnies and cheeping chicks? Chocolate? Religion? Chocolate? Painting eggs? Erm ... chocolate? Well, I'll tell you what it means to the wizzes and witches of The Land - it means the chance to create 7ft rabbits that will rend your living flesh if you even think about laying one sticky finger on their chocolate eggs!
+<p>
+Yes, on Easter Sunday, it was the Easter Egg Hunt. Hundreds of small bunnies were scattered across The Land by an immortal's hand, each carrying a scrumptious small Easter egg. A lovely addition to the reset you might think, as did we all. Until, that is, we stumbled upon their big brothers ... 10 in all, they were guarding their own medium chocolate Easter eggs and they weren't for letting them go. No way, no how. Then to brighten our lives even further, we found the overgrown bunnies. If the large bunnies were the stars of 'When bunnies go bad ...', then these psychotic buggers, well, anyone seen 'Donnie Darko'?
+<p>
+So, the players in the chocolate fest were Gilgamesh, Gustav, Malteser, Brisa, Gabriel, Psycrow, Sandman, Laura, Ghostrider and Monsoon. Mortimer and Apeomancer joined us later.
+<p>
+Off we skipped, happily picking carrots to tempt the little fluffy darlings ... or was that just me? <Blush> Some thoughtful wiz had dotted large Easter baskets around The Land. (No bonnets though - slightly disappointing as Gilgamesh would've looked particularly fetching in a yellow number as he zipped around ...)
+<p>
+The eggs were worth points if eaten or swamped, but could be saved up until the end of the reset for playing time (medium and large eggs) or, in the case of small eggs, a chocogram. Chocolate delivered to your door, an idea obviously targeting agoraphobic women with severe PMT ... But I digress ...
+<p>
+As the reset wore on, the initial flurry of rabbit culling tapered off, as the players had to start actually looking for them, after practically tripping over them in every third room at the beginning. Karya finally decided that, with the final few bunnies on the loose, our ineptness warranted some clues ... which led to the entire playing population racing to the same locations all at once ... ;-)
+<p>
+Sandman realised a little late that rabbits are very rarely striped in orange and black, nor do they have very long tails. Unfortunately, this revelation occurred at about the same time as the tiger killed him :-(
+<p>
+One of the last remaining rabbits was being used as a weapon by one of the apes, so Malteser waded in typing 'k ape f wp' ... (yes, ALL the apes were there at the time ... DOH!) Brisa was in the vicinity, and after seeing Malteser beset by hairy mobiles ... yup, did the same thing. Malteser popped her clogs, while Brisa fled on 1 stamina. Never being one to learn a lesson, Brisa went back to the apes ... and quickly died. Ah well, they eventually got their bunny (and kit).
+<p>
+And then there was one.
+<p>
+Whoever got that last bunny, congratulations! It was hiding in the gobbo realm in a very sneaky place (tsk).
+<p>
+So, the final tally was as follows:
+<p>
+<ul>
+<li><b>Malteser</b> - 25 small eggs and 1 medium egg
+<li><b>Gilgamesh</b> - 19 small eggs, 3 medium eggs and 1 large egg
+<li><b>Gustav</b> - 12 small eggs and 2 medium eggs
+<li><b>Psycrow</b> - 5 small eggs, 3 medium eggs and 2 large eggs (Psy would've got 
+another large egg, but had to flee, leaving Malteser to finish the job)
+<li><b>Gabriel</b> - 9 small eggs
+<li><b>Laura</b> - 2 small eggs and 1 medium egg
+<li><b>Brisa</b> - 1 large egg
+</ul>
+<p>
+(Malteser and Brisa collaborated - Brisa being a slimming world fugitive didn't want a chocogram and Malteser did, so some judicious swapping occurred ...)
+<p>
+All other eggs were scoffed with gusto.
+<p>
+All in all, it was a damn good reset. Enjoyable and fun.
+<p>
+So, thanks to Karya and Turrican for organising our egg hunt :) Lets have another one, next time ... maybe J-Lo would like to come ? ;-)
+<p><br clear=all><div align="center"><span class="missing">Mail the author</span><br><br></div><div align="right">... <a href="issue.fod_IssueId_29">click here</a> to return to the front page.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

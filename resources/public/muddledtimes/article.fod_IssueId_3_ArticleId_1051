@@ -1,0 +1,153 @@
+<html>
+<head>
+<title>Muddled Times - A Beginners Guide to MUD2 (Part 3)</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<div align="center" style="padding-bottom: 15px;">
+</div>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 6, October 2000</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Game Information</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Karya</span></b></td></tr>
+</table>
+<p>
+<h1>A Beginners Guide to MUD2 (Part 3)</h1>
+<p>
+<h2>A Recap.</h2>
+<p>
+In Parts 1 and 2 you learnt how to get started in MUD2 by communicating with other players, how to make points (treasure, killing and puzzles) and the use of various commands (see <a href="article.fod_IssueId_1_ArticleId_1005">Part 1</a> and <a href="article.fod_IssueId_2_ArticleId_1030">Part 2</a>).
+<p>
+<h2>Houses.</h2>
+<p>
+By now you will have probably reached, or are nearing the level of warrior (type LEVELS to see a list of all the levels in MUD2, also typing LEVEL will tell you how many points you need to reach the next level). Upon reaching warrior you will see the following message:
+<p>
+<pre>You have changed experience level from yeo(wo)man to warrior.
+You can now use the JOIN &lt;hse&gt; command to join a house. The HOUSES
+command lists all non-secret houses."</pre>
+<p>
+By typing HOUSEHELP you will see a brief description of houses and the commands associated with them, but basically a house is a group of players, a clan or guild if you like, with a leader and captains (depending on the size of the house) who can communicate with each other using a dedicated house channel. Each house has its own ethos, for example there are houses for newbies, killers, for people who purely wish to socialise and so on. Many houses even have websites created by the leader associated with them. For current house websites see the <a href="links.fod">links section</a>.
+<p>
+<h2>Protection.</h2>
+<p>
+By now you will need some form of protection against the dangers of The Land. Finding a safe sleeping place is very important. At this stage somewhere that offers you protection from the elements and bloodthirsty mobiles is your priority. No matter how convenient the Badly-Paved Road may be when you find yourself desperately low on stamina, do not sleep here or anywhere similar! This location will not protect you from the rain or any roaming mobiles.
+<p>
+Bedrooms or other sleeping type rooms (e.g. dormitories) are a good place for newbies to sleep. They offer protection from the rain and most mobiles, and you also don't get woken up by people shouting whilst you're asleep in such a room (you may also miss people talking to you!). There are many bedrooms and bedroom type rooms to be found across the Land, there is at least one type of sleeping room in every building (excluding small buildings such as the Woodsman's Hut and the Chinese House).
+<p>
+Once you get a bit more experienced you will need to find sleeping places that protect you from other players. There are a small number of places where you can set yourself up a secure hidey-hole but it can take a fair amount of experience to secure these. Sleeping in a room that shares its name with other locations such as the Dense Forest will make it harder for a potential pursuer to find you. Sleeping in locations way off the beaten track where you hope your enemy has no knowledge of will certainly bide you time. This gives you all the more reason to explore the Land thoroughly so you can outwit prospective enemies!
+<p>
+Protection can also be found in the way of objects. Collecting objects to be used in defence (or offence) is known as "kitting up" and any objects you collect are often referred to as "kit". Even as a newbie, carrying just a weapon could deter the more opportunistic and less experienced attackers. Weapons are many and varied throughout the Land. The easiest weapons to find are probably the axe in or near the Woodsman's Hut, the dagger just east of the swamp and a couple of axe like weapons in the formal gardens north of the Monastery and Il Castellaire. <p> 
+Down in the Goblin Realm knives are plentiful but you may need to kill the goblin that is holding it first. Individually goblins are not that hard to kill, but when facing a group of five or so as a defenceless newbie you may want to consider running in the opposite direction! And if you're really stuck for a weapon, there are many objects in the Land that can be used as a weapon, such as the rolling pin in the Gravedigger's Cottage, various garden tools to be found beyond the Great Gate and even a brand is better than nothing! There are of course mighty swords about, but their worth and prowess is usually matched by how difficult they are to come by. But there is the longsword, a very useful and coveted weapon that can be incredibly illusive ...
+<P>
+You may have noticed when typing SCORE that you have strength and dexterity points as well as stamina, and that these points go up as you increase levels. Carrying objects will affect your strength and dexterity. Some of the weapons, especially the big axes require that you have a minimum strength before you can wield them. To actually use a weapon you need to type USE &lt;weapon&gt; whilst in a fight, or alternatively if you wanted to attack a mobile with your weapon you can type K &lt;mobile&gt; with &lt;weapon&gt; e.g. K GOBLIN WITH KNIFE.
+<p>
+Wafers and vials can be very useful objects when you can find them! To reap the full rewards of wafers you need to eat them (preferably one at a time!) but it is best to nibble them first to find out whether it is edible to you. There are different groups of wafers available for different levels of players. In and about Il Castellaire, the Monastery and the Keep are wafers specifically for lower level players. Type NIBBLE WAFER (or NIBBLE WF for short) if you are unsure. Vials contain potions that can be drunk. Some are good, and some not so good, so always make sure you READ VIAL before attempting to drink any, or you could get a nasty shock!
+<p>
+There are several magical artefacts in The Land that will prove very useful to you as you get higher in level. The following is a list of some of these objects:<br>
+<p>
+Oracle<br>
+Barometer<br>
+Firestones<br>
+Scarab<br>
+Mirror<br>
+Stethoscope<br>
+Flute<br>
+Die<br>
+Cape<br>
+<p>
+There are of course many other magical items, but being in possession of any of these items would prove useful if you can discover their purpose. There is a libram in the Study of the Gravedigger's Cottage called "Articles of Magic" that gives clues as to the uses of some of these objects.
+<p>
+<h2>Exploration.</h2>
+<p>
+To actually find any of these useful objects and sleeping places, and to be able to get on in the game, you need to explore! The Land is always larger and more complex than you first realise when you are new. We covered mapping in Part 2, but whether you make paper maps or mental maps, mapping is essential. The AUTO MAP and AUTO EXITS commands will prove invaluable here along with KEY to help with AUTO MAP (UNAUTO MAP/EXITS to cancel).
+<p>
+The main point of exploration is to become familiar with the general layout of The Land. In the Study in the Cottage is a map that mentions a number of fairly easy to find locations and in which direction they are from the Cottage. These places include the Alpine Cottage that is not really that easy to find, in fact if you do whilst you are still new you are doing very well! 
+<p>
+Once you have a clear idea where all of these places are you will be ready to visit some more interesting places. You may have passed some of the following already on your travels, if not, it is worth finding out where they are, even if you're not feeling brave enough to venture in.<br>
+<p>
+The Dwarfen Citadel<br>
+The Goblin Realm<br>
+The Giants' Realm<br>
+The Keep<br>
+The Scriptorium<br>
+The Maze of Hedges<br>
+The Pagoda<br>
+<P>
+The Dwarfen Citadel is an excellent place to explore with a group of people (use TOUR 5 and 6 from the tearoom to find the citadel). There is safety in numbers when it comes to dwarfs, and although some of them may seem harmless enough there are some very mean dwarfs about! Their description and value gives you a clue as to their ferocity (LOOK DWARF and VAL DWARF, or DW for short). The citadel itself is a large place with many varied rooms, including some sleeping places, a kitchen complete with snacks for intrepid travellers such as yourself and a treasure chamber. You and your fellow adventurers will be rewarded greatly if you manage to fight your way successfully through the citadel.
+<p>
+The Scriptorium and Maze of Hedges are both complex mazes that have their own rewards and uses. All the other places are similar to the Dwarfen Citadel in that they are best explored with friends whilst you are still new, with a large treasure reward at the end having solved many puzzles and killed evil foes.
+<p>
+Another aspect to exploration is experimentation. By playing around with objects in The Land you can often find alternative and less obvious uses of them. And if you are really resourceful you can achieve almost unbelievable results with a couple of objects here, a mobile there … Play with objects, mobiles and locations, you will be surprised with what you can achieve. Players are finding new uses for objects all of the time, some of which the objects were not originally designed to do!
+<p>
+<h2>Events.</h2>
+<p>
+Events are "happenings" occurring in The Land and can be either pre-organised or spontaneous. They are usually run by wizzes but can be organised by mortals too. The official event night is Thursday evenings at 9pm. This is usually a mobile bash, where for that reset all the players have to kill every mobile in the Land for a prize of 3000 points each to every player who has contributed to the slaughter. Sometimes alternative events are held such as Sorcerer Wars (see this <a href="article.fod_IssueId_1_ArticleId_1007">guide</a> to Sorcerer Wars), Scavenger Hunts and Quizzes. Occasionally Thursday evening events have prizes such as Gameplay vouchers (redeemable at the Gameplay online shop where you can buy games, consoles and PC software and hardware) as well as points prizes. Sorcerer Wars, Scavenger Hunts and Quizzes often occur at weekends too, but not to the exclusion of normal play unless the event had been pre-advertised. Mobile Bashes do not need a wiz to run them because when all the mobiles of the Land die, everyone who killed a mobile receives 3000 points automatically, so frequently a group of players will get together and decide to attempt one.
+<p>
+<h2>Touchstone.</h2>
+<p>
+You have probably heard about the fabled Touchstone by now, hidden away in a cave atop one of the mountains. If you survive the touch of the Touchstone magical powers will be bestowed upon you. There is huge risk in attempting to gain magic from the Touchstone though. There's a chance that you will be killed outright! In fact many people die repeatedly to the Touchstone before they survive and gain magical powers. Whether you think the risk is worth the gain is up to you to decide (and you can only truly know when you have played about with a magical persona) but very few people play beyond the level of champion(ne) without attempting the Touchstone.
+<p>
+The higher the level you are the greater your chance of surviving the Touchstone, so most people choose to face it at champion(ne) level as the chance of survival is relatively high (about 70%) and the number of points lost if you die is relatively low (12 800 - this may seem a lot of points now, but as you get more experienced, achieving this level will become easier and easier).
+<p>
+Dying to the Touchstone may be very frustrating and disheartening, but for the privilege of having magical powers at your disposable many believe it is worth it. If you are lucky enough to survive the Touchstone, type SPELLS to see what you can now do. As you go up through the levels, the more spells you will be able to cast, and the greater chance of your spells working. Now you have magical powers you will have a magic supply that you can cast from. Different spells require different amounts of magic to work. The SPELLS table tells you what each spell requires. If your magic level falls below zero you will automatically revert back to the non-magical level. To regenerate your magic you need to sleep, as you do with stamina.
+<p>
+<h2>The MUD2 Community.</h2>
+<p>
+There is only one aspect left of MUD2 that needs explaining before you can be left to explore and learn all the mysteries of The Land at your will, and that is how to interact with the MUD2 community. Of course you are doing it to some extent by reading this magazine, of which the aim is to bring together the talent, experience and ideas of the MUD2 community.
+<P>
+There are other ways of interacting with your fellow players apart from within the game itself. From part 1 you will have come across the MUD2 library available from the option prompt. Also accessible at the option prompt is the Bulletin Board, a chat room and MUD2's own mail system.
+<p>
+To enter the Bulletin Board (or BB for short) type BB at the option prompt. Typing H (for help) will give you an explanation on how to use the BB followed by a list of commands. But briefly, to read the BB type in the number of the first message you want to read (e.g. 1) then keep pressing return after each message to read the next one. If you want to reply to any of the messages type R after that message, your screen will now look like this:
+<p>
+<pre>Reply to message
+From:</pre> 
+<p>
+Type in your persona name, in my case it would be Karya:
+<P>
+<pre>From: Karya
+Message (end with /E):
+X000></pre>
+<p>
+Type in your message and when you have finished type /E to end, and after confirming that you wish to send the message your reply will be posted on the BB. To start a new message type L (for leave message) then follow the instructions, which are similar to the above. The BB is a public board that can be read by all MUD2 players.
+<p>
+The BB has been in existence for nearly as long as MUD2 has been running on Wireplay, so there are a few years worth of archives. These are stored in the library. To access the archives type Q to get out of the BB section then type L at the option prompt. At the bottom of the list you will see the BB archives, type in this number then you will see a menu of archived messages. Choose from the menu and read the archives as you would the normal BB. Much of the Wireplay MUD2 history is to be found within these archives, as are many hints and tips to the game!
+<p>
+MUD2 's mail system works on the same principle as the BB. From the option prompt type M (for mail). H brings up a help file with a list of commands. N lets you read any new mail message you may have. R and L works the same as it did in the BB. Mail is private and can only be read by the sender and recipient. Not even the wizzes or arch wizzes can read any mail that has not been sent to them.
+<p>
+Typing CH (for chat) at the option prompt takes you into the chat room of MUD2 that is outside of the Land itself. You will be asked for your persona name, and there-on typing /H will bring up the help file and /Q to leave the chat room.
+<p>
+This version of MUD2 is actually run by Gameplay (previously known as Wireplay), which means we get our own forum! This can be read at <a href="http://forums.gameplay.com/forumdisplay.php_forumid_50">http://forums.gameplay.com/forumdisplay.php_forumid_50</a>. Somewhere else of interest to anyone who wants to get involved in the Gameplay and Wireplay community is their news site at <a href="http://www.gameplay.com/wireplay">http://www.gameplay.com/wireplay/</a> which also provides links to their online magazines, their online shop and much more!
+<P>
+MUD2 being such a large and popular game has many sites dedicated to it. A comprehensive list of these sites can be found in the <a href="links.fod">links section</a> of Muddled Times.
+<p>
+And last but not least is Muddled Times! This is one of those sites dedicated to MUD2 set up to bring together the community of MUD2. If you have anything you would like to contribute to the community, don't be shy! Send something to Muddled Times, or post on the BB and MUD2 forum.
+<p>
+<br>
+<br>
+This concludes the last part of the Beginners Guide to MUD2. Hopefully I have given you enough information and advice to get you on the right track so that you can go it alone (or to explore with fellow MUD2 friends) to achieve the ultimate goal of becoming a Wizard or Witch! But this does not have to be your goal, many players enjoy staying mortal for years, and the game doesn't stop once you make wiz either, it becomes a different game.
+<p>
+Whatever you choose to do, or however you choose to play, the most important thing is to have fun!
+<p>
+But never forget ...
+<p>
+<div align=center><b>YOU HAVEN'T LIVED UNTIL YOU'VE DIED IN MUD2!!</b></div>
+<p><br clear=all><div align="right">... <a href="issue.fod_IssueId_3">click here</a> to return to the front page.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

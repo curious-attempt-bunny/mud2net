@@ -1,0 +1,507 @@
+<html>
+<head>
+<title>Muddled Times - MUD2 Physics</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<div align="center" style="padding-bottom: 15px;">
+</div>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 19, December 2002</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Articles</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Lexley</span></b></td></tr>
+</table>
+<p>
+<H1>MUD2 Physics</H1>
+<p>
+To most players, MUD2 is a compelling world of adventure and
+friendship. But this is just the final manifestation of a much deeper
+virtual world which acts as the foundation upon which the higher concepts
+can be built. There's far more to it than first meets the eye.
+Yes, of course there's a lot of complicated stuff going on for the major
+puzzles and spells, but underlying everything is a set of basic laws which
+given how everything works. In a nutshell: physics.
+<p>
+The physics is what makes MUD2 behave &quot;sensibly&quot;. This
+means that things should happen as you expect them to happen. If you drop
+something made of wood into a fire, it should burn, right? It's not part of
+any big puzzle or anything, it's just how things should work. It's this kind
+of &quot;realism&quot; which means you can get on with playing without having
+to worry that you'll fall foul of too many idiosyncrasies. The fact that
+a lot of people don't really even notice it is a testament to how effective it
+is most of the time.
+<p>
+MUD2 physics is not the same as real world physics. Just as in
+cartoon physics, where people can walk off a cliff and not fall until they
+notice, MUD2 is at odds with real world physics in places. For
+example, you can put one cardboard box inside another cardboard box if the first
+box is empty, but not if it's full. In cartoons, characters get sliced into
+pieces in one scene and are alive and well in the next; in MUD2, when
+creatures die their bodies disappear. It's internally consistent, but not
+quite reality...
+<p>
+So MUD2 does have physics, but it's not quite the same as
+the real world physics it attempts to model. In the rest of this article, I
+look at how MUD2's physics works and try to suggest reasons why it's
+the way it is.
+<p><div align="center"><img src="icon/default.gif" alt="*"></div><p>
+The first thing to point out is that no way can MUD2 hope to model
+reality thoroughly. For example, even using parallel processing it can take
+hours to render a complicated 3D image using ray tracing, which reality can
+do at the speed of light; MUD2 just doesn't have the resources to
+track every photon. It therefore has to <i>approximate</i> reality in a
+fashion that is believable without being so deep as to slow processing
+down to a crawl.
+<p>
+The second thing to point out is that MUD2 deliberately runs counter
+to reality in that it implements magic whereas (sorry to disappoint any
+real-life witches!) reality doesn't. There's still an element of what's
+&quot;reasonable&quot; about it - you shouldn't have to worry that hitting
+any old tree with any old axe would create a demon-possessed doll in a
+distant bedroom unless it's very well advertised somewhere. But you should
+perhaps, from your knowledge of folklore, expect that vampires can make you
+go to sleep.
+<p>
+The third thing to point out is that MUD2 does physics a lot better
+than some of the other MUDs I've played, even though it might not look all
+that impressive when I come to give the details. I'm afraid this explanation
+gets a mite technical, so you can <span class="missing">jump forward several
+paragraphs</span> if you like :-) .
+<p>
+OK, you want the technical explanation! Well typically, MUDs use a style of
+programming known as &quot;object oriented&quot;, which means that objects
+are arranged in a hierarchy of classes. <font color="99FF66">Box0</font> is an instance of a
+<font color="99FF66">cardboard box</font>, which is in turn a sub-class of both <font color="99FF66">cardboard</font>
+and <font color="99FF66">box</font>. All <font color="99FF66">box</font>es are <font color="99FF66">container</font>s, which are in turn
+<font color="99FF66">object</font>s; <font color="99FF66">cardboard</font> is a type of <font color="99FF66">paper</font> which is also a
+type of <font color="99FF66">object</font>. This isn't probably the exact hierarchy for MUD2, but it's enough to give you an idea. Now the point about object
+oriented programming is that each object in the hierarchy has a number of
+&quot;methods&quot; associated with it. If you write a method for <font color="99FF66">paper</font>
+saying that it bursts into flame when you drop it in a fire, that's what
+will happen to <i>all</i> paper items you drop in fires. Because <font color="99FF66">box0</font>
+is beneath <font color="99FF66">paper</font> in the hierarchy, it inherits that method. That's
+cool, because it means you only have to write a method once for each major
+object type; <font color="99FF66">paper</font> probably inherits its combustibility from a
+more general <font color="99FF66">objects you can set fire to</font> class. So far, so much the
+same as for most modern MUDs.
+<p>
+MUD2 goes a step further, though. It has &quot;multiple inheritance&quot;,
+which means that <font color="99FF66">cardboard box</font> can inherit from both <font color="99FF66">cardboard</font>
+and from <font color="99FF66">box</font>, getting its flammability from one and its containerness
+from the other. Most MUDs don't have this. A big consequence is that
+MUD2 objects can inherit methods from all over, which means that they
+don't just have one, principal class that they're a subclass of. Whereas
+in a normal MUD you might be agonising as to whether your <font color="99FF66">cardboard box</font>
+should inherit from <font color="99FF66">cardboard</font> or <font color="99FF66">box</font>, in MUD2 you don't
+have to. You could make it <font color="99FF66">treasure</font> as well if you liked. This gives
+a lot more scope for passing general methods to individual objects and is
+how much of the physics of MUD2 must be implemented.
+<p>
+Intriguingly, methods seem to be arranged in a hierarchy in MUD2,
+too. This is very unusual. As an example, consider the method <font color="99FF66">turn</font>.
+It's a subclass of <font color="99FF66">spin</font>, so if you <b>turn prayerwheel</b> it's the
+same as <b>spin prayerwheel</b>. It's not a synonym, though, because if the
+very specific case of <b>turn page</b> it will turn the page (of the
+fairy story book) whereas <b>spin page</b> never does. Experimenting more,
+<font color="99FF66">spin</font> is a subclass of <font color="99FF66">push</font> because if you <b>spin page to
+north</b> it will push it, but <b>push page</b> doesn't spin it. In fact, <b>push
+page</b> hits it, which would seem to indicate that <font color="99FF66">push</font> itself
+is a subclass of <font color="99FF66">hit</font>; it goes even further in that <font color="99FF66">hit</font> is a
+subclass of <font color="99FF66">kill</font> - the different responses for <b>hit player</b>
+and <b>kill player</b> but the identical ones for <b>hit object</b> (for
+most objects) confirm it. So <font color="99FF66">turn</font> is a subclass of <font color="99FF66">spin</font>,
+which is a subclass of <font color="99FF66">push</font>, which is a subclass of <font color="99FF66">hit</font>, which
+is a subclass of <font color="99FF66">kill</font>! This ability to specialise with methods is
+not something you normally see in professional programming languages like
+C++, which makes its presence in MUD2's armoury all the more
+interesting.
+<p>
+OK, that's the boring background done; now for the boring physics :-) .
+<p><div align="center"><img src="icon/default.gif" alt="*"></div><p>
+<a name="jump"></a>Physics is a large field, so to cover it properly
+I've broken it up into its recognised subfields, using the
+<a href="http://www.wbateman.demon.co.uk/physics">A-level syllabus</a> as my
+guide. I feel I should warn you, though, that this is just for interest's
+sake - you won't necessarily become a better player from reading all this,
+and although I find it fascinating it could be the kind of thing that puts
+you to sleep in a trice. An understanding of how the game works is, of
+course, a firm foundation for playing it. However, since it tries to work
+exactly how you'd expect it to work anyway, it's not actually of too huge
+a benefit in this particular case ...
+<p>
+<h2>Physical Quantities</h2>
+<p>
+There are three base quantities in physics: mass, time and length. MUD2 doesn't handle any of them the same way as reality, which leads to
+major knock-on effects! However it <i>does</i> treat them consistently, in
+a way which isn't too far removed from what people <i>perceive</i> as
+reality.
+<p>
+Mass is the amount of &quot;stuff&quot; that something is made of. MUD2 is faithful to that idea, but it seems to assume that everything is of
+unit density. Whether something will fit inside a container depends on mass,
+not volume, so you can't put a single ingot in box0 but it'll hold all ten
+bonsai trees. I don't know why this is; it surely isn't that hard to
+go through every object assigning it a volume - then you get things like
+floatability for free. A lot of the tedium could be inherited out, so that
+most objects remain at unit density but with some of the more glaring
+anomalies sorted out in the same way that &quot;funny shaped&quot; objects
+like open umbrellas are. In MUD2, mass is more of a fuzzy
+mass-length<sup>3</sup> concept.
+<p>
+Time is different because it is the only base quantity which must operate
+under the constraints of reality. It takes real time to type something, it
+takes real time to read a response and there are many people all playing
+under the same, real time. In a single-player game, you can simulate the
+fact that it takes a very long time to climb to the top of a mountain by
+adding a few hours or days to the game's clock, but you can't do that in
+MUD2 because not everyone <i>is</i> climbing to the top of the
+mountain. Some people may just be zipping along a road, or jumping into a
+cupboard.
+<p>
+On a larger scale, time is perverted by the way MUD2 resets every
+107 minutes, in a kind of <i>Groundhog day</i> fashion. There are endless
+arguments about whether this way is better or whether having no resets is
+better. I've played both types of MUD and I prefer resets myself, but I
+appreciate that they're not everyone's cup of tea. From a physics point of
+view, it means the world can undo everything in one fell swoop rather than a
+bit at a time, so it allows for a greater sweep of things. In a non-reset
+version of MUD2, the dragon would have to be resurrected every once
+in a while, in which case the object used to kill it should be replaced.
+But then, what about the creatures that guard that object? And what about
+the object you can use to get rid of them one at a time? And the creatures
+that guard that? And the obstacle that blocks the way to reaching those
+creatures? It's catastrophe theory incarnate! So although some MUDs may be
+designed with persistent worlds in mind, with objects that you can take
+with you when you quit, MUD2 isn't and is probably the better for it.
+<p>
+Length, as I've already mentioned, intersects with mass as a governing
+concept of MUD2. Interestingly, it also intersects with time. What
+constitutes a &quot;room&quot; in MUD2 is not some set of 3-axis
+Cartesian co-ordinates, but a single point in a network. A room is a room
+not just because of its size, but because of how long it takes to get
+across it. For some places, like the cottage, the rooms are &quot;natural&quot;
+and easy to get your head around. But for outdoors, why is a garden path the
+same &quot;size&quot; as a vast expanse of sea or forest? Why aren't big
+rooms combined into even bigger ones, so you could have, say, three rooms
+that define the whole of the middle mountain (lower slopes, misty bit, peak)?
+The key is that for players, the number of directions you have to type to
+get through maps almost one to one with time; players move at a constant
+velocity. Therefore, to simulate distance, more rooms are required on the
+route. There can't be <i>too</i> many, though, or the players would get
+bored typing in so many directions; that's why a proper to-scale map isn't
+an option and why we have to put up with the occasional discrepancy between
+room connections. MUD2's length is more of a length-time quantity:
+time is used to make distance &quot;feel&quot; like distance.
+<p>
+Related to length is position, and MUD2 only uses &quot;inside&quot;
+for this. Your key is in the box which you are carrying and you're in a
+room. There is no concept of which way you're facing, which means you can't
+use commands like forward, left and right (or, more usefully, the arrow
+keys) to move. I don't know why this is, it can't be that hard to record
+the direction you last moved in and calculate the next one from the
+appropriate use of left/right/forward; maybe it's because MUD2's
+geography is not conducive to it and it make complaints about rooms not
+connecting bilaterally even louder?
+<p>
+So these are the basic building blocks of MUD2. The world is
+constructed so as to make everything feel like it ought to feel as much as
+possible, even if it can't actually be the same because of the limitations
+of computers or the intrusion of reality in the form of time. But what
+about other aspects of physics which we all experience in day-to-day life?
+<p><div align="center"><img src="icon/default.gif" alt="*"></div><p>
+<h2>Mechanics</h2>
+<p>
+Mechanics is the field of physics that deals with forces. No way can a
+MUD ever hope to cope with these, because they work as fields that spread
+out uniformly in all directions and work on anything that enters them
+(which, since in theory they extend to infinity, means on everything!).
+They're not actually that important, though, because it turns out that
+they'll either have an effect over such a small scale (strong and weak
+nuclear forces) that their effects are localised, or over such a large
+scale (gravity) that their effects work the same way on everything.
+<p>
+As far as nuclear forces go, they're irrelevant to MUD2. It doesn't
+have quarks, atoms or molecules - in fact its objects are almost entirely
+indivisible, like each one is an atom unto itself (even if it's, say, a
+pickaxe-shaped one!).
+<p>
+Gravity is implicit in the directions <b>up</b> and <b>down</b>, but
+otherwise exerts its influence only in a number of set pieces like falling
+off of the cliff or sliding down a slippery tunnel. If you drop something
+round at the top of a hill, don't expect it to roll down. On the other
+hand, if you drop something at the top of a well it'll get to the bottom
+instantly - time delays are only for occasions where players are undergoing
+the falling treatment.
+<p>
+Manifestations of the basic forces are implemented (or not implemented!)
+separately. Weight is pretty much the same as mass, as in colloquial
+English. Frictional forces are implicit except for famous examples like
+rubbing sticks together to start a fire. Centripetal forces aren't dealt
+with at all, but then neither is circular motion of any kind (you can't
+even spin round to make yourself dizzy!).
+<p>
+Kinematics considerations are fudged, basically because of the relationship
+between game time and real time. Speed of movement is the same for
+everyone, at ten rooms a second in F2/F3 mode with room descriptions turned
+to brief (slower in F1 mode or with verbose room descriptions).
+Acceleration is instantaneous. I don't think it would be too hard to
+implement some concept of velocity (speed in a direction) and from there get
+to an idea of acceleration (you get to move faster if you keep in the same
+direction for more than one room), but this kind of faithfulness to reality
+gets in the way of play. In the same way that I don't worry about the fact
+my characters breathe without my having to tell them to do so, I don't
+worry about being able to move at top speed from a standing start; it would
+just be detail for detail's sake.
+<p>
+Higher concepts of mechanics, such as momentum, torque, impulse, work, power
+and the conservation of energy are not implemented in MUD2; the
+way it manages the lower concepts would make these very difficult to do,
+but then it's not like most people give any of them a second thought anyway.
+So long as the gross effects of hitting a tree with an axe are as you'd
+expect, the specific details of the elastic/inelastic collisions involved
+can be ignored. Mind you, objects do smash at different rates depending on
+what you drop them on, so there is a little more detail than you might at
+first think, here.
+<p>
+I mentioned three forces in this section, but there are actually four in
+reality. The other one is the electromagnetic force. How does MUD2
+handle that?
+<p><div align="center"><img src="icon/default.gif" alt="*"></div><p>
+<h2>Electricity</h2>
+<p>
+Forget it. Electric eels and nasty traps are the only place it appears.
+<p>
+The reasoning is probably to do with the fact that MUD2 uses a
+fantasy setting more than anything else. Individual objects that
+could require electricity could be made, like torches with batteries and
+stuff, which wouldn't require any in-depth ideas of charge, current,
+resistance, capacitance or what have you. That there's no electricity is
+probably more to do with aesthetics than anything else, I guess.
+<p>
+Magnets were known centuries ago and they might be fun things to play with;
+they can't be all that hard to implement, either. So was amber: if you had
+a big piece and you could rub it to charge it up, then you could leave it
+lying around and the next person to pick it up could get a small static
+electric shock.
+<p>
+So although we don't have much electricity in MUD2 at the moment,
+I think we'll see some eventually. It's an idea with potential (ha ha ha!).
+<p><div align="center"><img src="icon/default.gif" alt="*"></div><p>
+<h2>Nuclear Physics</h2>
+<p>
+We're talking the uranium here. It doesn't work like real U<sub>235</sub>,
+but it works like your person-in-the-street might think it does, which is
+what is required I suppose. It keeps being changed as to how it works,
+though, so maybe concepts like half life and radioactive decay may yet find
+a place in the game ...
+<p><div align="center"><img src="icon/default.gif" alt="*"></div><p>
+<h2>Matter and Materials</h2>
+<p>
+There are three common phases of matter: solids, liquids and gases. You
+might want to add gas plasmas, liquid crystals and substances close to
+absolute zero to that list, but MUD2 doesn't. Well, it does have
+fires, but they're fairly regulated; you can't burn down houses with them,
+which is a shame :-) but would play havoc with the descriptions of rooms
+that referenced the ones that were no longer there.
+<p>
+Most objects in MUD2 are solids. What's more, they can't be
+decomposed into smaller solids, except in special cases. It's impossible
+to pick one grape from the bunch of grapes or one farthing from the
+cache in the terracotta vase; making a hole in the coracle or chopping the
+salmon in two are out of the question. Solids are either whole or destroyed,
+unless they are specifically catered for. Whether they get the special
+treatment is a little arbitrary: you can break up a coconut into bits, but
+not a bale of hay; you can make sticks from a log, but not smash a bottle to
+use as a weapon; you can peel an orange, but not take the chime out of
+a grandfather clock. It's understandable of course - you have to draw the
+line <i>somewhere</i>. If you <i>could</i> take the chime from the
+clock, you should (by the same token) be able to take the mechanism. And
+then you'd want to be able to take the clockwork from that and disassemble
+it into cogs and gears, then you'd want to put them all back together again.
+To what end? So most solids are entities with intrinsic properties based
+on what their function is, rather than what they're made of. They don't have
+to be divisible, although it would be nice if a few more were.
+<p>
+Liquids, on the other hand, do have to be divisible. It's one of the
+defining qualities of liquids that you can arbitrarily split them up into
+smaller volumes. Well MUD2 can handle that - in fact it extends it
+to cover small-granuled solids like sand and gravel. The way it works is
+that there are two sorts of liquid: finite amounts and infinite sources.
+You can use the infinite sources to fill watertight containers with finite
+amounts as much as you like, they're inexhaustible. The finite amounts can
+be subdivided by pouring into smaller containers and they can be recombined
+by pouring several into larger containers; they can also be destroyed by
+emptying them into an infinite source (which happens for liquids anyway,
+but not for solids that think they're liquids, like sand).
+<p>
+The trouble with liquids, though, is that there's not actually much point to
+their functionality in MUD2. So what if you <i>can</i> split them
+up, who cares? It only really seems to matter for when you're mixing
+potions together and even that is rather esoteric (but can be devastatingly
+effective if you get the right ones). The few times when you can think of a
+good use, it never works anyway: I remember my disappointment when I
+filled up the coracle with malmsey, gave a pk a lit brand, then immediately
+threw the malmsey at him - it didn't even wet his wafers! I was hoping to
+see one of those burning men you always see on movies staggering out of the
+building that just got blown up! Oo, that still makes me cross!
+<p>
+Gases are rare in MUD2, except for air, which is everywhere and
+practically useless. The swamp gases are the obvious ones that most people
+will have come across, with their cousin in the mine (although at least that
+one disappears once it's been exploded). Smells are a sort of gas I suppose
+and there are plenty of those, but none you can pick up and apply to
+objects.
+<p>
+<center>
+<table
+ bgcolor="#000000"
+ border="0"
+ cellpadding="10"
+ cellspacing="0">
+<tr><td><font color="#00eeee">There is a stoppered bottle of Obsession here.</font><br>
+<font color="0000ee">*</font><font color="#eeeeee">g bottle</font><br>
+<font color="#eeeeee">Stopped bottle taken.</font><br>
+<font color="#0000ee">*</font><font color="#eeeeee">op bottle</font><br>
+<font color="#eeeeee">The stoppered bottle opens...</font><br>
+<font color="#0000ee">*</font><font color="#eeeeee">dab perfume on joey</font><br>
+<font color="#eeeeee">You dab some Obsession onto Joey the warrior.</font><br>
+<font color="#0000ee">*</font><font color="#eeeeee">smell joey</font><br>
+<font color="#eeeeee">Joey the warrior smells like the ladies' room at a sweaty nightclub in one
+of the less salubrious parts of town.</font></td></tr>
+</table>
+</center>
+<p>
+Well I can dream :-) .
+<p><div align="center"><img src="icon/default.gif" alt="*"></div><p>
+<h2>Oscillations and Waves</h2>
+<p>
+There are several types of waves which are important in physics, with sound
+and light (electromagnetic) being the most prominent and wave motion and
+harmonic motion coming up behind. Since objects don't tend to move within
+rooms in MUD2, just between rooms, neither of these second two raises
+its head. There are possibilities for puzzles, of course: a tidal wave, or
+pendulum where you have to time a run through a gap before a big scything
+blade gets you, both of these would be a simple matter of timing rather than
+a true reflection of reality.
+<p>
+Sound is more intriguing. Ignoring the &quot;magic&quot; of telepathy that
+underlies the <b>tell</b> command, you have a simple choice of speaking
+to people in the same room using <b>say</b> or everywhere using <b>shout</b>.
+That's it. There is no way to communicate with everyone in an adjacent room,
+or just a few people in a corner of the same room. Sounds are either
+local or global, with only a few exceptions for things which are going to
+make a noise forever like the waterfall. It should be possible to
+propagate a sound through adjacent rooms, but then the game's strange
+geography comes into play, where &quot;adjacent&quot; in one direction might
+mean a couple of meters down a hole yet in another direction could be 50
+meters of dense forest. I'd prefer that sound was able to move like that,
+though, so you could maybe hear that people were talking in a nearby
+location even if you couldn't tell what they were saying exactly.
+<p>
+What really irritates me about sound is that it's selective. It is <i>so</i>
+infuriating to be trying to sleep back stamina after you just fled from
+an ape and be being woken up by shouts you don't want to hear while the
+ape is able to sleep peacefully. I hate that! Why don't shouts awaken
+mobiles, too? I know that some of them start off asleep, like dwarfs, but
+they could go back to sleep after being woken up, couldn't they? Now that
+mobiles can use the dream word, I think we should have a level playing
+field and they should have to suffer like we do when they sleep in
+non-bedrooms.
+<p>
+There is one puzzle in MUD2 which relies on resonance, but it's
+not implemented as a general principle.
+<p>
+As with sound, light is implemented in a fashion which makes no attempt to
+mimic how reality works, but it's reasonable under the circumstances.
+There is no continuity in light: it's either there or it isn't - there's no
+half-light where you can make out shapes but not colours, for example.
+That it's always light outside is probably more to do with not having to
+write two versions of all the room descriptions than anything else, I
+suspect :-) .
+<p>
+Light does propagate, in the sense that you can look into adjacent rooms and,
+from some vantage points, see several rooms away. These are always specific
+to the rooms, though; strictly speaking, if you look down a well and someone
+at the bottom has a light, you should at least see the light, but it
+doesn't happen. Distance viewing works on a case-by-case basis only, which
+means we can deduce there's no built-in light-management system in the game.
+There's only one mirror, but it's magical so it doesn't really count.
+<p><div align="center"><img src="icon/default.gif" alt="*"></div><p>
+<h2>Quantum Phenomena</h2>
+<p>
+Unless it's the justification for magic, this has no place in MUD2.
+It's quite interesting to speculate about related philosophical topics such
+as observability - I've been assured that if a MUD2 tree fell in a
+desert with no-one around to hear it, it <i>would</i> nevertheless make a
+noise - but it's pointless (literally!) from a game-playing perspective.
+<p><div align="center"><img src="icon/default.gif" alt="*"></div><p>
+<h2>Thermal Physics</h2>
+<p>
+At last, another concept that MUD2 does make some attempt to model
+systematically!
+<p>
+Well, sort of. It has three basic temperatures: cold, normal and hot.
+Objects which are cold will warm up in normal and hot temperatures and tend
+to shed mass (which is to say, they'll melt); objects which are hot aren't
+affected by the environment as far as I can tell. There aren't many cold
+objects at all, but then there aren't many hot rooms. You can make a room
+warm up by burning stuff in it, but it takes quite a big bonfire to make a
+difference. It's possible to explode the keg this way, though (or it was
+the one time I tried it).
+<p>
+Heating ordinary objects doesn't melt them, it either has no effect or
+progressively destroys them. You can't get molten gold. As for transfer of
+heat, that's just assumed to happen whatever way is sensible, so it would
+be by convection in the airing cupboard or by radiation in the dwarf
+smithy.
+<p>
+Related to temperature is the kinetic theory of gases, which gets us into
+the realms of aerodynamic lift. MUD2 makes no use of this concept -
+in fact even its birds don't actually fly, they're always on the ground.
+There seems to be some firework-related concept of the sky, but you never
+see birds in it.
+<p><div align="center"><img src="icon/default.gif" alt="*"></div><p>
+So there you have it: MUD2's physics in a nutshell. The remarkable
+thing about it is how little there is when you look, yet how much there seems
+to be when you play. The issues are tackled in one of two ways: either a
+general principle which works across all objects, like the concept of
+&quot;things which float&quot;, or, for more isolated cases, specialised
+code which deals with that one situation only and ignores all others,
+for example the uranium's radioactivity. There <i>are</i> some oddities, such as
+the sounds you get when you hit things together - there are so many of those
+it's hard to imagine they're all individualised, but how else could they be
+implemented? - but on the whole everything in the MUD2 physical
+world comes comfortably under one of those two categories.
+<p>
+Well I hope you've found this interesting, if not exactly useful. I doubt
+I'll have inspired any budding explorers, but hello, you never know!
+It makes a change from players who &quot;get physical&quot; in other ways,
+whatever :-) .
+<p><div align="center"><img src="icon/default.gif" alt="*"></div><p>
+<h2>Further Reading</h2>
+<p>
+The original <i>Laws of Cartoon Motion</i> appear in
+<a href="http://www.rahul.net/figmo/Archives/toon-physics.html">http://www.rahul.net/figmo/Archives/toon-physics.html</a>
+and other places. Extended versions are in many humour archives and in
+home pages such as <a href="http://www.csh.rit.edu/~kenny/misc/toon.html">http://www.csh.rit.edu/~kenny/misc/toon.html</a>.
+<p><div align="center"><img src="icon/default.gif" alt="*"></div><p>
+<I><h4>This article orginally appeared in the April 1999 edition of Witch?</h4></I>
+<p><br clear=all><div align="right">... <a href="section.fod_CategoryId_8">click here</a> to return to the category list.<br>... or <a href="issue.fod_IssueId_18">click here</a> to go to the front page of this issue.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

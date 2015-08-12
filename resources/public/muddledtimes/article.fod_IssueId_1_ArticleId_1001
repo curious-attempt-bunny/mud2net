@@ -1,0 +1,42 @@
+<html>
+<head>
+<title>Muddled Times - Readers' Letters</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 4, June 2000</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Letters</b></td></tr>
+</table>
+<p>
+This being the first new-look Muddled Times issue,
+we haven't received any letters yet.
+<p>
+<b>But</b>, we'd love to receive some in time for the next issue. So,
+if you have anything to say, please send them to:
+<span class="missing">letters@muddled-times.com</span>.
+We're happy to keep letters anonymous, if requested - so don't worry!
+<p>
+If you have any gossip, why not let us know at
+<span class="missing">gossip@muddled-times.com</span>.
+<p>
+Thanks!<p><br clear=all><div align="right">... <a href="issue.fod_IssueId_1">click here</a> to return to the front page.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

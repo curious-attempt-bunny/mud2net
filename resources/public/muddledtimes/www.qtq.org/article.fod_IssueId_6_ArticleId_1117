@@ -1,0 +1,337 @@
+<html>
+<head>
+<title>Muddled Times - Pick Up the Treasure</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<div align="center" style="padding-bottom: 15px;">
+</div>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 9, April 2001</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Game Information</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Lexley</span></b></td></tr>
+</table>
+<p>
+<h1>Pick up the Treasure</h1>
+<p>
+I adore newbies. It's purely for selfish reasons: I get a lovely, sentimental
+glow when I talk to them that helps me recapture my own first few games of
+MUD2 when I thought that elves lived in the cottage and I couldn't
+get the lantern to go out. Ah, those carefree days of yore! But even if I
+didn't get a buzz from helping people, I'd still feel duty-bound to try,
+because newbies are MUD2's future.
+<p>
+It's a clich&eacute;, yes, I know. But over time, players will leave for
+whatever reasons and unless there is a constant supply of newbies to replace
+them then the game will eventually empty. Only a rump of a few, grizzled old
+wizzes will remain to reminisce about the good old days, until eventually
+even they will drift away. MUD2 really <i>needs</i> newbies.
+<p>
+It doesn't just need them to keep the population constant, either. Newbies
+are people, not automatons; they come with fresh ideas and energy,
+invigorating the community and helping it to develop instead of degenerating
+into sterility. Without them and the ideas they bring with them, the game
+would just stagnate. Where's the fun in that?
+<p>
+The problem is, MUD2 isn't exactly newbie-friendly. Players coming
+across the game for the first time will most likely have <i>not</i> seen
+anything like it before. They can't figure the controls, there's all this
+stuff with letters and words that they have to <i>read</i>, it just doesn't
+make sense. Under these circumstances, only those who really make the effort
+will stay more than a few minutes. We lose a <i>lot</i> of newbies.
+<p>
+But we don't have to! Many of those players would have stayed if only they'd
+had help in those crucial first few minutes. Consider: until recently there were two types
+of newbie. One type was the passer-by, the <i>Wireplay</i> user who saw
+that there was this game at the top of the rapid play popularity lists and
+decided to give it a whirl. We used to get a steady stream of these, but we didnt't
+hold on to many of them, and now those newbies will become more and more infrequent until MUD2 is completely forgotten about at <i>Wireplay</i>. The other type is the player who is being introduced
+by someone who already plays. We don't get so many of these, but the ones
+we do get tend to stay on and become regular players. Why? Because they
+have a friend to show them the ropes when they're just starting off. That's
+what the first type of newbie lacks: a friend. If you take time out to be
+that friend, the chances that the newbie will eventually become an oldbie
+are vastly increased.
+<p>
+This article is intended to give advice to players who wish to befriend
+newbies - utter newbies, complete first-timers. I know a lot of players
+already do make some attempt at this (and not simply because the wizzes like
+people who help newbies!), but it's not always effective. Telling
+people to <tt>sip dj</tt> in the tearoom, for example, is not going to help
+someone who doesn't even know that the aim of the game is to score points..!
+You have to take it one step at a time ...
+<p>
+A word of warning: we've all been newbies once, but some people
+have been newbies more than once... They like to <i>pretend</i> to be newbies, either
+to wind up those of us who try to help real ones or to attempt to give their
+newly-designed secret character a believable background. These people are
+very irritating, but if you do want to help real newbies you just have to
+treat each one as genuine until they're proven otherwise. There are one or
+two ways you can tell a fake if you've dealt with them often enough, but I'm
+reluctant to explain them here because it'll tip off the time-wasters as to
+what they're doing wrong and they'll change their tactics. As an example,
+though, one of the things they will often do is try to give you hints as to
+what you should tell them. You've explained they should use <tt>say</tt>,
+they normally use <tt>&quot;</tt>, so they &quot;innocently&quot; ask if
+there's a shorthand that they can use instead. Nice try, guys ... :-)
+</p>
+<div align="center"><img src="icon/default.gif" alt="*"></div>
+<p>
+Spotting probable newbies is relatively easy. Most non-newbies will do
+<tt>sip dj</tt> in the tearoom, so anyone wandering around with no level
+after their name is either a newbie or someone pretending to be one. You
+do sometimes find newbies who are protectors, having been told to
+<tt>sip dj</tt> by someone in the tearoom who figured that was all they
+needed to know, but this is infrequent. The tearoom is, of course, a great
+place to find newbies - and the walls they insist on walking into are
+a handy alarm system :-) .
+<p>
+As soon as you spot someone who you suspect is a newbie, your priority
+<i>must</i> be to get them to communicate. This is for practical reasons,
+not pedagogical ones: if they can't talk to you, they can't ask questions
+or even acknowledge that they understand what you're saying. Never mind
+whether it's important for forming a bond or not at this stage (although
+in the long term it is).
+<p>
+The first thing I usually say to a suspected newbie is simply, &quot;Hi! Are
+you a newbie?&quot;, followed (if they don't answer) a few seconds later by
+something like, &quot;Type NOD if you are.&quot;. Players who aren't newbies
+get a fair chance to tell me to go away :-) and players who are newbies have
+something easy to type if they want help.
+<p>
+I always put instructions in capital letters when I talk to newbies. Remember
+that many newbies have never seen a game anything like MUD2 before
+and if you are at all ambiguous then they won't understand. They won't
+necessarily even realise that the word <tt>nod</tt> is a command at all
+unless you can identify it somehow, but if you use quotation marks then
+they'll dutifully include them in what they type ... Trust me, capital
+letters work.
+<p>
+If they don't answer the initial <tt>nod</tt> question, it could be for many reasons but
+the main ones are either that they are real newbies but don't want help, or
+they're real newbies who need help even more! As with all dealings with
+newbies, you have to assume they're genuine and that they need help, so
+I do follow up if they don't answer: &quot;type SAY then a message to speak,
+e.g. SAY HELLO&quot; and then &quot;don't forget to hit the enter key when
+you've typed your command&quot;. By this stage they usually either manage to
+speak or they wander off or quit. If I really feel someone is struggling I
+might try something else, but frankly if they can't even figure out how to
+type the most basic of commands then <i>MUD 2</i> is probably not going to
+be their game ...
+<p>
+Most newbies do manage that first <tt>nod</tt>, though, which is always
+encouraging. I'll usually <tt>clap</tt> when they do this so they know that
+their command worked, then tell them &quot;to send a message, type SAY then
+the message, like this: SAY HELLO LEXLEY&quot;. They don't usually have a lot
+of trouble with this, either. Once you can communicate with a newbie and
+the newbie can communicate back, you can advance to stage 2 ...
+</p>
+<div align="center"><img src="icon/default.gif" alt="*"></div>
+<p>
+In order not to get in anyone's face unnecessarily, as soon as you can get a
+spoken reply from a player it's best to ask outright whether he or she wants
+(that's <i>wants</i>, not <i>needs</i> help or not. If they say they don't,
+tell them &quot;OK, well if you change your mind just SHOUT for me. You
+might want to look at the FAQ and TUTORIAL commands next time you're in the
+tearoom, too&quot; and then wave goodbye. You can check with them later
+whether they're still OK if you &quot;happen&quot; to bump into them, but
+don't go over the top.
+<p>
+If the newbie does want help, the way to proceed depends a lot on how
+you encountered them in the first place. You need to find a topic of
+conversation to gain their confidence, so you can introduce some of the
+concepts they need to know in as natural a way as possible. Newbies you come
+across wandering around looking lost are easier to deal with than ones in
+the tearoom, because they have some experience (and independence) already,
+but they're rarer, too. Ascertain how much they know and what problems they
+are having. At this stage, there's no need to be coy about giving
+&quot;solutions&quot;: it's not meant to be a game puzzle to figure out what
+to do with treasure ...
+<p>
+Your main aim here is to make the newbie aware of a few basic concepts that
+don't show up as icons in <tt>F1</tt> mode. You can do this conversationally
+without having to demonstrate anything. I'll usually tell them:
+<ul>
+<li>what the goal of the game is - scoring points and going up levels
+<li>what <tt>treasure</tt> is - stuff you can score points for in the swamp
+<li>that <tt>t</tt> is short for <tt>treasure</tt>, thus introducing the notion of
+abbreviations
+<li>to use <tt>"</tt> instead of <tt>say</tt>
+<li>that the game's built-in help isn't too bad, especially
+<tt>tutorial</tt>, <tt>info</tt>, <tt>faq</tt> and <tt>tour</tt>.
+<li>that they will probably be killed many times but not to worry about it :-)
+</ul>
+In conveying this to them, you can sometimes get a feel for what kind of a
+player they are. Even if it seems clear that they're not really impressed
+and just want to go away, it's still worth persisting; they can often still
+be won over.
+<p>
+Having told them what the idea of the game is, your next job is to show them
+how to achieve it in practice. This means demonstrating commands, which
+in turn means moving. This is a real pain if they're in the tearoom because
+they can't follow you. You have to tell them to leave the tearoom and stay
+still until you arrive. A good many are barely capable of doing the first
+of these, let alone the second, so try to be patient... It doesn't take long
+to zoom along the road, but to a newbie reared on fast-moving action games
+it can seem like an eternity. I usually let the newbie go first, ask them
+if they made it OK, then find them while they're typing a response. In order
+to be able to do this, though, they need to be reassured that they can
+communicate over distance. I therefore tell them how to use the
+<tt>shout</tt> command and how to communicate by name; I also make sure they
+can do the latter before we set off anywhere... If we get separated, it's
+imperative that we can join up quickly before they start to panic!
+<p>
+It can be useful to retain a protected persona for showing around newbies.
+PKs have no insight into how important newbies are and will gladly
+slaughter anyone they see wandering around unarmed and unkitted, even if
+they have an obvious newbie in tow. So long as you tell the newbie that
+you'll be coming on under a different name, it's normally not a problem.
+<p>
+It doesn't matter if you hook up with a newbie that someone else has already
+primed, by the way; the more friends newbies have, the better. You may still
+be able to help them, especially if they other person did a bad job (like
+telling the newbie how to pick things up but not what to do with them
+afterwards). Always remember to give newbies permission to ask you for help
+if they need it, even if they don't want any at that precise time. Some
+people use the opening line of &quot;have you played here for long?&quot;
+when they encounter a loose newbie, so as to give the fake ones chance to
+own up. You might want to try that approach if you're less gullible than I
+am :-) .
+</p>
+<div align="center"><img src="icon/default.gif" alt="*"></div>
+<p>
+Third-stage newbies get the practical lessons :-) . This is where you show
+them exactly what to do, gradually making them more self-reliant as they
+proceed so that eventually you can wave them goodbye and they'll be able to
+make a stab at actually playing. I find the <tt>acc</tt> command invaluable
+here.
+<p>
+The first thing I'll normally do is get a trinket for them and <tt>give</tt>
+them it. This gets them used to the idea that they can carry things. I'll
+then tell them to <tt>get</tt> any other trinkets or treasure in the room. I
+always start off by telling them what the full command is, but I encourage
+abbreviations: &quot;type G T (for GET TREASURE)&quot;. I'll tell them to
+use <tt>val t</tt> to find out how much it is worth and to drop anything
+which is negative (which it never is if they're novice level, but it will
+be later).
+<p>
+Trinkets aren't always easy to find, because people do take them. I will
+look in the cottage first, then the inn, then the villa. Once the newbie
+has a couple, I'll lead the way to the swamp and get them to <tt>dr t</tt>.
+<p>
+A word of warning: no matter how much you tell them not to speak in the
+swamp, you can almost guarantee that they'll choose to do so when the
+banshee is around. I have found no successful way round this while the
+banshee is alive; I tell them before we go in not to speak, and I always talk
+by name when I'm there, but it's not really effective. The banshee appears,
+they speak, the banshee screams, they go deaf, you've lost them. A
+programming fix would be nice, to make newbies resistant to the banshee's
+voice ...
+<p>
+Having successfully swamped some treasure, get the newbie to use the
+<tt>score</tt> command, whether from the icon on their screen or by typing
+it. Tell them they can use <tt>level</tt> to see how many points they need to
+score to advance. Make sure that the first trip to the swamp doesn't get them
+to protector, though, because there's still a lot for them to learn.
+<p>
+The trip to the inn is where you begin showing them some independence. This
+is because they can't get to the upper floors by accompanying you: they have
+to type some commands of their own. I will usually stop on the road outside
+and tell my newbie that I'm going south twice and that they should do the
+same because they can't follow. I go first rather than the newbie because
+I'll have arranged a light source (even if it's just a lit stick). Once the
+newbie finds me, they can <tt>acc</tt> again and I can take them to the
+children's room on the second floor where there's usually a nice stash of
+undisturbed newbie booty. If the newbie is looking particularly keen and
+there's no undead about, I'll show them the circle, too.
+<p>
+Once the newbie has picked up the treasure, I ask if they want me to lead
+the way to the swamp or if they can make it alone. I tell them to keep
+hitting the swamp button until they get there and to ignore the darkness
+(if they have no light, that is!). Usually they'll agree to this, but
+sometimes they can still lack confidence so it takes a trip to Il Castellare
+as well to get them to believe they know what to do. The only fly in the
+ointment is if it's raining and <tt>zw</tt> gets them stuck at the river. I
+always use <tt>zw</tt> too, though, so will get stuck at the same point and
+they can <tt>acc</tt> me to somewhere where <tt>zw</tt> works again.
+<p>
+If this final batch of trinkets doesn't put them up a level, I'll take them
+somewhere safe nearby such as the hut and ask them to wait while I get them
+some more. I'll give them it and tell them I'll meet them at the swamp and
+want to see they've gone up a level! I'm usually stern at this point so they
+are eager to go off on their own :-) .
+<p>
+Once they have gone up a level and feel confident enough, I ask them if
+they want to play on their own for a while. They almost always do.
+All that remains is to tell them what to do if they need help. This means:
+<ul>
+<li>they can contact me by name, any time, any place
+<li>if they don't see me, shout for me, or for help from anyone
+<li>the wizzes will usually help if a genuine <tt>wish</tt>
+<li>they shouldn't get disheartened if they die, it <i>will</i> happen
+<li>when it does happen, they can type <tt>sip dj</tt> for <tt>sip darjeeling</tt> in
+the tearoom.
+</ul>
+And that's it! I deliberately don't teach them about fighting unless they
+ask, in which case I'll get them to take on a firefly. If they start
+trying to kill anything serious they'll just die repeatedly and not come
+back. I don't normally cover getting a light unless I have to because none
+of the ways to see in the dark are really very satisfactory for low level players.
+I don't teach any of the other useful concepts like containers or weapons,
+because these are things that players can find out on their own. My aim is
+to get them up and running and independent, but with someone as back-up (me) who
+they can ask questions off of without fear of being mocked for ignorance.
+I certainly do <i>not</i> give them the directions to the spring - not
+knowing anything at 1,000 points is even worse than not knowing anything at 0!
+<p>
+Showing newbies around is fun - I really enjoy it. They have that wonderful
+sense of awe, they come out with some great lines and there's a real sense
+of achievement when one of them stays on as a permanent player.
+<p>
+Except when four months later they pk you, of course..!
+</p>
+<div align="center"><img src="icon/default.gif" alt="*"></div>
+<p>
+<h2>Further Reading</h2>
+<p>
+Cat the wizard has some useful information for first-timers on his
+<a href="http://mud2.info">website</a> especially in the <i>Info</i> section. From the point of view of teaching newbies,
+rather than of actually being a newbie, the new player help FAQ is probably
+the most useful document.
+<p>
+Other MUDs have newbies and although these players need to be taught
+different things for different environments, there are some fundamentals
+which cut right across all games. Some MUDs have formal organisations
+for helping newbies. If you can stand the alien jargon, a look
+at the <a href="http://www.legendmud.org/Playing/howto.html">New Player
+Helpers</a> page for <a href="http://www.legendmud.org">Legend MUD</a> gives some
+idea of what can be done; some of Farnsworth's tips are eerily applicable to
+MUD2 in places.
+<p>
+<h5>Acknowledgement: I learned much of how to handle newbies from a long
+email correspondence with Richard the arch-wizard, who has (after all) been
+doing this for longer than any of us :-) . A lot of the ideas expressed here are
+therefore his originally.</h5>
+<p>
+<br>
+<p>
+<h4><i>This article first appeared in the April 1999 edition of <i><b>Witch?</b></i><h4> <p><br clear=all><div align="right">... <a href="section.fod_CategoryId_2">click here</a> to return to the category list.<br>... or <a href="issue.fod_IssueId_6">click here</a> to go to the front page of this issue.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>

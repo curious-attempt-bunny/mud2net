@@ -1,0 +1,171 @@
+<html>
+<head>
+<title>Muddled Times - Apeomancer's Topical Quest Collective - Parts 1 & 2 (Elemental Quest & Umbrarg's Island)</title>
+<link REL="stylesheet" TYPE="text/css" HREF="muddled.css">
+<link REL="stylesheet" TYPE="text/css" HREF="colours.css">
+</head>
+<body bgcolor="#000000"
+text="#ff8800" link="#dd0000" vlink="#dd44000"
+background="images/bg.jpg"
+topmargin=0 leftmargin=0 marginwidth="0" marginheight="5">
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td align=center><a href="index.html"><img border=0
+src="issue/4/images/entry3b.gif" vspace=5
+alt="Muddled Times"></a></td></tr>
+<tr><td>
+ <table width=100% cellpadding=10>
+ <tr><td>
+<div align="center" style="padding-bottom: 15px;">
+</div>
+<table>
+<tr><td align=right>Issue:</td><td><b>Issue 6, October 2000</b></td></tr>
+<tr><td align=right>Section:</td><td><b>Game Information</b></td></tr>
+<tr><td align=right>Author:</td><td><b><span class="missing">Apeomancer</span></b></td></tr>
+</table>
+<p>
+<h1 align="center">Apeomancer&#146;s Topical Quest Collective
+&lt;with apologies to Droo ...&gt;</h1>
+<p>Hi all! Karya asked me to write something for Muddled Times
+about quests, so I&#146;ve written a bit about the two most
+common quests of the day - Agrazag&#146;s elements quest and
+Umbrarg&#146;s island quest, as well as a little on quests in
+general. Analysis of other quests may follow, if I get to play
+them in a little more depth.</p>
+<p>Quests are some of the most fun you can have on MUD. Remember
+what it felt like to be a newbie, when everything was new and
+interesting? Quests can help you recapture that feeling of
+wonder, and can help you get out of a MUD playing rut - I put my
+present bout of comparative success at achieving and exploring
+down to completing Agrazag&#146;s quest.</p>
+<p>They come in several forms, the most common of which is a new
+area attached to the main Land in some fashion. Some involve the
+main land itself, as in Kyric&#146;s Elf Quest, where elfin
+hordes pour across the Land from a secret base. In some cases,
+you have to be transported to the quest by the wizard who put it
+up - this goes a long way to prevent wicked explorers (like
+myself) using trickery to complete the quest.</p>
+<p>They can also be a great source of tricks in their own right,
+especially if you can take items from them back to the main Land.
+They are often very dangerous - I highly recommend you don&#146;t
+bring your mage into one without prior knowledge of what
+you&#146;re likely to face.</p>
+<p>The points you get for completing them are often quite high,
+but they are rarely the main point of a quest - fun and kudos
+among your fellow players are the usual reasons for doing a quest
+(along with finding tricks/bugs in them and showing them to their
+creators&#133;heh).</p>
+<p>Without further ado, here&#146;s my roundup of the two most
+common quests of the moment - Aggy&#146;s and Umby&#146;s. </p>
+<p><i>NB - &#145;Realism rating&#146; refers to how many bugs
+and tricks I find in there, and how real the place feels to me.
+The main Land, tested to destruction and improved over 20 years,
+is considered to be 10/10.</i></p>
+<p>&nbsp;</p>
+<h2>Agrazag&#146;s Elemental Quest</h2>
+<p>
+<table border="0">
+ <tr>
+ <td width="150"><b>Author:</b></td>
+ <td>Agrazag the wizard</td>
+ </tr>
+ <tr>
+ <td width="150"><b>Method of entry:</b></td>
+ <td>Teleportation by Agrazag</td>
+ </tr>
+ <tr>
+ <td width="150"><b>Personae allowed:</b></td>
+ <td>Sorcerers and necromancers only, one at a time</td>
+ </tr>
+ <tr>
+ <td width="150"><b>Risk level:</b></td>
+ <td>High</td>
+ </tr>
+ <tr>
+ <td width="150"><b>Realism rating:</b></td>
+ <td>9/10 (only two things I could find that Agrazag
+ needed to fix ...)</td>
+ </tr>
+</table>
+<p><b>Analysis:</b> A compact, beautifully-constructed and
+described quest - my favourite so far (and not just &#145;cos I
+got past all four element areas on my first go). It has five
+areas - a murky lagoon for water, a fiery cave for fire, an
+earthy cave for earth, some darling little fluffy clouds for air,
+plus a final, dark boss area. The puzzles range from totally easy
+(the water realm&#146;s) to rather hard (the air realm&#146;s).
+Each area has a rune at the end of it, guarded by a rather
+dangerous phantom. There are also two secrets hidden in this
+quest, one of which I found. This quest has the advantage that
+you cannot bring kit into it, and so cannot use many sneaky
+tricks in it.</p>
+<p>&nbsp;</p>
+<h2>Umbrarg&#146;s Island Quest</h2>
+<p>
+<table border="0">
+ <tr>
+ <td width="150"><b>Author:</b></td>
+ <td>Umbrarg the arch-wizard</td>
+ </tr>
+ <tr>
+ <td width="150"><b>Method of entry:</b></td>
+ <td>A trawler that goes between the island and the jetty.
+ A sign is put up at the jetty when the quest is up.</td>
+ </tr>
+ <tr>
+ <td width="150"><b>Personae allowed:</b></td>
+ <td>Anyone</td>
+ </tr>
+ <tr>
+ <td width="150"><b>Risk level:</b></td>
+ <td>Varies, most areas are low</td>
+ </tr>
+ <tr>
+ <td width="150"><b>Realism rating:</b></td>
+ <td>8/10 (a few errors, including something quite odd
+ with one of the mobiles, but that&#146;s not surprising
+ in a quest this big, and I know Umbrarg does fix them)</td>
+ </tr>
+</table>
+<p><b>Analysis:</b> A huge, sprawling monster of a quest,
+with many separate areas with their own treasure. Rather the
+opposite of Agrazag&#146;s quest, where you&#146;re working in a
+small area towards a single goal. It has a somewhat more modern feel
+than most of the main Land - the town actually has shops and a
+dentist, albeit a rather scary one. Many lovely and beautiful
+locations, at least two mazes (possibly more - I still
+haven&#146;t got into the damn quarry cave area), some nice
+puzzles - and a flying machine, that no-one seems to have got to
+work yet (as far as I know). Some of the areas include the
+mountain with its scree slopes, a fishing town with a lighthouse,
+shops, houses and a boat, the pine wood with the wasps floating
+around, the caves beneath the isle, the salt mines and a mansion
+guarded by a daemon.</p>
+<p>This quest has more possibilities for abuse than
+Agrazag&#146;s, as you can bring items in and out of it. However,
+the trawler takes time to get to and from the isle, preventing
+people mixing up the main Land and the Isle&#146;s items
+too much - a trick also employed by Cat&#146;s balloon quest.</p>
+<p>All being well, the server staying upright and Cat returning
+from his holiday, I&#146;ll get to see some more quests in depth
+by next issue, so I&#146;ll have a go at them then.</p>
+Have fun!
+<p>
+<b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Apeomancer (aka Maxmage)</b>
+<p>&nbsp;</p>
+<p><i>P.S. A quick, non-MUD related plug - do visit
+</i><a href="http://members.xoom.com/thenorm42"><i>http://members.xoom.com/thenorm42</a>, my site with many downloadable Real Audio files from my favourite band, the Mission. Also visit </i><a
+href="http://www.theawkwardsmiles.freeserve.co.uk"><i>http://www.theawkwardsmiles.freeserve.co.uk/</i></a><em><i>
+- the homepage of my friends, the great Awkward smiles!</i></em></p>
+<p><em><i>P.P.S. Trying Umby&#146;s quest again, and some wretch
+summoned me to the cbc ... I feel that summoning from quests
+is grossly unfair, people doing them have enough to think about! </i></em></p>
+<p><br clear=all><div align="right">... <a href="issue.fod_IssueId_3">click here</a> to return to the front page.</div>
+ </td></tr>
+ <tr><td>
+ </td></tr>
+ </table>
+</td></tr>
+</table>
+</body>
+</html>
