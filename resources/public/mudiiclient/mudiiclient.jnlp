@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <jnlp spec="1.0+"
-	codebase="http://mud2.net/mudiiclient/download/"
+	codebase="http://mud2.net/mudiiclient/"
 	href="mudiiclient.jnlp">
 	<information>
   		<title>mudiiclient</title>
