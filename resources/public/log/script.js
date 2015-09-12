@@ -10,5 +10,5 @@ script.charset = "utf-8";
 document.getElementsByTagName('head')[0].appendChild(script);
 
 script = document.createElement('script');
-script.src = "http:/mud2.net/log/timeline.js";
+script.src = "http://mud2.net/log/timeline.js";
 document.getElementsByTagName('head')[0].appendChild(script);
